@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "state=true": {
+      "model": "thaumcraft:block/table"
+    },
+    "state=false": {
+      "model": "thaumcraft:block/table",
+      "y": 90
+    }
+  }
+}

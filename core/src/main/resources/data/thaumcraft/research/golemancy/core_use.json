@@ -1,0 +1,49 @@
+{
+  "column": -7,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_use"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.core_use.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.core_use.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/golem_core_use"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.core_use.page.3"
+    }
+  ],
+  "parents": [
+    "golem_core_empty",
+    "infusion"
+  ],
+  "row": 0,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "machina"
+    },
+    {
+      "amount": 3,
+      "key": "humanus"
+    }
+  ]
+}

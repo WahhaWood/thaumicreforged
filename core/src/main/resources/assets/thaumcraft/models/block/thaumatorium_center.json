@@ -1,0 +1,16 @@
+{
+  "render_type": "cutout",
+  "parent": "minecraft:block/block",
+	"loader": "neoforge:obj",
+	"flip_v": true,
+	"model": "thaumcraft:models/obj/thaumatorium_center.obj",
+	"textures": {
+		"texture0": "thaumcraft:block/model/thaumatorium",
+		"particle": "thaumcraft:block/model/thaumatorium"
+	},
+	"transform": {
+		"origin": "center",
+		"translation": [ 0.5, 0, -1.5 ],
+		"rotation": [ -90, 0, 0 ]
+	}
+}

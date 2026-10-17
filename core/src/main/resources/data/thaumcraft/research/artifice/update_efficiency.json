@@ -1,0 +1,44 @@
+{
+  "column": -2,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:efficiency_rune"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.update_efficiency.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/efficiency_rune"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.update_efficiency.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/matrix_efficiency"
+    }
+  ],
+  "parents": [
+    "update_matrix"
+  ],
+  "row": 13,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    }
+  ]
+}

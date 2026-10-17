@@ -1,0 +1,6 @@
+{
+  "parent": "thaumcraft:item/golem_flesh_adv",
+  "textures": {
+    "layer2": "thaumcraft:item/golem/over_core"
+  }
+}

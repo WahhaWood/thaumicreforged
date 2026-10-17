@@ -1,0 +1,42 @@
+{
+  "column": 0,
+  "complexity": 1,
+  "concealed": true,
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "industrialreforged"
+    }
+  ],
+  "icon": {
+    "item": "thaumcraft:silver_cluster"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.pure_silver.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/silver_cluster"
+    }
+  ],
+  "parents": [
+    "pure_iron"
+  ],
+  "row": 9,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 2,
+      "key": "ordo"
+    },
+    {
+      "key": "lucrum"
+    }
+  ]
+}

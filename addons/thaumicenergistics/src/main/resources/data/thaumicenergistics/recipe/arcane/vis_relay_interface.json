@@ -1,0 +1,42 @@
+﻿{
+    "type":  "thaumcraft:shapeless_arcane",
+    "aspects":  [
+                    {
+                        "amount":  2,
+                        "key":  "aer"
+                    },
+                    {
+                        "amount":  2,
+                        "key":  "terra"
+                    },
+                    {
+                        "amount":  2,
+                        "key":  "perditio"
+                    },
+                    {
+                        "amount":  2,
+                        "key":  "ignis"
+                    },
+                    {
+                        "amount":  2,
+                        "key":  "ordo"
+                    },
+                    {
+                        "amount":  2,
+                        "key":  "aqua"
+                    }
+                ],
+    "category":  "misc",
+    "ingredients":  [
+                        {
+                            "item":  "thaumcraft:balanced_shard"
+                        },
+                        {
+                            "item":  "ae2:me_p2p_tunnel"
+                        }
+                    ],
+    "research":  "te_vis_relay_interface",
+    "result":  {
+                   "id":  "thaumicenergistics:vis_interface"
+               }
+}

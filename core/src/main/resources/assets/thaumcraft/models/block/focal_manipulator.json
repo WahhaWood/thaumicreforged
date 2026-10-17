@@ -1,0 +1,11 @@
+{
+	"parent": "thaumcraft:block/arcane_workbench",
+	"textures": {
+		"north": "thaumcraft:block/focal_manipulator_north",
+		"east": "thaumcraft:block/focal_manipulator_east",
+		"south": "thaumcraft:block/focal_manipulator_south",
+		"west": "thaumcraft:block/focal_manipulator_west",
+		"top": "thaumcraft:block/focal_manipulator_top",
+		"bottom": "thaumcraft:block/focal_manipulator_bottom"
+	}
+}

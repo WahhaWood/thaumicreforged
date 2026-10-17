@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "inert=true,outer=false": {
+      "model": "thaumcraft:block/eldritch_altar"
+    },
+    "inert=false,outer=false": {
+      "model": "thaumcraft:block/eldritch_altar_active"
+    },
+    "inert=true,outer=true": {
+      "model": "thaumcraft:block/eldritch_altar_outer"
+    },
+    "inert=false,outer=true": {
+      "model": "thaumcraft:block/eldritch_altar_outer"
+    }
+  }
+}

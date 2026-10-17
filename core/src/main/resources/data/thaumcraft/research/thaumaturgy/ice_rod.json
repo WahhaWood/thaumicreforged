@@ -1,0 +1,42 @@
+{
+  "column": -7,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:wand_rod_ice"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ice_rod.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/ice_wand_rod"
+    }
+  ],
+  "parents": [
+    "greatwood_rod",
+    "infusion"
+  ],
+  "row": 4,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 6,
+      "key": "gelum"
+    },
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

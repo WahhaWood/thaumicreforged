@@ -1,0 +1,41 @@
+{
+  "column": -7,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:elemental_shovel"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.elemental_shovel.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/elemental_shovel"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.elemental_shovel.page.2"
+    }
+  ],
+  "parents": [
+    "thaumium",
+    "infusion"
+  ],
+  "row": 6,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 3,
+      "key": "terra"
+    },
+    {
+      "amount": 3,
+      "key": "fabrico"
+    }
+  ]
+}

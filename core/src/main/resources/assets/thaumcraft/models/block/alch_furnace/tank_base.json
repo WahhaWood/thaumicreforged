@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:block/block",
+	"loader": "neoforge:obj",
+	"flip_v": true,
+	"model": "thaumcraft:models/obj/alch_furnace_tank.obj",
+	"textures": {
+		"particle": "#texture0"
+	},
+	"transform": {
+		"origin": "center",
+		"translation": [ -0.5, -1, -0.5 ],
+		"rotation": [ -90, 0, 0 ]
+	}
+}

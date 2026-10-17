@@ -1,0 +1,51 @@
+{
+  "column": -3,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumcraft:focal_manipulator"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focal_manipulator.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/focal_manipulator"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.focal_manipulator.page.2"
+    }
+  ],
+  "parents": [
+    "vis_power"
+  ],
+  "parents_hidden": [
+    "infusion",
+    "focus_fire"
+  ],
+  "row": -8,
+  "tags": [
+    {
+      "amount": 8,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 8,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 5,
+      "key": "fabrico"
+    },
+    {
+      "amount": 5,
+      "key": "vitreus"
+    },
+    {
+      "amount": 5,
+      "key": "potentia"
+    }
+  ]
+}

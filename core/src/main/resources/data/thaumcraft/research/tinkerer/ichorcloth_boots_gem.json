@@ -1,0 +1,38 @@
+{
+  "column": 15,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_gem_boots"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichorcloth_boots_gem.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/ichor_gem_boots"
+    }
+  ],
+  "parents": [
+    "ichorcloth_armor"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 10,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "terra"
+    },
+    {
+      "key": "iter"
+    },
+    {
+      "key": "perfodio"
+    },
+    {
+      "key": "herba"
+    }
+  ]
+}

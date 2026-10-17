@@ -1,0 +1,28 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 4,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 4,
+      "key": "ordo"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:iron_pickaxe"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "minecraft:efficiency",
+  "instability": 2,
+  "research": "infusion_enchantment"
+}

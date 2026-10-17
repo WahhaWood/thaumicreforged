@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "neoforge:obj",
+  "flip_v": true,
+  "model": "thaumicenergistics:models/obj/me_fluid_manipulator.obj",
+  "textures": {
+    "texture0": "thaumicenergistics:block/model/essentia_provider",
+    "particle": "thaumicenergistics:block/model/essentia_provider"
+  },
+  "transform": {
+    "origin": "center",
+    "translation": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  }
+}

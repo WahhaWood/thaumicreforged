@@ -1,0 +1,48 @@
+{
+  "column": -2,
+  "complexity": 1,
+  "concealed": true,
+  "conditions": [
+    {
+      "type": "neoforge:or",
+      "values": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "mekanism"
+        },
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "industrialreforged"
+        }
+      ]
+    }
+  ],
+  "icon": {
+    "item": "thaumcraft:lead_cluster"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.pure_lead.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/lead_cluster"
+    }
+  ],
+  "parents": [
+    "pure_iron"
+  ],
+  "row": 9,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    }
+  ]
+}

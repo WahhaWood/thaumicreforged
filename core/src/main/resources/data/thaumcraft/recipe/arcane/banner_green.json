@@ -1,0 +1,35 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 5,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "minecraft:green_wool"
+    }
+  },
+  "pattern": [
+    "WS",
+    "WS",
+    "WB"
+  ],
+  "research": "banners",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:green_banner"
+  }
+}

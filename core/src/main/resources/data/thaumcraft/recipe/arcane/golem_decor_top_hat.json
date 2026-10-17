@@ -1,0 +1,32 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "ordo"
+    },
+    {
+      "amount": 8,
+      "key": "ignis"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:black_wool"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    " C ",
+    " G ",
+    "CCC"
+  ],
+  "research": "golem_decor_top_hat",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_decor_top_hat"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "column": 2,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:focus_fire"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_fire.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.focus_fire.page.2"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/focus_fire"
+    }
+  ],
+  "parents": [
+    "basic_thaumaturgy"
+  ],
+  "row": -2,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "ignis"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

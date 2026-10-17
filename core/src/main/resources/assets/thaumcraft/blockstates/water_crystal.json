@@ -1,0 +1,33 @@
+{
+  "multipart": [
+    {"when": {"down": "true", "size": "0"}, "apply": {"model": "thaumcraft:block/crystal_0"}},
+    {"when": {"down": "true", "size": "1"}, "apply": {"model": "thaumcraft:block/crystal_1"}},
+    {"when": {"down": "true", "size": "2"}, "apply": {"model": "thaumcraft:block/crystal_2"}},
+    {"when": {"down": "true", "size": "3"}, "apply": {"model": "thaumcraft:block/crystal_3"}},
+
+    {"when": {"up": "true", "size": "0"}, "apply": {"model": "thaumcraft:block/crystal_0", "x": 180}},
+    {"when": {"up": "true", "size": "1"}, "apply": {"model": "thaumcraft:block/crystal_1", "x": 180}},
+    {"when": {"up": "true", "size": "2"}, "apply": {"model": "thaumcraft:block/crystal_2", "x": 180}},
+    {"when": {"up": "true", "size": "3"}, "apply": {"model": "thaumcraft:block/crystal_3", "x": 180}},
+
+    {"when": {"north": "true", "size": "0"}, "apply": {"model": "thaumcraft:block/crystal_0", "x": 270, "y": 0}},
+    {"when": {"north": "true", "size": "1"}, "apply": {"model": "thaumcraft:block/crystal_1", "x": 270, "y": 0}},
+    {"when": {"north": "true", "size": "2"}, "apply": {"model": "thaumcraft:block/crystal_2", "x": 270, "y": 0}},
+    {"when": {"north": "true", "size": "3"}, "apply": {"model": "thaumcraft:block/crystal_3", "x": 270, "y": 0}},
+
+    {"when": {"south": "true", "size": "0"}, "apply": {"model": "thaumcraft:block/crystal_0", "x": 90, "y": 0}},
+    {"when": {"south": "true", "size": "1"}, "apply": {"model": "thaumcraft:block/crystal_1", "x": 90, "y": 0}},
+    {"when": {"south": "true", "size": "2"}, "apply": {"model": "thaumcraft:block/crystal_2", "x": 90, "y": 0}},
+    {"when": {"south": "true", "size": "3"}, "apply": {"model": "thaumcraft:block/crystal_3", "x": 90, "y": 0}},
+
+    {"when": {"west": "true", "size": "0"}, "apply": {"model": "thaumcraft:block/crystal_0", "x": 90, "y": 90}},
+    {"when": {"west": "true", "size": "1"}, "apply": {"model": "thaumcraft:block/crystal_1", "x": 90, "y": 90}},
+    {"when": {"west": "true", "size": "2"}, "apply": {"model": "thaumcraft:block/crystal_2", "x": 90, "y": 90}},
+    {"when": {"west": "true", "size": "3"}, "apply": {"model": "thaumcraft:block/crystal_3", "x": 90, "y": 90}},
+
+    {"when": {"east": "true", "size": "0"}, "apply": {"model": "thaumcraft:block/crystal_0", "x": 90, "y": 270}},
+    {"when": {"east": "true", "size": "1"}, "apply": {"model": "thaumcraft:block/crystal_1", "x": 90, "y": 270}},
+    {"when": {"east": "true", "size": "2"}, "apply": {"model": "thaumcraft:block/crystal_2", "x": 90, "y": 270}},
+    {"when": {"east": "true", "size": "3"}, "apply": {"model": "thaumcraft:block/crystal_3", "x": 90, "y": 270}}
+  ]
+}

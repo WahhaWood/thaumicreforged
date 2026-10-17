@@ -1,0 +1,28 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " QQ",
+    " QQ",
+    "S  "
+  ],
+  "research": "golem_bell",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:iron_bell"
+  }
+}

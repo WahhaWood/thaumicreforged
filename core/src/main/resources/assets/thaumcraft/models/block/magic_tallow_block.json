@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_top",
+  "textures": {
+    "side": "thaumcraft:block/magic_tallow_block",
+    "top": "thaumcraft:block/magic_tallow_block_top"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "column": -2,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_harvest"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_harvest.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_core_harvest"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_harvest.page.2"
+    }
+  ],
+  "parents": [
+    "golem_core_gather"
+  ],
+  "row": 5,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "meto"
+    },
+    {
+      "amount": 3,
+      "key": "messis"
+    },
+    {
+      "amount": 3,
+      "key": "iter"
+    }
+  ]
+}

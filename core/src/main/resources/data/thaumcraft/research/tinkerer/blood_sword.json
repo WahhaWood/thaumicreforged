@@ -1,0 +1,43 @@
+{
+  "column": -4,
+  "complexity": 3,
+  "icon": {
+    "item": "thaumcraft:blood_sword"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.blood_sword.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.blood_sword.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/blood_sword"
+    }
+  ],
+  "parents": [
+    "cleansing_talisman"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 6,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "fames"
+    },
+    {
+      "key": "telum"
+    },
+    {
+      "key": "corpus"
+    },
+    {
+      "key": "spiritus"
+    }
+  ],
+  "warp": 1
+}

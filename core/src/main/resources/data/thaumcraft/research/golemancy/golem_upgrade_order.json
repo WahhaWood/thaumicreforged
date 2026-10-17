@@ -1,0 +1,33 @@
+{
+  "column": 6,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_upgrade_order"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_upgrade_order.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_upgrade_order"
+    }
+  ],
+  "parents": [
+    "golem_bell"
+  ],
+  "row": 2,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "ordo"
+    },
+    {
+      "amount": 3,
+      "key": "cognitio"
+    }
+  ]
+}

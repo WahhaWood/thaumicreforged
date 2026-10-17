@@ -1,0 +1,58 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_es_1",
+        "weight": 1
+      },
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_es_2",
+        "weight": 1
+      },
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_es_3",
+        "weight": 1
+      },
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_es_4",
+        "weight": 1
+      }
+    ],
+    "type=top": [
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_top_es_1",
+        "weight": 1
+      },
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_top_es_2",
+        "weight": 1
+      },
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_top_es_3",
+        "weight": 1
+      },
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_top_es_4",
+        "weight": 1
+      }
+    ],
+    "type=double": [
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_double_es_1",
+        "weight": 1
+      },
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_double_es_2",
+        "weight": 1
+      },
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_double_es_3",
+        "weight": 1
+      },
+      {
+        "model": "thaumcraft:block/eldritch_stone_slab_double_es_4",
+        "weight": 1
+      }
+    ]
+  }
+}

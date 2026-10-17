@@ -1,0 +1,38 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 5,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "thaumcraft:vis_filter"
+    },
+    "T": {
+      "item": "thaumcraft:essence_tube"
+    },
+    "V": {
+      "item": "thaumcraft:essence_valve"
+    },
+    "W": {
+      "item": "thaumcraft:greatwood_planks"
+    }
+  },
+  "pattern": [
+    "VTF",
+    "TWT",
+    "FTV"
+  ],
+  "research": "distilessence",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:alchemical_construct"
+  }
+}

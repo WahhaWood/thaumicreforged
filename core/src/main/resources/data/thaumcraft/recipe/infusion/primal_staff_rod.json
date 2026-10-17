@@ -1,0 +1,68 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "aer"
+    },
+    {
+      "amount": 32,
+      "key": "ignis"
+    },
+    {
+      "amount": 32,
+      "key": "aqua"
+    },
+    {
+      "amount": 32,
+      "key": "terra"
+    },
+    {
+      "amount": 32,
+      "key": "ordo"
+    },
+    {
+      "amount": 32,
+      "key": "perditio"
+    },
+    {
+      "amount": 64,
+      "key": "praecantatio"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:wand_rod_silverwood"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:primal_charm"
+    },
+    {
+      "item": "thaumcraft:wand_rod_obsidian"
+    },
+    {
+      "item": "thaumcraft:wand_rod_ice"
+    },
+    {
+      "item": "thaumcraft:wand_rod_quartz"
+    },
+    {
+      "item": "thaumcraft:primal_charm"
+    },
+    {
+      "item": "thaumcraft:wand_rod_reed"
+    },
+    {
+      "item": "thaumcraft:wand_rod_blaze"
+    },
+    {
+      "item": "thaumcraft:wand_rod_bone"
+    }
+  ],
+  "instability": 8,
+  "research": "primal_staff_rod",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:staff_rod_primal"
+  }
+}

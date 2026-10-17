@@ -1,0 +1,142 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": [
+        {
+          "model": "thaumcraft:block/fibrous_taint_north_blank",
+          "weight": 95
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_north_over_1",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_north_over_2",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_north_over_3",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": [
+        {
+          "model": "thaumcraft:block/fibrous_taint_south_blank",
+          "weight": 95
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_south_over_1",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_south_over_2",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_south_over_3",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": [
+        {
+          "model": "thaumcraft:block/fibrous_taint_west_blank",
+          "weight": 95
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_west_over_1",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_west_over_2",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_west_over_3",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": [
+        {
+          "model": "thaumcraft:block/fibrous_taint_east_blank",
+          "weight": 95
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_east_over_1",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_east_over_2",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_east_over_3",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": [
+        {
+          "model": "thaumcraft:block/fibrous_taint_up_blank",
+          "weight": 95
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_up_over_1",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_up_over_2",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_up_over_3",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "when": {
+        "down": "true"
+      },
+      "apply": [
+        {
+          "model": "thaumcraft:block/fibrous_taint_down_blank",
+          "weight": 95
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_down_over_1",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_down_over_2",
+          "weight": 2
+        },
+        {
+          "model": "thaumcraft:block/fibrous_taint_down_over_3",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

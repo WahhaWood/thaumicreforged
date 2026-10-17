@@ -1,0 +1,37 @@
+{
+  "column": 1,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_frost"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_frost.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/focus_frost"
+    }
+  ],
+  "parents": [
+    "focus_fire"
+  ],
+  "row": -5,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 6,
+      "key": "gelum"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿{
+    "type":  "thaumcraft:shaped_arcane",
+    "aspects":  [
+                    {
+                        "amount":  10,
+                        "key":  "aer"
+                    },
+                    {
+                        "amount":  10,
+                        "key":  "ignis"
+                    }
+                ],
+    "category":  "misc",
+    "key":  {
+                "A":  {
+                          "item":  "thaumcraft:air_shard"
+                      },
+                "F":  {
+                          "item":  "thaumcraft:fire_shard"
+                      },
+                "N":  {
+                          "item":  "minecraft:quartz"
+                      },
+                "W":  {
+                          "item":  "ae2:certus_quartz_wrench"
+                      }
+            },
+    "pattern":  [
+                    "ANF",
+                    "NWN",
+                    "FNA"
+                ],
+    "research":  "te_focus_wrench",
+    "result":  {
+                   "id":  "thaumicenergistics:focus_aewrench"
+               }
+}

@@ -1,0 +1,52 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.thaumcraft.focused_strikes"
+  },
+  "exclusive_set": [
+    "minecraft:unbreaking",
+    "thaumcraft:repair",
+    "minecraft:knockback",
+    "minecraft:looting"
+  ],
+  "max_cost": {
+    "base": 65,
+    "per_level_above_first": 9
+  },
+  "max_level": 5,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 9
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": [
+    "minecraft:wooden_sword",
+    "minecraft:wooden_axe",
+    "minecraft:stone_sword",
+    "minecraft:stone_axe",
+    "minecraft:golden_sword",
+    "minecraft:golden_axe",
+    "minecraft:iron_sword",
+    "minecraft:iron_axe",
+    "minecraft:diamond_sword",
+    "minecraft:diamond_axe",
+    "minecraft:netherite_sword",
+    "minecraft:netherite_axe",
+    "minecraft:book",
+    "thaumcraft:thaumium_sword",
+    "thaumcraft:thaumium_axe",
+    "thaumcraft:elemental_sword",
+    "thaumcraft:elemental_axe",
+    "thaumcraft:blood_sword",
+    "thaumcraft:void_sword",
+    "thaumcraft:void_axe",
+    "thaumcraft:ichor_axe",
+    "thaumcraft:ichor_sword",
+    "thaumcraft:ichor_axe_adv",
+    "thaumcraft:ichor_sword_adv",
+    "thaumcraft:crimson_blade"
+  ],
+  "weight": 2
+}

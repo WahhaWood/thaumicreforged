@@ -1,0 +1,40 @@
+{
+  "column": -3,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumicenergistics:infusion_assembler"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.infusion_assembler.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumicenergistics:infusion/infusion_assembler"
+    }
+  ],
+  "parents": [
+    "brain_core"
+  ],
+  "row": -8,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 4,
+      "key": "machina"
+    },
+    {
+      "amount": 3,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "fabrico"
+    }
+  ]
+}

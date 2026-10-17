@@ -1,0 +1,45 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "aqua"
+    },
+    {
+      "amount": 32,
+      "key": "terra"
+    },
+    {
+      "amount": 32,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "N": {
+      "item": "thaumcraft:nitor"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "Q": {
+      "item": "minecraft:quartz_block"
+    },
+    "S": {
+      "item": "thaumcraft:arcane_bricks"
+    }
+  },
+  "pattern": [
+    " G ",
+    "QPQ",
+    "SNS"
+  ],
+  "research": "node_stabilizer",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:node_stabilizer"
+  }
+}

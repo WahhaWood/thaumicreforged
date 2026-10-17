@@ -1,0 +1,27 @@
+{
+  "column": 0,
+  "row": -2,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumicenergistics:coalescence_core"
+  },
+  "parents": [
+    "te_research",
+    "te_pseudo_distilessence"
+  ],
+  "parents_hidden": [
+    "distilessence"
+  ],
+  "tags": [
+    { "amount": 3, "key": "limus" },
+    { "amount": 5, "key": "praecantatio" },
+    { "amount": 5, "key": "machina" },
+    { "amount": 5, "key": "permutatio" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_cores.page.1" },
+    { "type": "text", "key": "tc.research.te_cores.page.2" },
+    { "type": "arcane", "id": "thaumicenergistics:arcane/coalescence_core" },
+    { "type": "arcane", "id": "thaumicenergistics:arcane/diffusion_core" }
+  ]
+}

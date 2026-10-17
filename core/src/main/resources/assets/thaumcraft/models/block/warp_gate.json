@@ -1,0 +1,36 @@
+{
+  "render_type": "translucent",
+  "parent": "block/block",
+  "textures": {
+    "particle": "thaumcraft:block/warp_gate",
+    "base_top": "thaumcraft:block/warp_gate",
+    "base_side": "thaumcraft:block/warp_gate",
+    "overlay": "thaumcraft:block/warp_gate_overlay"
+  },
+  "elements": [
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 16, 16 ],
+      "faces": {
+        "down":  { "texture": "#base_side", "cullface": "down" },
+        "up":    { "texture": "#base_top", "cullface": "up" },
+        "north": { "texture": "#base_side", "cullface": "north" },
+        "south": { "texture": "#base_side", "cullface": "south" },
+        "west":  { "texture": "#base_side", "cullface": "west" },
+        "east":  { "texture": "#base_side", "cullface": "east" }
+      }
+    },
+    {
+      "from": [ -0.1, -0.1, -0.1 ],
+      "to": [ 16.1, 16.1, 16.1 ],
+      "faces": {
+        "down":  { "texture": "#overlay", "tintindex": -1 },
+        "up":    { "texture": "#overlay", "tintindex": -1 },
+        "north": { "texture": "#overlay", "tintindex": -1 },
+        "south": { "texture": "#overlay", "tintindex": -1 },
+        "west":  { "texture": "#overlay", "tintindex": -1 },
+        "east":  { "texture": "#overlay", "tintindex": -1 }
+      }
+    }
+  ]
+}

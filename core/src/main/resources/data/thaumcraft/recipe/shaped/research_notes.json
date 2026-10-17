@@ -1,0 +1,23 @@
+{
+  "type": "thaumcraft:shaped_nbt",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thaumcraft:knowledge_fragment"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "knowledge_fragment": 1
+      }
+    },
+    "count": 1,
+    "id": "thaumcraft:research_notes"
+  }
+}

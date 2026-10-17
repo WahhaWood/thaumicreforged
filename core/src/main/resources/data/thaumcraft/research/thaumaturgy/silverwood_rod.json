@@ -1,0 +1,36 @@
+{
+  "column": -2,
+  "complexity": 3,
+  "icon": {
+    "item": "thaumcraft:wand_rod_silverwood"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.silverwood_rod.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/silverwood_wand_rod"
+    }
+  ],
+  "parents": [
+    "greatwood_rod",
+    "infusion"
+  ],
+  "row": 5,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 6,
+      "key": "arbor"
+    },
+    {
+      "amount": 9,
+      "key": "praecantatio"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "column": 0,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/final_strike.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_final.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_final"
+    }
+  ],
+  "parents": [
+    "ttench_focused",
+    "ttench_dispersed"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 8,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "perditio"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    },
+    {
+      "amount": 3,
+      "key": "telum"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

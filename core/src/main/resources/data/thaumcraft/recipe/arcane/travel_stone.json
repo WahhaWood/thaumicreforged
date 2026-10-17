@@ -1,0 +1,34 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "terra"
+    },
+    {
+      "amount": 10,
+      "key": "aer"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "thaumcraft:air_shard"
+    },
+    "B": {
+      "item": "thaumcraft:earth_shard"
+    },
+    "S": {
+      "item": "thaumcraft:arcane_bricks"
+    }
+  },
+  "pattern": [
+    "SAS",
+    "SBS"
+  ],
+  "research": "pave_travel",
+  "result": {
+    "count": 4,
+    "id": "thaumcraft:travel_stone"
+  }
+}

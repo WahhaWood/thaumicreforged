@@ -1,0 +1,29 @@
+{
+  "column": 4,
+  "row": -3,
+  "complexity": 4,
+  "concealed": true,
+  "icon": {
+    "item": "thaumicenergistics:arcane_assembler_2"
+  },
+  "parents": [
+    "arcane_assembler_1"
+  ],
+  "tags": [
+    { "amount": 5, "key": "fabrico" },
+    { "amount": 5, "key": "machina" },
+    { "amount": 4, "key": "auram" },
+    { "amount": 4, "key": "vacuos" },
+    { "amount": 3, "key": "metallum" }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.te_arcane_assembler_2.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumicenergistics:arcane_assembler_2"
+    }
+  ]
+}

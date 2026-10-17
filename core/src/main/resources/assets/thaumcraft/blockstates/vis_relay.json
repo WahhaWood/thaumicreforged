@@ -1,0 +1,30 @@
+{
+	"variants": {
+		"facing=down": {
+			"model": "thaumcraft:block/vis_relay_base"
+		},
+		"facing=up": {
+			"model": "thaumcraft:block/vis_relay_base",
+			"x": 180
+		},
+		"facing=north": {
+			"model": "thaumcraft:block/vis_relay_base",
+			"x": 270
+		},
+		"facing=south": {
+			"model": "thaumcraft:block/vis_relay_base",
+			"x": 90
+		},
+		"facing=west": {
+			"model": "thaumcraft:block/vis_relay_base",
+			"x": 90,
+			"y": 90
+		},
+		"facing=east": {
+			"model": "thaumcraft:block/vis_relay_base",
+			"x": 90,
+			"y": 270
+		}
+	}
+}
+

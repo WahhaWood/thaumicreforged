@@ -1,0 +1,35 @@
+{
+  "column": 2,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:wand_cap_copper"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.copper_cap.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/copper_wand_cap"
+    }
+  ],
+  "parents": [
+    "basic_thaumaturgy"
+  ],
+  "row": 0,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    }
+  ]
+}

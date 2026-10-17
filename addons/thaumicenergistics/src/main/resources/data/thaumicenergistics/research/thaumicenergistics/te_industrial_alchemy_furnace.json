@@ -1,0 +1,28 @@
+{
+  "column": -7,
+  "row": -2,
+  "complexity": 3,
+  "concealed": true,
+  "special": true,
+  "icon": {
+    "item": "thaumicenergistics:industrial_alchemy_furnace"
+  },
+  "parents": [
+    "te_infusion_provider",
+    "te_pseudo_adv_alchemy_furnace"
+  ],
+  "parents_hidden": [
+    "adv_alchemy_furnace"
+  ],
+  "tags": [
+    { "amount": 3, "key": "machina" },
+    { "amount": 3, "key": "praecantatio" },
+    { "amount": 7, "key": "permutatio" },
+    { "amount": 7, "key": "motus" },
+    { "amount": 5, "key": "sensus" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_industrial_alchemy_furnace.page.1" },
+    { "type": "infusion", "id": "thaumicenergistics:infusion/industrial_alchemy_furnace" }
+  ]
+}

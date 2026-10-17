@@ -1,0 +1,34 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "sensus"
+    },
+    {
+      "amount": 6,
+      "key": "telum"
+    },
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "minecraft:arrow"
+    },
+    {
+      "item": "thaumcraft:order_shard"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "thaumcraft:quick_draw",
+  "instability": 2,
+  "research": "ttench_quick_draw"
+}

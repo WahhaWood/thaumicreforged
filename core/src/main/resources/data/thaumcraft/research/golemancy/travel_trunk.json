@@ -1,0 +1,65 @@
+{
+  "column": 0,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:trunk_spawner"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.travel_trunk.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/trunk_spawner"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.travel_trunk.page.UAI"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.travel_trunk.page.UEA"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.travel_trunk.page.UFI"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.travel_trunk.page.UWA"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.travel_trunk.page.UOR"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.travel_trunk.page.UEN"
+    }
+  ],
+  "parents": [
+    "infusion",
+    "golem_wood"
+  ],
+  "row": 4,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "spiritus"
+    },
+    {
+      "amount": 3,
+      "key": "iter"
+    },
+    {
+      "amount": 3,
+      "key": "arbor"
+    },
+    {
+      "amount": 3,
+      "key": "vacuos"
+    }
+  ]
+}

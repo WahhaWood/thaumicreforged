@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "thaumcraft:block/dislocator_side",
+    "top": "thaumcraft:block/dislocator_vertical_side",
+    "bottom": "thaumcraft:block/dislocator_vertical_side",
+    "side": "thaumcraft:block/dislocator_side"
+  }
+}

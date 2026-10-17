@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "thaumcraft:wisp_essence",
+          "functions": [
+            {
+              "function": "thaumcraft:set_wisp_essence_aspects"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

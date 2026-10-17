@@ -1,0 +1,33 @@
+{
+  "column": 5,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_upgrade_fire"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_upgrade_fire.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_upgrade_fire"
+    }
+  ],
+  "parents": [
+    "golem_bell"
+  ],
+  "row": -1,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "ignis"
+    },
+    {
+      "amount": 3,
+      "key": "potentia"
+    }
+  ]
+}

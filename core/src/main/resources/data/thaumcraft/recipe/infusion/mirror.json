@@ -1,0 +1,40 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "iter"
+    },
+    {
+      "amount": 8,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 8,
+      "key": "permutatio"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:mirror_glass"
+  },
+  "components": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "instability": 1,
+  "research": "mirror",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:mirror"
+  }
+}

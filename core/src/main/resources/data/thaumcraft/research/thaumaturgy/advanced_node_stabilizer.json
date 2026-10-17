@@ -1,0 +1,41 @@
+{
+  "column": -8,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:advanced_node_stabilizer"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.advanced_node_stabilizer.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/advanced_node_stabilizer"
+    }
+  ],
+  "parents": [
+    "node_stabilizer"
+  ],
+  "row": -3,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 9,
+      "key": "auram"
+    },
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 6,
+      "key": "ordo"
+    },
+    {
+      "amount": 6,
+      "key": "potentia"
+    }
+  ]
+}

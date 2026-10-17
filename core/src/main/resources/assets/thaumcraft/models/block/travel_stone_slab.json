@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "thaumcraft:block/travel_stone",
+    "top": "thaumcraft:block/travel_stone",
+    "side": "thaumcraft:block/travel_stone"
+  }
+}

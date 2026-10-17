@@ -1,0 +1,43 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 10,
+      "key": "ordo"
+    },
+    {
+      "amount": 5,
+      "key": "terra"
+    },
+    {
+      "amount": 5,
+      "key": "ignis"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "thaumcraft:zombie_brain"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "W": {
+      "item": "thaumcraft:greatwood_planks"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "WBW",
+    "GGG"
+  ],
+  "research": "warded_arcana",
+  "result": {
+    "count": 8,
+    "id": "thaumcraft:warded_glass"
+  }
+}

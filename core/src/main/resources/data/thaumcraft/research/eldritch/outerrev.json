@@ -1,0 +1,36 @@
+{
+  "column": -5,
+  "complexity": 1,
+  "icon": "thaumcraft:textures/misc/r_outerrev.png",
+  "item_triggers": [
+    {
+      "item": "thaumcraft:glyphed_stone"
+    },
+    {
+      "item": "thaumcraft:runed_stone"
+    }
+  ],
+  "lost": true,
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.outerrev.page.1"
+    }
+  ],
+  "parents": [
+    "ender_outer"
+  ],
+  "row": 3,
+  "secondary": true,
+  "special": true,
+  "tags": [
+    {
+      "amount": 4,
+      "key": "alienis"
+    },
+    {
+      "amount": 4,
+      "key": "cognitio"
+    }
+  ]
+}

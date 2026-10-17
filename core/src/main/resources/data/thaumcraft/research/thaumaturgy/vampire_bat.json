@@ -1,0 +1,33 @@
+{
+  "column": 4,
+  "complexity": 1,
+  "icon": "thaumcraft:textures/foci/vampirebats.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "focus.upgrade.vampirebats.text"
+    }
+  ],
+  "parents": [
+    "focus_hell_bat"
+  ],
+  "parents_hidden": [
+    "focal_manipulator"
+  ],
+  "row": -8,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "fames"
+    },
+    {
+      "amount": 5,
+      "key": "victus"
+    },
+    {
+      "amount": 5,
+      "key": "praecantatio"
+    }
+  ]
+}

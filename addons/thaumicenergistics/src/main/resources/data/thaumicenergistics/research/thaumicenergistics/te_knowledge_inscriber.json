@@ -1,0 +1,25 @@
+{
+  "column": 6,
+  "row": 0,
+  "complexity": 1,
+  "secondary": true,
+  "concealed": true,
+  "icon": {
+    "item": "thaumicenergistics:knowledge_inscriber"
+  },
+  "parents": [
+    "te_arcane_assembler"
+  ],
+  "tags": [
+    { "amount": 5, "key": "cognitio" },
+    { "amount": 3, "key": "machina" },
+    { "amount": 3, "key": "fabrico" },
+    { "amount": 1, "key": "permutatio" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_knowledge_inscriber.page.1" },
+    { "type": "arcane", "id": "thaumicenergistics:arcane/knowledge_core" },
+    { "type": "arcane", "id": "thaumicenergistics:arcane/knowledge_inscriber" },
+    { "type": "text", "key": "tc.research.te_knowledge_inscriber.page.2" }
+  ]
+}

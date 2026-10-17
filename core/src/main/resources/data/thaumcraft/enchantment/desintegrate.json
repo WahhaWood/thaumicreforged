@@ -1,0 +1,68 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.thaumcraft.desintegrate"
+  },
+  "exclusive_set": [
+    "minecraft:unbreaking",
+    "thaumcraft:repair"
+  ],
+  "max_cost": {
+    "base": 60,
+    "per_level_above_first": 10
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 20,
+    "per_level_above_first": 10
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": [
+    "minecraft:wooden_shovel",
+    "minecraft:wooden_pickaxe",
+    "minecraft:wooden_axe",
+    "minecraft:wooden_hoe",
+    "minecraft:stone_shovel",
+    "minecraft:stone_pickaxe",
+    "minecraft:stone_axe",
+    "minecraft:stone_hoe",
+    "minecraft:golden_shovel",
+    "minecraft:golden_pickaxe",
+    "minecraft:golden_axe",
+    "minecraft:golden_hoe",
+    "minecraft:iron_shovel",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_axe",
+    "minecraft:iron_hoe",
+    "minecraft:diamond_shovel",
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_axe",
+    "minecraft:diamond_hoe",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_axe",
+    "minecraft:netherite_hoe",
+    "thaumcraft:primal_crusher",
+    "thaumcraft:thaumium_shovel",
+    "thaumcraft:thaumium_pickaxe",
+    "thaumcraft:thaumium_axe",
+    "thaumcraft:thaumium_hoe",
+    "thaumcraft:elemental_shovel",
+    "thaumcraft:elemental_pickaxe",
+    "thaumcraft:elemental_axe",
+    "thaumcraft:elemental_hoe",
+    "thaumcraft:void_shovel",
+    "thaumcraft:void_pickaxe",
+    "thaumcraft:void_axe",
+    "thaumcraft:void_hoe",
+    "thaumcraft:ichor_pickaxe",
+    "thaumcraft:ichor_axe",
+    "thaumcraft:ichor_shovel",
+    "thaumcraft:ichor_pickaxe_adv",
+    "thaumcraft:ichor_axe_adv",
+    "thaumcraft:ichor_shovel_adv"
+  ],
+  "weight": 2
+}

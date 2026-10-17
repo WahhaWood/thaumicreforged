@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "cognitio"
+    },
+    {
+      "amount": 4,
+      "key": "machina"
+    },
+    {
+      "amount": 4,
+      "key": "auram"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:order_crystal_cluster"
+  },
+  "research": "update_efficiency",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:efficiency_rune"
+  }
+}

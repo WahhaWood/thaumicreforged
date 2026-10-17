@@ -1,0 +1,55 @@
+{
+  "column": 5,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:arcane_alembic"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.distilessence.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/alchemy_furnace"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.distilessence.page.2"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/vis_filter"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/arcane_alembic"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/alchemical_construct"
+    }
+  ],
+  "parents": [
+    "nitor",
+    "alumentum"
+  ],
+  "row": -1,
+  "siblings": [
+    "jar_label"
+  ],
+  "tags": [
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "limus"
+    }
+  ]
+}

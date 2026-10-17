@@ -1,0 +1,36 @@
+{
+  "column": 0,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_excavation"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_excavation.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/focus_excavation"
+    }
+  ],
+  "parents": [
+    "focus_fire"
+  ],
+  "row": -3,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "terra"
+    },
+    {
+      "amount": 3,
+      "key": "perditio"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

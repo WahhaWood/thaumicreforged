@@ -1,0 +1,53 @@
+{
+  "column": -3,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:arcane_bore"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.arcane_bore.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/arcane_bore"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.arcane_bore.page.2"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/arcane_bore_base"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.arcane_bore.page.3"
+    }
+  ],
+  "parents": [
+    "focus_excavation",
+    "infusion"
+  ],
+  "row": 8,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "perfodio"
+    },
+    {
+      "amount": 3,
+      "key": "motus"
+    },
+    {
+      "amount": 3,
+      "key": "machina"
+    },
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    }
+  ]
+}

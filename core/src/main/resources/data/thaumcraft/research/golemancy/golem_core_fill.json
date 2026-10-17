@@ -1,0 +1,37 @@
+{
+  "column": -5,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_fill"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_fill.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_core_fill"
+    }
+  ],
+  "parents": [
+    "golem_core_gather"
+  ],
+  "row": 3,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "fames"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "vacuos"
+    }
+  ]
+}

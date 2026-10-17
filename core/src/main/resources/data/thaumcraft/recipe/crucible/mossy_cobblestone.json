@@ -1,0 +1,20 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 2,
+      "key": "herba"
+    },
+    {
+      "key": "praecantatio"
+    }
+  ],
+  "catalyst": {
+    "tag": "c:cobblestones"
+  },
+  "research": "alchemical_manufacture",
+  "result": {
+    "count": 1,
+    "id": "minecraft:mossy_cobblestone"
+  }
+}

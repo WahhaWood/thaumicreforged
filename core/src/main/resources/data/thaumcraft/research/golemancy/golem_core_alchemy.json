@@ -1,0 +1,46 @@
+{
+  "column": -9,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_essence"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_alchemy.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/golem_core_alchemy"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_alchemy.page.2"
+    }
+  ],
+  "parents": [
+    "golem_core_liquid",
+    "infusion"
+  ],
+  "row": 3,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "iter"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "potentia"
+    }
+  ]
+}

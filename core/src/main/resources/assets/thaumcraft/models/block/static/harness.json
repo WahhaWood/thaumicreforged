@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "neoforge:obj",
+  "flip_v": true,
+  "model": "thaumcraft:models/obj/harness.obj",
+  "textures": {
+      "texture0": "thaumcraft:block/model/harness"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "column": -1,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumcraft:gas_shadow"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.gaseous_shadow.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/gaseous_shadow"
+    }
+  ],
+  "parents": [
+    "gaseous_light"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -5,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "tenebrae"
+    },
+    {
+      "key": "aer"
+    },
+    {
+      "amount": 4,
+      "key": "motus"
+    }
+  ]
+}

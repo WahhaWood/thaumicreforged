@@ -1,0 +1,76 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 32,
+      "key": "meto"
+    },
+    {
+      "amount": 64,
+      "key": "perfodio"
+    },
+    {
+      "amount": 16,
+      "key": "sensus"
+    },
+    {
+      "amount": 82,
+      "key": "terra"
+    },
+    {
+      "amount": 16,
+      "key": "vinculum"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:ichor_shovel"
+  },
+  "components": [
+    {
+      "tag": "c:ingots/ichorium"
+    },
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:elemental_shovel"
+    },
+    {
+      "item": "thaumcraft:focus_excavation"
+    },
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "thaumcraft:cinnabar_cluster"
+    },
+    {
+      "item": "thaumcraft:iron_cluster"
+    },
+    {
+      "item": "thaumcraft:gold_cluster"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:focus_excavation"
+    },
+    {
+      "item": "thaumcraft:elemental_shovel"
+    },
+    {
+      "item": "thaumcraft:ichor_cloth"
+    }
+  ],
+  "instability": 15,
+  "research": "ichor_shovel_gem",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:ichor_shovel_adv"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "column": 4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:runic_ring_regen"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.runic_healing.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/runic_ring_regen"
+    }
+  ],
+  "parents": [
+    "runic_armor"
+  ],
+  "row": 3,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    },
+    {
+      "amount": 4,
+      "key": "sano"
+    },
+    {
+      "amount": 4,
+      "key": "aqua"
+    }
+  ]
+}

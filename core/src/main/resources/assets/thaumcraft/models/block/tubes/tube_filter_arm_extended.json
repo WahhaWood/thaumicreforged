@@ -1,0 +1,9 @@
+{
+  "parent": "thaumcraft:block/tubes/template_arm_extended",
+  "ambientocclusion": false,
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "thaumcraft:block/pipe_1",
+    "texture": "thaumcraft:block/pipe_1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "column": 5,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:wand_cap_void"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.void_cap.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/void_inert_wand_cap"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/void_wand_cap"
+    }
+  ],
+  "parents": [
+    "thaumium_cap",
+    "void_metal"
+  ],
+  "row": -1,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "vacuos"
+    },
+    {
+      "amount": 5,
+      "key": "alienis"
+    },
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    }
+  ],
+  "warp": 1
+}

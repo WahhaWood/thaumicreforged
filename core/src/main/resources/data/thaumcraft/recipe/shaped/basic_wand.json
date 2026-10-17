@@ -1,0 +1,27 @@
+{
+  "type": "thaumcraft:shaped_nbt",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "thaumcraft:wand_cap_iron"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  I",
+    " S ",
+    "I  "
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "cap": "iron",
+        "rod": "wood"
+      }
+    },
+    "count": 1,
+    "id": "thaumcraft:wand_casting"
+  }
+}

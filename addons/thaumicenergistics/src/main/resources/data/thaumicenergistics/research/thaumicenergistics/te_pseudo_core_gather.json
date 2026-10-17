@@ -1,0 +1,15 @@
+{
+  "research_type": "thaumicenergistics:pseudo",
+  "column": 1,
+  "row": -6,
+  "complexity": 1,
+  "pseudo_for": "golem_core_gather",
+  "stub": true,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_gather"
+  },
+  "pages": [
+    { "type": "text", "key": "tc.research.golem_core_gather.page.1" }
+  ]
+}

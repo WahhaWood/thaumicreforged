@@ -1,0 +1,40 @@
+{
+  "column": 6,
+  "complexity": 5,
+  "icon": {
+    "item": "thaumcraft:nether_shard"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.nether_shard.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/nether_shard"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/nether_shard"
+    }
+  ],
+  "parents": [
+    "dimension_shards"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 10,
+  "tags": [
+    {
+      "amount": 4,
+      "key": "ignis"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 2,
+      "key": "vitreus"
+    }
+  ]
+}

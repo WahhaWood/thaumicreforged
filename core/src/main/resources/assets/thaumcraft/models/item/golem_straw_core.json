@@ -1,0 +1,6 @@
+{
+  "parent": "thaumcraft:item/golem_straw",
+  "textures": {
+    "layer1": "thaumcraft:item/golem/over_core"
+  }
+}

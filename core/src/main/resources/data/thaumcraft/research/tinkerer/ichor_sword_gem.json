@@ -1,0 +1,42 @@
+{
+  "column": 16,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_sword_adv"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichor_sword_gem.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.ichor_sword_gem.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/ichor_sword_adv"
+    }
+  ],
+  "parents": [
+    "ichor_tools"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 12,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "aer"
+    },
+    {
+      "key": "telum"
+    },
+    {
+      "key": "spiritus"
+    },
+    {
+      "key": "fames"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "thaumcraft:block/repairer" },
+    "facing=south": { "model": "thaumcraft:block/repairer", "y": 180 },
+    "facing=west": { "model": "thaumcraft:block/repairer", "y": 270 },
+    "facing=east": { "model": "thaumcraft:block/repairer", "y": 90 }
+  }
+}

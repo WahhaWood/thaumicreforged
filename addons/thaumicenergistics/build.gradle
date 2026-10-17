@@ -1,0 +1,40 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.147'
+}
+
+version = '1.0.5.1'
+group = 'thaumicenergistics'
+base { archivesName = 'thaumicenergistics' }
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+neoForge {
+    version = project.neo_version
+
+    parchment {
+        mappingsVersion = project.parchment_mappings_version
+        minecraftVersion = project.parchment_minecraft_version
+    }
+
+    runs {
+        server {
+            server()
+            programArgument '--nogui'
+            systemProperty 'tcbridge.port', '9889'
+            gameDirectory = project.file('run-server')
+        }
+    }
+}
+
+repositories {
+    mavenCentral() // AE2
+    maven { name = 'BlameJared'; url = 'https://maven.blamejared.com' }
+    maven { name = 'Curios'; url = 'https://maven.theillusivec4.top/' }
+    maven { name = 'Latvian'; url = 'https://maven.latvian.dev/releases' }
+}
+
+dependencies {
+    compileOnly 'org.appliedenergistics:appliedenergistics2:19.2.18'
+    compileOnly files('libs/thaumcraft.jar')
+}

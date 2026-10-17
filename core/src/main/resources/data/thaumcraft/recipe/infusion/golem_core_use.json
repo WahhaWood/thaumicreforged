@@ -1,0 +1,40 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 20,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 20,
+      "key": "machina"
+    },
+    {
+      "amount": 20,
+      "key": "humanus"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:golem_core_empty"
+  },
+  "components": [
+    {
+      "item": "minecraft:comparator"
+    },
+    {
+      "item": "minecraft:flint_and_steel"
+    },
+    {
+      "item": "minecraft:shears"
+    },
+    {
+      "item": "minecraft:lever"
+    }
+  ],
+  "instability": 3,
+  "research": "core_use",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_core_use"
+  }
+}

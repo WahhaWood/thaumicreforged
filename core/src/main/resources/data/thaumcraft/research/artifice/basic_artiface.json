@@ -1,0 +1,36 @@
+{
+  "autoUnlock": true,
+  "column": 0,
+  "icon": {
+    "item": "thaumcraft:primal_charm"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.basic_artiface.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/primal_charm"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/curios_amulet"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/curios_ring"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/curios_belt"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/mirror_glass"
+    }
+  ],
+  "round": true,
+  "row": 1,
+  "stub": true
+}

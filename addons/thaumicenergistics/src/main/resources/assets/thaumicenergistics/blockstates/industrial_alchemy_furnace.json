@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "thaumicenergistics:block/industrial_alchemy_furnace", "y": 180 },
+    "facing=south": { "model": "thaumicenergistics:block/industrial_alchemy_furnace", "y": 0 },
+    "facing=west": { "model": "thaumicenergistics:block/industrial_alchemy_furnace", "y": 90 },
+    "facing=east": { "model": "thaumicenergistics:block/industrial_alchemy_furnace", "y": 270 }
+  }
+}

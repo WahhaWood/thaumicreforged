@@ -1,0 +1,37 @@
+{
+  "column": -5,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_empty"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_empty.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_core_empty"
+    }
+  ],
+  "parents": [
+    "golem_core_gather"
+  ],
+  "row": 1,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "vacuos"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "lucrum"
+    }
+  ]
+}

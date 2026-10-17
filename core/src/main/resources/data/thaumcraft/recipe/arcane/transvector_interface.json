@@ -1,0 +1,38 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 12,
+      "key": "ordo"
+    },
+    {
+      "amount": 16,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "thaumcraft:obsidian_tile"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "L": {
+      "tag": "c:dyes/blue"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "BRB",
+    "LEL",
+    "BRB"
+  ],
+  "research": "interface",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:transvector_interface"
+  }
+}

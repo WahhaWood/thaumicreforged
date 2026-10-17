@@ -1,0 +1,37 @@
+{
+  "column": 5,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:void_jar"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.void_jar.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/void_jar"
+    }
+  ],
+  "parents": [
+    "jar_label"
+  ],
+  "row": -5,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "perditio"
+    },
+    {
+      "amount": 6,
+      "key": "vacuos"
+    }
+  ]
+}

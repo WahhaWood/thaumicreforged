@@ -1,0 +1,85 @@
+{
+  "column": -9,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:arrow_air"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.primal_arrow.page.1"
+    },
+    {
+      "type": "recipes",
+      "value": [
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/air_arrow"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/fire_arrow"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/water_arrow"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/earth_arrow"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/order_arrow"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/entropy_arrow"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "key": "tc.research.primal_arrow.page.2"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.primal_arrow.page.3"
+    }
+  ],
+  "parents": [
+    "bone_bow"
+  ],
+  "row": 0,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "telum"
+    },
+    {
+      "amount": 3,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "ignis"
+    },
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "terra"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    },
+    {
+      "amount": 3,
+      "key": "perditio"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "tag": "thaumcraft:shards/basics"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    " 1 ",
+    "IGI",
+    " 1 "
+  ],
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:thaumometer"
+  }
+}

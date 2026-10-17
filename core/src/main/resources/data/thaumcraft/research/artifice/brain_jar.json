@@ -1,0 +1,50 @@
+{
+  "column": -5,
+  "complexity": 2,
+  "entity_triggers": [
+    "thaumcraft:brainy_zombie",
+    "thaumcraft:giant_brainy_zombie"
+  ],
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:brain_jar"
+  },
+  "item_triggers": [
+    {
+      "item": "thaumcraft:quicksilver"
+    }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.brain_jar.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/brain_jar"
+    }
+  ],
+  "parents": [
+    "infusion"
+  ],
+  "row": 9,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "fames"
+    },
+    {
+      "amount": 3,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "exanimis"
+    },
+    {
+      "amount": 3,
+      "key": "lucrum"
+    }
+  ],
+  "warp": 3
+}

@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "humanus"
+    },
+    {
+      "amount": 4,
+      "key": "motus"
+    },
+    {
+      "amount": 4,
+      "key": "spiritus"
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:stone"
+  },
+  "research": "golem_stone",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_stone"
+  }
+}

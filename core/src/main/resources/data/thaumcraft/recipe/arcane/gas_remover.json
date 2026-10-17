@@ -1,0 +1,38 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 2,
+      "key": "aer"
+    },
+    {
+      "amount": 2,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "thaumcraft:dark_quartz"
+    },
+    "G": {
+      "item": "thaumcraft:gas_light"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "T": {
+      "item": "thaumcraft:gas_shadow"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "T G",
+    "QQQ"
+  ],
+  "research": "gas_remover",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:gas_removal"
+  }
+}

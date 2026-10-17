@@ -1,0 +1,33 @@
+{
+  "column": 4,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/quick_draw.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_quick_draw.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_quick_draw"
+    }
+  ],
+  "parents": [
+    "enchanter"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 6,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "sensus"
+    },
+    {
+      "key": "telum"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

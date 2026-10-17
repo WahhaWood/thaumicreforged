@@ -1,0 +1,36 @@
+{
+  "column": -4,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:gold_cluster"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.pure_gold.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/gold_cluster"
+    }
+  ],
+  "parents": [
+    "pure_iron"
+  ],
+  "row": 3,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 2,
+      "key": "ordo"
+    },
+    {
+      "key": "lucrum"
+    }
+  ]
+}

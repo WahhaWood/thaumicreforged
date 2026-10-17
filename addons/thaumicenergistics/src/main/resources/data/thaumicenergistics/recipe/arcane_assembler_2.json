@@ -1,0 +1,84 @@
+﻿{
+    "type":  "thaumcraft:infusion",
+    "aspects":  [
+                    {
+                        "amount":  320,
+                        "key":  "humanus"
+                    },
+                    {
+                        "amount":  256,
+                        "key":  "instrumentum"
+                    },
+                    {
+                        "amount":  192,
+                        "key":  "machina"
+                    },
+                    {
+                        "amount":  192,
+                        "key":  "praecantatio"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "vinculum"
+                    }
+                ],
+    "category":  "misc",
+    "central":  {
+                    "item":  "thaumicenergistics:arcane_assembler_1"
+                },
+    "components":  [
+                       {
+                           "tag":  "c:ingots/void"
+                       },
+                       {
+                           "item":  "thaumcraft:bath_salts"
+                       },
+                       {
+                           "item":  "ae2:engineering_processor"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "tag":  "c:ingots/void"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "item":  "ae2:engineering_processor"
+                       },
+                       {
+                           "item":  "thaumcraft:bath_salts"
+                       },
+                       {
+                           "tag":  "c:ingots/void"
+                       },
+                       {
+                           "item":  "thaumcraft:bath_salts"
+                       },
+                       {
+                           "item":  "ae2:engineering_processor"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "tag":  "c:ingots/void"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "item":  "ae2:engineering_processor"
+                       },
+                       {
+                           "item":  "thaumcraft:bath_salts"
+                       }
+                   ],
+    "instability":  13,
+    "research":  "arcane_assembler_2",
+    "result":  {
+                   "id":  "thaumicenergistics:arcane_assembler_2"
+               }
+}

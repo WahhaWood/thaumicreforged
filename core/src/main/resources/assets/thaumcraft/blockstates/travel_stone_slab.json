@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "type=bottom,waterlogged=false": { "model": "thaumcraft:block/travel_stone_slab" },
+    "type=bottom,waterlogged=true": { "model": "thaumcraft:block/travel_stone_slab" },
+    "type=top,waterlogged=false": { "model": "thaumcraft:block/travel_stone_slab_top" },
+    "type=top,waterlogged=true": { "model": "thaumcraft:block/travel_stone_slab_top" },
+    "type=double,waterlogged=false": { "model": "thaumcraft:block/travel_stone_slab_double" },
+    "type=double,waterlogged=true": { "model": "thaumcraft:block/travel_stone_slab_double" }
+  }
+}

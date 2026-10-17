@@ -1,0 +1,29 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "terra"
+    },
+    {
+      "amount": 4,
+      "key": "ignis"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "III",
+    "III",
+    " I "
+  ],
+  "research": "golem_decor_mace",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_decor_mace"
+  }
+}

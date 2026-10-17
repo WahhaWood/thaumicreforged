@@ -1,0 +1,43 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 24,
+      "key": "metallum"
+    },
+    {
+      "amount": 16,
+      "key": "tutamen"
+    },
+    {
+      "amount": 16,
+      "key": "praecantatio"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:thaumium_helmet"
+  },
+  "components": [
+    {
+      "tag": "c:ingots/thaumium"
+    },
+    {
+      "tag": "c:ingots/thaumium"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "instability": 3,
+  "research": "armor_fortress",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:thaumium_fortress_helmet"
+  }
+}

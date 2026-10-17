@@ -1,0 +1,20 @@
+{
+  "autoUnlock": true,
+  "column": 0,
+  "icon": {
+    "item": "thaumcraft:phial_essence"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.phial_essence.page.1"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/phial_essence"
+    }
+  ],
+  "round": true,
+  "row": -2,
+  "stub": true
+}

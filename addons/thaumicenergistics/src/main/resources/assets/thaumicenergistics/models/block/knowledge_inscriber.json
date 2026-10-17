@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "neoforge:obj",
+  "flip_v": true,
+  "model": "thaumicenergistics:models/obj/me_inscriber.obj",
+  "textures": {
+    "texture0": "thaumicenergistics:block/model/knowledge_inscriber",
+    "particle": "thaumicenergistics:block/model/knowledge_inscriber"
+  },
+  "transform": {
+    "origin": "center",
+    "translation": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  }
+}

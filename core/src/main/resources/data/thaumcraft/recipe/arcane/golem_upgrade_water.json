@@ -1,0 +1,28 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "aqua"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "thaumcraft:water_shard"
+    },
+    "N": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "pattern": [
+    "NNN",
+    "NCN",
+    "NNN"
+  ],
+  "research": "golem_upgrade_water",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_upgrade_water"
+  }
+}

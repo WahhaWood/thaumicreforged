@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "neoforge:obj",
+  "flip_v": true,
+  "model": "thaumicenergistics:models/obj/industrial_alchemy_furnace.obj",
+  "textures": {
+    "texture0": "thaumicenergistics:block/model/industrial_alchemy_furnace",
+    "particle": "thaumicenergistics:block/model/industrial_alchemy_furnace"
+  },
+  "transform": {
+    "origin": "center",
+    "translation": [ 0, 0, 0 ],
+    "rotation": [ 0, 0, 0 ]
+  }
+}

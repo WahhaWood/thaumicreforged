@@ -1,0 +1,30 @@
+{
+  "autoUnlock": true,
+  "column": 1,
+  "icon": {
+    "item": "thaumcraft:thaumonomicon"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.thaumonomicon.page.1"
+    },
+    {
+      "type": "formed_structure",
+      "ingredients": [
+        {
+          "item": "thaumcraft:wand_casting"
+        },
+        {
+          "item": "minecraft:bookshelf"
+        }
+      ]
+    }
+  ],
+  "parents": [
+    "research"
+  ],
+  "round": true,
+  "row": -2,
+  "stub": true
+}

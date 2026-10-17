@@ -1,0 +1,28 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "telum"
+    },
+    {
+      "amount": 3,
+      "key": "motus"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:piston"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "minecraft:punch",
+  "instability": 2,
+  "research": "infusion_enchantment"
+}

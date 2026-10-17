@@ -1,0 +1,44 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "iter"
+    },
+    {
+      "amount": 32,
+      "key": "alienis"
+    },
+    {
+      "amount": 32,
+      "key": "volatus"
+    },
+    {
+      "amount": 16,
+      "key": "aer"
+    }
+  ],
+  "central": {
+    "item": "minecraft:ender_pearl"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:ender_shard"
+    },
+    {
+      "item": "minecraft:lapis_block"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "instability": 6,
+  "research": "warp_gate",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:sky_pearl"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "column": -3,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:wand_rod_bone"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.bone_rod.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/bone_wand_rod"
+    }
+  ],
+  "parents": [
+    "greatwood_rod",
+    "infusion"
+  ],
+  "row": 0,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 6,
+      "key": "perditio"
+    },
+    {
+      "amount": 3,
+      "key": "exanimis"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ],
+  "warp": 1
+}

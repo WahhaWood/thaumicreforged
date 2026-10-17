@@ -1,0 +1,36 @@
+{
+  "column": -3,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:symmetry_calculator"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.symmetry_calculator.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/symmetry_calculator"
+    }
+  ],
+  "parents": [
+    "infusion"
+  ],
+  "row": 5,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "ordo"
+    },
+    {
+      "amount": 5,
+      "key": "perditio"
+    },
+    {
+      "amount": 3,
+      "key": "fabrico"
+    }
+  ]
+}

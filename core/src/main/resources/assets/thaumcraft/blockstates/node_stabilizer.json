@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "vertical_direction=up": {
+      "model": "thaumcraft:block/node_stabilizer"
+    },
+    "vertical_direction=down": {
+      "model": "thaumcraft:block/node_stabilizer",
+      "x": 180
+    }
+  }
+}

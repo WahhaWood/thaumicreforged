@@ -1,0 +1,21 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "corpus"
+    },
+    {
+      "amount": 5,
+      "key": "bestia"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:golem_core_blank"
+  },
+  "research": "golem_core_butcher",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_core_butcher"
+  }
+}

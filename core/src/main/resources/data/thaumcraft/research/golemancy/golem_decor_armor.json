@@ -1,0 +1,35 @@
+{
+  "aspect_triggers": [
+    "tutamen"
+  ],
+  "column": 7,
+  "complexity": 1,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:golem_decor_armor"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_decor_armor.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_decor_armor"
+    }
+  ],
+  "row": 11,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "metallum"
+    },
+    {
+      "amount": 2,
+      "key": "tutamen"
+    },
+    {
+      "key": "lucrum"
+    }
+  ]
+}

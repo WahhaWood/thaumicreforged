@@ -1,0 +1,46 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "ignis"
+    },
+    {
+      "amount": 8,
+      "key": "aer"
+    },
+    {
+      "amount": 4,
+      "key": "aqua"
+    },
+    {
+      "amount": 4,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "thaumcraft:amber_block"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "N": {
+      "item": "thaumcraft:nitor"
+    },
+    "S": {
+      "item": "minecraft:daylight_detector"
+    }
+  },
+  "pattern": [
+    " S ",
+    "IAI",
+    " N "
+  ],
+  "research": "arcane_lamp",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:arcane_lamp"
+  }
+}

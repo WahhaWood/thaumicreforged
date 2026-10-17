@@ -1,0 +1,35 @@
+{
+  "column": -5,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:wand_rod_greatwood"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.greatwood_rod.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/greatwood_wand_rod"
+    }
+  ],
+  "parents": [
+    "basic_thaumaturgy"
+  ],
+  "row": 2,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 6,
+      "key": "arbor"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

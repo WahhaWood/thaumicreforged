@@ -1,0 +1,28 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 4,
+      "key": "aer"
+    },
+    {
+      "amount": 4,
+      "key": "volatus"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "minecraft:feather_falling",
+  "instability": 1,
+  "research": "infusion_enchantment"
+}

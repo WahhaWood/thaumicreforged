@@ -1,0 +1,24 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 8,
+      "key": "telum"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "minecraft:sharpness",
+  "instability": 2,
+  "research": "infusion_enchantment"
+}

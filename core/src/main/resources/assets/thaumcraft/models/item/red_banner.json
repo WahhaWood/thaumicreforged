@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_banner",
+  "textures": {
+    "particle": "thaumcraft:block/greatwood_planks"
+  }
+}

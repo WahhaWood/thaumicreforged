@@ -1,0 +1,36 @@
+{
+  "column": 4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_trade"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_trade.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/focus_trade"
+    }
+  ],
+  "parents": [
+    "focus_fire"
+  ],
+  "row": -3,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "terra"
+    },
+    {
+      "amount": 6,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

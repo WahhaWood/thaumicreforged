@@ -1,0 +1,41 @@
+{
+  "column": 7,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_portable_hole"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_portable_hole.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/focus_portable_hole"
+    }
+  ],
+  "parents": [
+    "focus_trade",
+    "infusion"
+  ],
+  "row": -2,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "iter"
+    },
+    {
+      "amount": 3,
+      "key": "perditio"
+    },
+    {
+      "amount": 6,
+      "key": "alienis"
+    },
+    {
+      "amount": 3,
+      "key": "aer"
+    }
+  ]
+}

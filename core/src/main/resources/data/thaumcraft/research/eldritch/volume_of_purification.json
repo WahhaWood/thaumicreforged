@@ -1,0 +1,43 @@
+{
+  "column": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:volume_of_purification"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.volume_of_purification.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/volume_of_purification"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/volume_of_purification"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.volume_of_purification.page.2"
+    }
+  ],
+  "parents": [
+    "clean_fragment"
+  ],
+  "row": 8,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "vitium"
+    },
+    {
+      "amount": 5,
+      "key": "venenum"
+    }
+  ]
+}

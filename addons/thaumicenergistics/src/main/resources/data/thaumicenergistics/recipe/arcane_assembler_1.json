@@ -1,0 +1,84 @@
+﻿{
+    "type":  "thaumcraft:infusion",
+    "aspects":  [
+                    {
+                        "amount":  160,
+                        "key":  "humanus"
+                    },
+                    {
+                        "amount":  128,
+                        "key":  "instrumentum"
+                    },
+                    {
+                        "amount":  96,
+                        "key":  "machina"
+                    },
+                    {
+                        "amount":  96,
+                        "key":  "praecantatio"
+                    },
+                    {
+                        "amount":  32,
+                        "key":  "vinculum"
+                    }
+                ],
+    "category":  "misc",
+    "central":  {
+                    "item":  "thaumicenergistics:arcane_assembler"
+                },
+    "components":  [
+                       {
+                           "item":  "thaumcraft:void_seed"
+                       },
+                       {
+                           "item":  "thaumcraft:bright_nitor"
+                       },
+                       {
+                           "item":  "ae2:engineering_processor"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "item":  "thaumcraft:void_seed"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "item":  "ae2:engineering_processor"
+                       },
+                       {
+                           "item":  "thaumcraft:bright_nitor"
+                       },
+                       {
+                           "item":  "thaumcraft:void_seed"
+                       },
+                       {
+                           "item":  "thaumcraft:bright_nitor"
+                       },
+                       {
+                           "item":  "ae2:engineering_processor"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "item":  "thaumcraft:void_seed"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "item":  "ae2:engineering_processor"
+                       },
+                       {
+                           "item":  "thaumcraft:bright_nitor"
+                       }
+                   ],
+    "instability":  10,
+    "research":  "arcane_assembler_1",
+    "result":  {
+                   "id":  "thaumicenergistics:arcane_assembler_1"
+               }
+}

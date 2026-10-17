@@ -1,0 +1,31 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 4,
+      "key": "telum"
+    },
+    {
+      "amount": 8,
+      "key": "lucrum"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "minecraft:looting",
+  "instability": 3,
+  "research": "infusion_enchantment"
+}

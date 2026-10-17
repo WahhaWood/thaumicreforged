@@ -1,0 +1,117 @@
+{
+  "column": -2,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:advanced_alchemical_construct"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.adv_alchemy_furnace.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/advanced_alchemical_construct"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.adv_alchemy_furnace.page.2"
+    },
+    {
+      "type": "formed_structure",
+      "aspects": [
+        {
+          "amount": 50,
+          "key": "ignis"
+        },
+        {
+          "amount": 50,
+          "key": "aqua"
+        },
+        {
+          "amount": 50,
+          "key": "ordo"
+        }
+      ],
+      "dx": 3,
+      "dz": 3,
+      "ingredients": [
+        {
+          "item": "thaumcraft:arcane_alembic"
+        },
+        {
+          "item": "thaumcraft:alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:arcane_alembic"
+        },
+        {
+          "item": "thaumcraft:alchemical_construct"
+        },
+        {
+          "block": "thaumcraft:hole"
+        },
+        {
+          "item": "thaumcraft:alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:arcane_alembic"
+        },
+        {
+          "item": "thaumcraft:alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:arcane_alembic"
+        },
+        {
+          "item": "thaumcraft:advanced_alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:advanced_alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:advanced_alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:advanced_alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:alchemy_furnace"
+        },
+        {
+          "item": "thaumcraft:advanced_alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:advanced_alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:advanced_alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:advanced_alchemical_construct"
+        }
+      ]
+    }
+  ],
+  "parents": [
+    "prim_pearl",
+    "distilessence",
+    "vis_power"
+  ],
+  "row": 6,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "auram"
+    },
+    {
+      "key": "praecantatio"
+    },
+    {
+      "key": "ordo"
+    },
+    {
+      "key": "perditio"
+    }
+  ]
+}

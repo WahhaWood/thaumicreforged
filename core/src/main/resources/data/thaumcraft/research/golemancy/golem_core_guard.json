@@ -1,0 +1,40 @@
+{
+  "column": -4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_guard"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_guard.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_core_guard"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_guard.page.2"
+    }
+  ],
+  "parents": [
+    "golem_core_gather"
+  ],
+  "row": 5,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "telum"
+    },
+    {
+      "amount": 3,
+      "key": "vinculum"
+    },
+    {
+      "amount": 3,
+      "key": "sensus"
+    }
+  ]
+}

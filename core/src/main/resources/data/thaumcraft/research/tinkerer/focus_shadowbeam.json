@@ -1,0 +1,38 @@
+{
+  "column": 14,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_shadow_beam"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_shadowbeam.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/focus_shadowbeam"
+    }
+  ],
+  "parents": [
+    "rod_ichorcloth"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 4,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "tenebrae"
+    },
+    {
+      "key": "praecantatio"
+    },
+    {
+      "key": "alienis"
+    },
+    {
+      "key": "vitium"
+    }
+  ]
+}

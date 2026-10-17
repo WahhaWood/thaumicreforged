@@ -1,0 +1,52 @@
+{
+  "aspect_triggers": [
+    "tutamen"
+  ],
+  "column": -8,
+  "complexity": 2,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:thaumium_fortress_helmet"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.armor_fortress.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.armor_fortress.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/thaumium_fortress_helmet"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/thaumium_fortress_chest"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/thaumium_fortress_leggings"
+    }
+  ],
+  "parents": [
+    "thaumium",
+    "infusion_enchantment"
+  ],
+  "row": 9,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 5,
+      "key": "tutamen"
+    },
+    {
+      "amount": 5,
+      "key": "fabrico"
+    }
+  ]
+}

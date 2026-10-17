@@ -1,0 +1,66 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 256,
+      "key": "motus"
+    },
+    {
+      "amount": 48,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 96,
+      "key": "machina"
+    },
+    {
+      "amount": 156,
+      "key": "cognitio"
+    },
+    {
+      "amount": 69,
+      "key": "auram"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:speed_rune"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:travel_stone"
+    },
+    {
+      "item": "thaumcraft:primal_charm"
+    },
+    {
+      "item": "thaumcraft:focus_portable_hole"
+    },
+    {
+      "item": "thaumcraft:cinder_pearl"
+    },
+    {
+      "item": "thaumcraft:focus_portable_hole"
+    },
+    {
+      "item": "thaumcraft:primal_charm"
+    },
+    {
+      "item": "thaumcraft:focus_portable_hole"
+    },
+    {
+      "item": "thaumcraft:cinder_pearl"
+    }
+  ],
+  "instability": 5,
+  "research": "update_speed",
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "isInfo": 1,
+        "metaUpdate": 0
+      }
+    },
+    "count": 1,
+    "id": "thaumcraft:runic_matrix"
+  }
+}

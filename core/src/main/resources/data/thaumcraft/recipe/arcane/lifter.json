@@ -1,0 +1,41 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "aer"
+    },
+    {
+      "amount": 5,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "thaumcraft:air_shard"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "E": {
+      "item": "thaumcraft:earth_shard"
+    },
+    "N": {
+      "item": "thaumcraft:nitor"
+    },
+    "W": {
+      "item": "thaumcraft:greatwood_planks"
+    }
+  },
+  "pattern": [
+    "WEW",
+    "BNB",
+    "WAW"
+  ],
+  "research": "levitator",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:lifter"
+  }
+}

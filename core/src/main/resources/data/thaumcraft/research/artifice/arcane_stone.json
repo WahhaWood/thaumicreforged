@@ -1,0 +1,32 @@
+{
+  "autoUnlock": true,
+  "column": 5,
+  "icon": {
+    "item": "thaumcraft:arcane_stone"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.arcane_stone.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/arcane_stone_block"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/arcane_stone_bricks"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/arcane_stone_stairs"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/arcane_stone_slab"
+    }
+  ],
+  "round": true,
+  "row": -2,
+  "stub": true
+}

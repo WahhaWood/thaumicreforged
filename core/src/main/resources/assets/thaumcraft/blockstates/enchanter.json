@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "thaumcraft:block/enchanter", "y": 180 },
+    "facing=south": { "model": "thaumcraft:block/enchanter" },
+    "facing=west": { "model": "thaumcraft:block/enchanter", "y": 90 },
+    "facing=east": { "model": "thaumcraft:block/enchanter", "y": 270 }
+  }
+}

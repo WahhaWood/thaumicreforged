@@ -1,0 +1,96 @@
+﻿{
+    "type":  "thaumcraft:infusion",
+    "aspects":  [
+                    {
+                        "amount":  64,
+                        "key":  "humanus"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "instrumentum"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "machina"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "praecantatio"
+                    },
+                    {
+                        "amount":  16,
+                        "key":  "vitreus"
+                    },
+                    {
+                        "amount":  16,
+                        "key":  "metallum"
+                    }
+                ],
+    "category":  "misc",
+    "central":  {
+                    "item":  "ae2:molecular_assembler"
+                },
+    "components":  [
+                       {   
+                        "type": "neoforge:components",
+                        "items": "thaumcraft:wand_casting",
+                        "components": {
+                            "custom_data": {
+                                "cap": "thaumium",
+                                "rod": "silverwood",
+                                "sceptre": 1
+                            }
+                        }
+                       },
+                       {
+                           "item":  "thaumcraft:air_crystal_cluster"
+                       },
+                       {
+                           "item":  "ae2:speed_card"
+                       },
+                       {
+                           "item":  "thaumcraft:fire_crystal_cluster"
+                       },
+                       {
+                           "item":  "thaumcraft:ender_shard"
+                       },
+                       {
+                           "item":  "thaumcraft:water_crystal_cluster"
+                       },
+                       {
+                           "item":  "ae2:speed_card"
+                       },
+                       {
+                           "item":  "thaumcraft:balanced_shard"
+                       },
+                       {
+                           "item":  "thaumcraft:mixed_crystal_cluster"
+                       },
+                       {
+                           "item":  "thaumcraft:balanced_shard"
+                       },
+                       {
+                           "item":  "ae2:speed_card"
+                       },
+                       {
+                           "item":  "thaumcraft:order_crystal_cluster"
+                       },
+                       {
+                           "item":  "thaumcraft:nether_shard"
+                       },
+                       {
+                           "item":  "thaumcraft:entropy_crystal_cluster"
+                       },
+                       {
+                           "item":  "ae2:speed_card"
+                       },
+                       {
+                           "item":  "thaumcraft:earth_crystal_cluster"
+                       }
+                   ],
+    "instability":  7,
+    "research":  "te_arcane_assembler",
+    "result":  {
+                   "id":  "thaumicenergistics:arcane_assembler"
+               }
+}

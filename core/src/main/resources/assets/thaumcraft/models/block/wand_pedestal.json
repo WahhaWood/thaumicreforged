@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "thaumcraft:block/wand_pedestal",
+		"side": "thaumcraft:block/wand_pedestal",
+		"bottom": "thaumcraft:block/arcane_stone",
+		"top": "thaumcraft:block/wand_pedestal_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 4, 16],
+			"faces": {
+				"north": {"uv": [0, 12, 16, 16], "texture": "#side"},
+				"east": {"uv": [0, 12, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 12, 16, 16], "texture": "#side"},
+				"west": {"uv": [0, 12, 16, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom"}
+			}
+		},
+		{
+			"from": [2, 4, 2],
+			"to": [14, 8, 14],
+			"faces": {
+				"north": {"uv": [2, 8, 14, 12], "texture": "#side"},
+				"east": {"uv": [2, 8, 14, 12], "texture": "#side"},
+				"south": {"uv": [2, 8, 14, 12], "texture": "#side"},
+				"west": {"uv": [2, 8, 14, 12], "texture": "#side"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#top"},
+				"down": {"uv": [0, 0, 12, 12], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [4, 8, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 8], "texture": "#side"},
+				"east": {"uv": [4, 0, 12, 8], "texture": "#side"},
+				"south": {"uv": [4, 0, 12, 8], "texture": "#side"},
+				"west": {"uv": [4, 0, 12, 8], "texture": "#side"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#top"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#missing"}
+			}
+		}
+	]
+}

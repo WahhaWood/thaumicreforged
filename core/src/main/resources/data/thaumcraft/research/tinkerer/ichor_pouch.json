@@ -1,0 +1,38 @@
+{
+  "column": 13,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_pouch"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichor_pouch.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/ichor_pouch"
+    }
+  ],
+  "parents": [
+    "ichor_cloth"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 6,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "vacuos"
+    },
+    {
+      "key": "pannus"
+    },
+    {
+      "key": "alienis"
+    },
+    {
+      "key": "humanus"
+    }
+  ]
+}

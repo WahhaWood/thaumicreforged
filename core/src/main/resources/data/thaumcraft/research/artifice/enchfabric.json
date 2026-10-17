@@ -1,0 +1,45 @@
+{
+  "column": 0,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:cloth"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.enchfabric.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/cloth"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.enchfabric.page.2"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/cloth_chest"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/cloth_leggings"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/cloth_boots"
+    }
+  ],
+  "row": 3,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "pannus"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

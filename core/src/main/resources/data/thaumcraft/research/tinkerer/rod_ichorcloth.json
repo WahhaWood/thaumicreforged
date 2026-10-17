@@ -1,0 +1,42 @@
+{
+  "column": 14,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:wand_rod_ichor"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.rod_ichorcloth.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/rod_ichorcloth"
+    }
+  ],
+  "parents": [
+    "ichor_cloth"
+  ],
+  "parents_hidden": [
+    "cap_ichor"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 2,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "instrumentum"
+    },
+    {
+      "key": "pannus"
+    },
+    {
+      "key": "lux"
+    },
+    {
+      "key": "praecantatio"
+    }
+  ],
+  "warp": 1
+}

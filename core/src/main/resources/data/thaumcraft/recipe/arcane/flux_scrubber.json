@@ -1,0 +1,45 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "aqua"
+    },
+    {
+      "amount": 16,
+      "key": "ordo"
+    },
+    {
+      "amount": 8,
+      "key": "aer"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "thaumcraft:arcane_bellows"
+    },
+    "G": {
+      "item": "minecraft:iron_bars"
+    },
+    "O": {
+      "item": "thaumcraft:vis_filter"
+    },
+    "S": {
+      "item": "thaumcraft:arcane_bricks"
+    },
+    "T": {
+      "item": "thaumcraft:essence_tube"
+    }
+  },
+  "pattern": [
+    " B ",
+    "GOG",
+    "STS"
+  ],
+  "research": "flux_scrubber",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:flux_scrubber"
+  }
+}

@@ -1,0 +1,31 @@
+﻿{
+    "type":  "thaumcraft:shaped_arcane",
+    "aspects":  [
+                    {
+                        "amount":  2,
+                        "key":  "aer"
+                    },
+                    {
+                        "amount":  2,
+                        "key":  "ordo"
+                    }
+                ],
+    "category":  "misc",
+    "key":  {
+                "S":  {
+                          "item":  "minecraft:cobblestone"
+                      },
+                "G":  {
+                          "tag":  "c:gears/iron"
+                      }
+            },
+    "pattern":  [
+                    "SGS",
+                    "GGG",
+                    "SGS"
+                ],
+    "research":  "te_iron_gearbox",
+    "result":  {
+                   "id":  "thaumicenergistics:gear_box"
+               }
+}

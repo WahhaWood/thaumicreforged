@@ -1,0 +1,40 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 12,
+      "key": "ordo"
+    },
+    {
+      "amount": 12,
+      "key": "perditio"
+    },
+    {
+      "amount": 4,
+      "key": "aer"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:thaumometer"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:salis_mundus"
+    },
+    {
+      "item": "thaumcraft:salis_mundus"
+    },
+    {
+      "item": "thaumcraft:quicksilver"
+    },
+    {
+      "item": "thaumcraft:quicksilver"
+    }
+  ],
+  "instability": 2,
+  "research": "symmetry_calculator",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:symmetry_calculator"
+  }
+}

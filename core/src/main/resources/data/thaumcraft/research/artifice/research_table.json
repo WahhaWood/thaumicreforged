@@ -1,0 +1,35 @@
+{
+  "autoUnlock": true,
+  "column": 1,
+  "icon": {
+    "block": "thaumcraft:research_table"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.research_table.page.1"
+    },
+    {
+      "type": "formed_structure",
+      "dz": 2,
+      "ingredients": [
+        "empty",
+        {
+          "item": "thaumcraft:inkwell"
+        },
+        {
+          "item": "thaumcraft:table"
+        },
+        {
+          "item": "thaumcraft:table"
+        }
+      ]
+    }
+  ],
+  "parents": [
+    "table"
+  ],
+  "round": true,
+  "row": -3,
+  "stub": true
+}

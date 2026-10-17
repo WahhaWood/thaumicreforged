@@ -1,0 +1,41 @@
+{
+  "column": 11,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichorium"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichorium.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/ichorium"
+    }
+  ],
+  "parents": [
+    "ichor"
+  ],
+  "parents_hidden": [
+    "ichor_cloth"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 9,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "metallum"
+    },
+    {
+      "key": "lux"
+    },
+    {
+      "key": "fabrico"
+    },
+    {
+      "key": "instrumentum"
+    }
+  ]
+}

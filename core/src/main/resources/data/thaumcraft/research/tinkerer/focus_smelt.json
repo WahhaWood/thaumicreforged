@@ -1,0 +1,35 @@
+{
+  "column": -2,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_smelt"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_smelt.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/focus_smelt"
+    }
+  ],
+  "parents": [
+    "focus_excavation"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -2,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "ignis"
+    },
+    {
+      "key": "potentia"
+    },
+    {
+      "key": "praecantatio"
+    }
+  ]
+}

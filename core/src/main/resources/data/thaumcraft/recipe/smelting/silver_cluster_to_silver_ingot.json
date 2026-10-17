@@ -1,0 +1,11 @@
+{
+  "type": "thaumcraft:tag_smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "thaumcraft:silver_cluster"
+  },
+  "result_tag": "c:ingots/silver",
+  "count": 2
+}

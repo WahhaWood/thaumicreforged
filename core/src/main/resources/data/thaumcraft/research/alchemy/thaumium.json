@@ -1,0 +1,71 @@
+{
+  "aspect_triggers": [
+    "metallum"
+  ],
+  "column": -1,
+  "complexity": 1,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:thaumium_ingot"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.thaumium.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/thaumium_ingot"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumium_axe"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumium_sword"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumium_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumium_shovel"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumium_hoe"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumium_helmet"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumium_chest"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumium_leggings"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumium_boots"
+    }
+  ],
+  "parents": [
+    "crucible"
+  ],
+  "row": 3,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "terra"
+    },
+    {
+      "amount": 4,
+      "key": "aqua"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "H": {
+      "item": "minecraft:iron_helmet"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "IHI"
+  ],
+  "research": "golem_decor_visor",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_decor_visor"
+  }
+}

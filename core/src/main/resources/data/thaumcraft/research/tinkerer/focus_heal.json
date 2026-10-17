@@ -1,0 +1,36 @@
+{
+  "column": -6,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_heal"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_heal.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/focus_heal"
+    }
+  ],
+  "parents": [
+    "focus_deflect"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -4,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "sano"
+    },
+    {
+      "key": "spiritus"
+    },
+    {
+      "key": "praecantatio"
+    }
+  ]
+}

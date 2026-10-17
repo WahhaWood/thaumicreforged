@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:block/block",
+	"loader": "neoforge:obj",
+	"flip_v": true,
+	"model": "thaumcraft:models/obj/node_stabilizer_piston.obj",
+	"textures": {
+		"texture0": "thaumcraft:block/model/node_stabilizer_over",
+		"particle": "thaumcraft:block/model/node_stabilizer_over"
+	},
+	"transform": {
+		"origin": "center",
+		"translation": [ 0.5, 0, -1.5 ],
+		"rotation": [ -90, 0, 0 ]
+	}
+}

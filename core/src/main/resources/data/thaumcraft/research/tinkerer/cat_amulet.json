@@ -1,0 +1,38 @@
+{
+  "column": 13,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:cat_amulet"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.cat_amulet.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/cat_amulet"
+    }
+  ],
+  "parents": [
+    "ichorium"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 10,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "cognitio"
+    },
+    {
+      "key": "ordo"
+    },
+    {
+      "key": "tenebrae"
+    },
+    {
+      "key": "mortuus"
+    }
+  ]
+}

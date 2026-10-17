@@ -1,0 +1,36 @@
+{
+  "column": -2,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:platform"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.platform.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/platform"
+    }
+  ],
+  "parents": [
+    "cleansing_talisman"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 6,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "sensus"
+    },
+    {
+      "key": "arbor"
+    },
+    {
+      "key": "motus"
+    }
+  ]
+}

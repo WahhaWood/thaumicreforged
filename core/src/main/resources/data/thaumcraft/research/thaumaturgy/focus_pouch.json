@@ -1,0 +1,36 @@
+{
+  "column": 4,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:focus_pouch"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_pouch.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/focus_pouch"
+    }
+  ],
+  "parents": [
+    "focus_fire"
+  ],
+  "row": -1,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "vacuos"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    }
+  ]
+}

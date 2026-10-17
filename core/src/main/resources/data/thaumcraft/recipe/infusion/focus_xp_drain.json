@@ -1,0 +1,50 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 50,
+      "key": "cognitio"
+    },
+    {
+      "amount": 32,
+      "key": "auram"
+    },
+    {
+      "amount": 16,
+      "key": "humanus"
+    },
+    {
+      "amount": 16,
+      "key": "praecantatio"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:focus_pech"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:ender_shard"
+    },
+    {
+      "item": "thaumcraft:zombie_brain"
+    },
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "minecraft:experience_bottle"
+    },
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "thaumcraft:xp_talisman"
+    }
+  ],
+  "instability": 6,
+  "research": "focus_xp_drain",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_xp_drain"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "column": 1,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/valiance.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_valiance.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_valiance"
+    }
+  ],
+  "parents": [
+    "ttench_vampirism"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 4,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "telum"
+    },
+    {
+      "amount": 3,
+      "key": "sano"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+﻿{
+    "type":  "thaumcraft:shaped_arcane",
+    "aspects":  [
+                    {
+                        "amount":  100,
+                        "key":  "aer"
+                    },
+                    {
+                        "amount":  100,
+                        "key":  "terra"
+                    },
+                    {
+                        "amount":  100,
+                        "key":  "aqua"
+                    },
+                    {
+                        "amount":  100,
+                        "key":  "ignis"
+                    },
+                    {
+                        "amount":  100,
+                        "key":  "ordo"
+                    },
+                    {
+                        "amount":  100,
+                        "key":  "perditio"
+                    }
+                ],
+    "category":  "misc",
+    "key":  {
+                "A":  {
+                          "item":  "ae2:calculation_processor"
+                      },
+                "B":  {
+                          "item":  "ae2:blank_pattern"
+                      },
+                "C":  {
+                          "item":  "thaumcraft:crucible"
+                      },
+                "D":  {
+                          "tag":  "c:ingots/void"
+                      },
+                "E":  {
+                          "item":  "thaumcraft:ender_shard"
+                      }
+            },
+    "pattern":  [
+                    "ABA",
+                    "BCB",
+                    "DED"
+                ],
+    "research":  "crucible_inscriber",
+    "result":  {
+                   "id":  "thaumicenergistics:crucible_inscriber"
+               }
+}

@@ -1,0 +1,38 @@
+{
+  "column": 18,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_gem_helmet"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichorcloth_helm_gem.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/ichor_gem_helmet"
+    }
+  ],
+  "parents": [
+    "ichorcloth_armor"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 3,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "aqua"
+    },
+    {
+      "key": "sano"
+    },
+    {
+      "key": "fames"
+    },
+    {
+      "key": "auram"
+    }
+  ]
+}

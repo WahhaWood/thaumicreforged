@@ -1,0 +1,21 @@
+﻿{
+    "type":  "thaumcraft:crucible",
+    "aspects":  [
+                    {
+                        "amount":  16,
+                        "key":  "metallum"
+                    },
+                    {
+                        "amount":  16,
+                        "key":  "praecantatio"
+                    }
+                ],
+    "catalyst":  {
+                     "item":  "thaumicenergistics:gear_box"
+                 },
+    "category":  "misc",
+    "research":  "te_thaumium_gearbox",
+    "result":  {
+                   "id":  "thaumicenergistics:golem_gear_box"
+               }
+}

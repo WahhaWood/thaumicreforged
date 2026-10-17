@@ -1,0 +1,31 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 4,
+      "key": "telum"
+    },
+    {
+      "amount": 4,
+      "key": "exanimis"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "minecraft:smite",
+  "instability": 2,
+  "research": "infusion_enchantment"
+}

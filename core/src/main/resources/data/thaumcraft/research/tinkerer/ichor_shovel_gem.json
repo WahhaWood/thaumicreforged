@@ -1,0 +1,35 @@
+{
+  "column": 15,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_shovel_adv"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichor_shovel_gem.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/ichor_shovel_adv"
+    }
+  ],
+  "parents": [
+    "ichor_tools"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 15,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "terra"
+    },
+    {
+      "key": "instrumentum"
+    },
+    {
+      "key": "perfodio"
+    }
+  ]
+}

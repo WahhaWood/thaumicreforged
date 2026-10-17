@@ -1,0 +1,32 @@
+{
+  "column": -2,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:iron_cluster"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.pure_iron.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/iron_cluster"
+    }
+  ],
+  "parents": [
+    "thaumium"
+  ],
+  "row": 5,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    }
+  ]
+}

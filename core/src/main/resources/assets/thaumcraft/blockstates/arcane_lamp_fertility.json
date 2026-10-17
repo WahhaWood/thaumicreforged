@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "thaumcraft:block/arcane_lamp_fertility"
+    },
+    "active=true": {
+      "model": "thaumcraft:block/arcane_lamp_fertility_on"
+    }
+  }
+}

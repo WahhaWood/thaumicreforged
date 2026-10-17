@@ -1,0 +1,15 @@
+{
+  "research_type": "thaumicenergistics:pseudo",
+  "column": -6,
+  "row": -4,
+  "complexity": 1,
+  "pseudo_for": "adv_alchemy_furnace",
+  "stub": true,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:advanced_alchemical_construct"
+  },
+  "pages": [
+    { "type": "text", "key": "tc.research.adv_alchemy_furnace.page.1" }
+  ]
+}

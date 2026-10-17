@@ -1,0 +1,13 @@
+{
+  "research_type": "thaumicenergistics:pseudo",
+  "column": -5,
+  "row": -6,
+  "complexity": 1,
+  "pseudo_for": "alchemical_duplication",
+  "stub": true,
+  "hidden": true,
+  "icon": "thaumcraft:textures/misc/r_alchmult.png",
+  "pages": [
+    { "type": "text", "key": "tc.research.alchemical_duplication.page.1" }
+  ]
+}

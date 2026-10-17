@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:charcoal"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    "Q Q",
+    " C ",
+    "Q Q"
+  ],
+  "result": {
+    "count": 4,
+    "id": "thaumcraft:dark_quartz"
+  }
+}

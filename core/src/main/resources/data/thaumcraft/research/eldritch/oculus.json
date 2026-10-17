@@ -1,0 +1,67 @@
+{
+  "column": -2,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:eldritch_eye"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.oculus.page.1"
+    },
+    {
+      "type": "formed_structure",
+      "dy": 3,
+      "ingredients": [
+        {
+          "item": "thaumcraft:aura_node"
+        },
+        {
+          "item": "thaumcraft:eldritch_eye"
+        },
+        {
+          "item": "thaumcraft:eldritch_altar"
+        }
+      ]
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/eldritch_eye"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.oculus.page.2"
+    }
+  ],
+  "parents": [
+    "crimson",
+    "eldritch_major"
+  ],
+  "round": true,
+  "row": 2,
+  "special": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 6,
+      "key": "iter"
+    },
+    {
+      "amount": 6,
+      "key": "alienis"
+    }
+  ],
+  "warp": 6
+}

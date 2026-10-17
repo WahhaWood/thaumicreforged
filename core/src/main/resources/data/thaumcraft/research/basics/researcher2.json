@@ -1,0 +1,36 @@
+{
+  "column": 3,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/misc/r_researcher2.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.researcher2.page.1"
+    }
+  ],
+  "parents": [
+    "researcher1"
+  ],
+  "round": true,
+  "row": 3,
+  "special": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    },
+    {
+      "amount": 3,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ],
+  "warp": 1
+}

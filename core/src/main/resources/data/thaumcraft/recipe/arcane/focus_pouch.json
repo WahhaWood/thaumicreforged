@@ -1,0 +1,39 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "terra"
+    },
+    {
+      "amount": 10,
+      "key": "ordo"
+    },
+    {
+      "amount": 10,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "thaumcraft:curios_belt"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    "LGL",
+    "LBL",
+    "LLL"
+  ],
+  "research": "focus_pouch",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_pouch"
+  }
+}

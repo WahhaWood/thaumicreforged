@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dyes_black": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:dyes/black"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thaumcraft:shapeless/inkwell_repair"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dyes_black"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thaumcraft:shapeless/inkwell_repair"
+    ]
+  }
+}

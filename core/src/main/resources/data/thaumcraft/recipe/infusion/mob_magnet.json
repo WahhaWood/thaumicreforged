@@ -1,0 +1,40 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "bestia"
+    },
+    {
+      "amount": 16,
+      "key": "iter"
+    },
+    {
+      "amount": 8,
+      "key": "motus"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:magnet"
+  },
+  "components": [
+    {
+      "item": "minecraft:lead"
+    },
+    {
+      "item": "minecraft:lead"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "instability": 4,
+  "research": "mob_magnet",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:mob_magnet"
+  }
+}

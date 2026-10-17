@@ -1,0 +1,39 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "aqua"
+    },
+    {
+      "amount": 30,
+      "key": "ordo"
+    },
+    {
+      "amount": 10,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "thaumcraft:alchemical_construct"
+    },
+    "P": {
+      "item": "thaumcraft:primordial_pearl"
+    },
+    "V": {
+      "tag": "c:ingots/void"
+    }
+  },
+  "pattern": [
+    "VAV",
+    "APA",
+    "VAV"
+  ],
+  "research": "adv_alchemy_furnace",
+  "result": {
+    "count": 4,
+    "id": "thaumcraft:advanced_alchemical_construct"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "terra"
+    },
+    {
+      "amount": 5,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "thaumcraft:arcane_bricks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "S": {
+      "item": "thaumcraft:arcane_stone"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "IRI",
+    "BBB"
+  ],
+  "research": "golem_fetter",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_fetter"
+  }
+}

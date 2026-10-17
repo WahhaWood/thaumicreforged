@@ -1,0 +1,14 @@
+﻿{
+    "type":  "minecraft:crafting_shapeless",
+    "ingredients":  [
+                        {
+                            "item":  "ae2:cell_component_4k"
+                        },
+                        {
+                            "item":  "thaumicenergistics:essentia_cell_casing"
+                        }
+                    ],
+    "result":  {
+                   "id":  "thaumicenergistics:essentia_cell_4m"
+               }
+}

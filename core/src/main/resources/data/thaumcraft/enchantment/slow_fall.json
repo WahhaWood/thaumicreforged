@@ -1,0 +1,38 @@
+{
+  "anvil_cost": 1,
+  "description": {
+    "translate": "enchantment.thaumcraft.slow_fall"
+  },
+  "exclusive_set": [
+    "minecraft:feather_falling",
+    "thaumcraft:shockwave"
+  ],
+  "max_cost": {
+    "base": 65,
+    "per_level_above_first": 9
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 9
+  },
+  "slots": [
+    "feet"
+  ],
+  "supported_items": [
+    "minecraft:leather_boots",
+    "minecraft:chainmail_boots",
+    "minecraft:iron_boots",
+    "minecraft:diamond_boots",
+    "minecraft:golden_boots",
+    "minecraft:netherite_boots",
+    "minecraft:book",
+    "thaumcraft:cloth_boots",
+    "thaumcraft:ichor_boots",
+    "thaumcraft:traveller_boots",
+    "thaumcraft:thaumium_boots",
+    "thaumcraft:void_boots",
+    "thaumcraft:cultist_boots"
+  ],
+  "weight": 5
+}

@@ -1,0 +1,36 @@
+{
+  "column": 4,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:goggles_revealing"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.goggles.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/goggles_revealing"
+    }
+  ],
+  "parents": [
+    "thaumometer"
+  ],
+  "row": 1,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

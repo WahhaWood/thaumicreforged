@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "type=bottom,waterlogged=false": {
+      "model": "thaumcraft:block/silverwood_slab"
+    },
+    "type=top,waterlogged=false": {
+      "model": "thaumcraft:block/silverwood_slab_top"
+    },
+    "type=double,waterlogged=false": {
+      "model": "thaumcraft:block/silverwood_planks"
+    },
+    "type=bottom,waterlogged=true": {
+      "model": "thaumcraft:block/silverwood_slab"
+    },
+    "type=top,waterlogged=true": {
+      "model": "thaumcraft:block/silverwood_slab_top"
+    },
+    "type=double,waterlogged=true": {
+      "model": "thaumcraft:block/silverwood_planks"
+    }
+  }
+}

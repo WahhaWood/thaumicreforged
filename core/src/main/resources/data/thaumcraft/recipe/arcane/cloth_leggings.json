@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "thaumcraft:cloth"
+    }
+  },
+  "pattern": [
+    "III",
+    "I I",
+    "I I"
+  ],
+  "research": "enchfabric",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:cloth_leggings"
+  }
+}

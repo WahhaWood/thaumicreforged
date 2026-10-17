@@ -1,0 +1,36 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "aqua"
+    },
+    {
+      "amount": 8,
+      "key": "arbor"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:thaumium_axe"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:water_shard"
+    },
+    {
+      "item": "thaumcraft:water_shard"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:greatwood_log"
+    }
+  ],
+  "instability": 1,
+  "research": "elemental_axe",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:elemental_axe"
+  }
+}

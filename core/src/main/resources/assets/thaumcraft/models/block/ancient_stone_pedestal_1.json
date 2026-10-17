@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "thaumcraft:block/es_p",
+    "end": "thaumcraft:block/es_1"
+  }
+}

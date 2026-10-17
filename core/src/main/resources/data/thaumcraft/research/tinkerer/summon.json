@@ -1,0 +1,186 @@
+{
+  "column": -5,
+  "complexity": 3,
+  "icon": {
+    "item": "thaumcraft:summoner"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.summon.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.summon.page.2"
+    },
+    {
+      "type": "recipes",
+      "value": [
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_aqua"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_humanus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_aer"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_volatus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_ignis"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_praecantatio"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_exanimis"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_corpus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_bestia"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_venenum"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_terra"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_alienis"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_iter"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_metallum"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_limus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_pannus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/mob_aspect_condensed_messis"
+        }
+      ]
+    },
+    {
+      "type": "recipes",
+      "value": [
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_aqua"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_humanus"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_aer"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_volatus"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_ignis"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_praecantatio"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_exanimis"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_corpus"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_bestia"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_venenum"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_terra"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_alienis"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_iter"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_metallum"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_limus"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_pannus"
+        },
+        {
+          "type": "infusion",
+          "id": "thaumcraft:infusion/mob_aspect_infused_messis"
+        }
+      ]
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/summoner"
+    }
+  ],
+  "parents": [
+    "blood_sword"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 8,
+  "tags": [
+    {
+      "key": "telum"
+    },
+    {
+      "amount": 3,
+      "key": "bestia"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ],
+  "warp": 3
+}

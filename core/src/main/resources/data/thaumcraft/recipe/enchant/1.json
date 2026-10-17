@@ -1,0 +1,31 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 4,
+      "key": "tutamen"
+    },
+    {
+      "amount": 4,
+      "key": "ignis"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "minecraft:fire_protection",
+  "instability": 1,
+  "research": "infusion_enchantment"
+}

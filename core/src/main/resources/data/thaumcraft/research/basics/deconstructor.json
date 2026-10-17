@@ -1,0 +1,40 @@
+{
+  "column": 6,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:deconstruction_table"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.deconstructor.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/deconstruction_table"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.deconstructor.page.2"
+    }
+  ],
+  "parents": [
+    "researcher1"
+  ],
+  "round": true,
+  "row": 2,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "fabrico"
+    },
+    {
+      "amount": 3,
+      "key": "perditio"
+    }
+  ]
+}

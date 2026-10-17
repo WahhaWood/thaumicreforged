@@ -1,0 +1,28 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "thaumcraft:wand_rod_greatwood"
+    },
+    "S": {
+      "item": "thaumcraft:primal_charm"
+    }
+  },
+  "pattern": [
+    "  S",
+    " G ",
+    "G  "
+  ],
+  "research": "greatwood_staff_rod",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:staff_rod_greatwood"
+  }
+}

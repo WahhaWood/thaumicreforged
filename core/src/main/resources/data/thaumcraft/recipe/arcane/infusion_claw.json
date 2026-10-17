@@ -1,0 +1,51 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "aer"
+    },
+    {
+      "amount": 32,
+      "key": "terra"
+    },
+    {
+      "amount": 32,
+      "key": "aqua"
+    },
+    {
+      "amount": 32,
+      "key": "ignis"
+    },
+    {
+      "amount": 32,
+      "key": "ordo"
+    },
+    {
+      "amount": 32,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:ingots/void"
+    },
+    "B": {
+      "item": "thaumcraft:advanced_alchemical_construct"
+    },
+    "C": {
+      "item": "thaumcraft:primal_charm"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "research": "infusion_claw",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:infusion_claw"
+  }
+}

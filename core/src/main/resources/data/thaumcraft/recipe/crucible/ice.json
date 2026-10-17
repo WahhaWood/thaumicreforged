@@ -1,0 +1,19 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "key": "ordo"
+    },
+    {
+      "key": "gelum"
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:snow_block"
+  },
+  "research": "alchemical_manufacture",
+  "result": {
+    "count": 1,
+    "id": "minecraft:ice"
+  }
+}

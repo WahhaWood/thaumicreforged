@@ -1,0 +1,80 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 50,
+      "key": "aer"
+    },
+    {
+      "amount": 16,
+      "key": "alienis"
+    },
+    {
+      "amount": 64,
+      "key": "lux"
+    },
+    {
+      "amount": 32,
+      "key": "ordo"
+    },
+    {
+      "amount": 16,
+      "key": "sensus"
+    },
+    {
+      "amount": 32,
+      "key": "tutamen"
+    },
+    {
+      "amount": 32,
+      "key": "volatus"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:ichor_chest"
+  },
+  "components": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:focus_primal"
+    },
+    {
+      "item": "thaumcraft:thaumonomicon"
+    },
+    {
+      "item": "minecraft:golden_chestplate"
+    },
+    {
+      "item": "thaumcraft:focus_flight"
+    },
+    {
+      "item": "thaumcraft:hover_harness"
+    },
+    {
+      "item": "thaumcraft:focus_deflect"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "minecraft:arrow"
+    }
+  ],
+  "instability": 13,
+  "research": "ichorcloth_chest_gem",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:ichor_gem_chest"
+  }
+}

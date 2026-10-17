@@ -1,0 +1,30 @@
+{
+  "column": -6,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/misc/r_nodepreserve.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.nodepreserve.page.1"
+    }
+  ],
+  "parents": [
+    "nodetapper1"
+  ],
+  "round": true,
+  "row": 2,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "lucrum"
+    },
+    {
+      "amount": 3,
+      "key": "sensus"
+    }
+  ]
+}

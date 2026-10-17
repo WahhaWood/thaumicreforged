@@ -1,0 +1,27 @@
+{
+  "column": -5,
+  "row": -5,
+  "complexity": 1,
+  "secondary": true,
+  "concealed": true,
+  "icon": {
+    "item": "ae2:certus_quartz_crystal"
+  },
+  "parents": [
+    "te_pseudo_alchemical_duplication"
+  ],
+  "parents_hidden": [
+    "alchemical_duplication"
+  ],
+  "item_triggers": [
+    { "item": "ae2:certus_quartz_crystal" }
+  ],
+  "tags": [
+    { "amount": 5, "key": "vitreus" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_certus_dupe.page.1" },
+    { "type": "crucible", "id": "thaumicenergistics:crucible/certus_quartz_dupe" },
+    { "type": "crucible", "id": "thaumicenergistics:crucible/nether_quartz_dupe" }
+  ]
+}

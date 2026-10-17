@@ -1,0 +1,31 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "ordo"
+    },
+    {
+      "amount": 8,
+      "key": "telum"
+    },
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:order_shard"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "thaumcraft:focused_strikes",
+  "instability": 3,
+  "research": "ttench_focused"
+}

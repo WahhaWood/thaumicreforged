@@ -1,0 +1,15 @@
+{
+  "research_type": "thaumicenergistics:pseudo",
+  "column": -4,
+  "row": -7,
+  "complexity": 1,
+  "pseudo_for": "focus_fire",
+  "stub": true,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:focus_fire"
+  },
+  "pages": [
+    { "type": "text", "key": "tc.research.focus_fire.page.1" }
+  ]
+}

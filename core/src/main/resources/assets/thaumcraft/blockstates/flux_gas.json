@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "level=0": { "model": "thaumcraft:block/invisible" },
+    "level=1": { "model": "thaumcraft:block/invisible" },
+    "level=2": { "model": "thaumcraft:block/invisible" },
+    "level=3": { "model": "thaumcraft:block/invisible" },
+    "level=4": { "model": "thaumcraft:block/invisible" },
+    "level=5": { "model": "thaumcraft:block/invisible" },
+    "level=6": { "model": "thaumcraft:block/invisible" },
+    "level=7": { "model": "thaumcraft:block/invisible" },
+    "level=8": { "model": "thaumcraft:block/invisible" },
+    "level=9": { "model": "thaumcraft:block/invisible" },
+    "level=10": { "model": "thaumcraft:block/invisible" },
+    "level=11": { "model": "thaumcraft:block/invisible" },
+    "level=12": { "model": "thaumcraft:block/invisible" },
+    "level=13": { "model": "thaumcraft:block/invisible" },
+    "level=14": { "model": "thaumcraft:block/invisible" },
+    "level=15": { "model": "thaumcraft:block/invisible" }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "loader": "thaumcraft:warded_glass_ctm",
+  "texture_prefix": "thaumcraft:block/warded_glass_",
+  "particle": "thaumcraft:block/warded_glass_1",
+  "render_type": "translucent"
+}

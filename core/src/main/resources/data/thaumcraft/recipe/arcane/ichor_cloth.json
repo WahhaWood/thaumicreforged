@@ -1,0 +1,51 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 125,
+      "key": "aer"
+    },
+    {
+      "amount": 125,
+      "key": "terra"
+    },
+    {
+      "amount": 125,
+      "key": "aqua"
+    },
+    {
+      "amount": 125,
+      "key": "ignis"
+    },
+    {
+      "amount": 125,
+      "key": "ordo"
+    },
+    {
+      "amount": 125,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "F": {
+      "item": "thaumcraft:cloth"
+    },
+    "I": {
+      "item": "thaumcraft:ichor"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "III",
+    "DDD"
+  ],
+  "research": "ichor_cloth",
+  "result": {
+    "count": 3,
+    "id": "thaumcraft:ichor_cloth"
+  }
+}

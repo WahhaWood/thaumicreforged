@@ -1,0 +1,67 @@
+{
+  "column": -5,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumcraft:arcane_door"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.warded_arcana.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/arcane_door"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.warded_arcana.page.2"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/iron_key"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/gold_key"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.warded_arcana.page.3"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/arcane_pressure_plate"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.warded_arcana.page.4"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/warded_glass"
+    }
+  ],
+  "parents": [
+    "thaumium"
+  ],
+  "row": -4,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 3,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "machina"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "column": 2,
+  "row": -1,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumicenergistics:arcane_terminal"
+  },
+  "parents": [
+    "te_research"
+  ],
+  "tags": [
+    { "amount": 5, "key": "fabrico" },
+    { "amount": 3, "key": "potentia" },
+    { "amount": 3, "key": "machina" },
+    { "amount": 3, "key": "vacuos" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_arcane_terminal.page.1" },
+    { "type": "arcane", "id": "thaumicenergistics:arcane/arcane_terminal" }
+  ]
+}

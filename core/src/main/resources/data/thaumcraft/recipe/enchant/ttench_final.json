@@ -1,0 +1,41 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 12,
+      "key": "perditio"
+    },
+    {
+      "amount": 12,
+      "key": "ordo"
+    },
+    {
+      "amount": 10,
+      "key": "telum"
+    },
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "thaumcraft:entropy_shard"
+    },
+    {
+      "item": "thaumcraft:order_shard"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "thaumcraft:final_strike",
+  "instability": 5,
+  "research": "ttench_final"
+}

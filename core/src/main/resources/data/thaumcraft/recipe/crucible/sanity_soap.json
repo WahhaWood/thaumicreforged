@@ -1,0 +1,29 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "cognitio"
+    },
+    {
+      "amount": 16,
+      "key": "alienis"
+    },
+    {
+      "amount": 16,
+      "key": "ordo"
+    },
+    {
+      "amount": 16,
+      "key": "sano"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:magic_tallow_block"
+  },
+  "research": "sanity_soap",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:sanity_soap"
+  }
+}

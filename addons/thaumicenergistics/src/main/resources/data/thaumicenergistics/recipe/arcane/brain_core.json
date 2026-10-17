@@ -1,0 +1,56 @@
+﻿{
+    "type":  "thaumcraft:shaped_arcane",
+    "aspects":  [
+                    {
+                        "amount":  64,
+                        "key":  "aer"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "terra"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "aqua"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "ignis"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "ordo"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "perditio"
+                    }
+                ],
+    "category":  "misc",
+    "key":  {
+                "G":  {
+                          "item":  "ae2:quartz_vibrant_glass"
+                      },
+                "C":  {
+                          "item":  "thaumicenergistics:knowledge_core"
+                      },
+                "P":  {
+                          "item":  "ae2:calculation_processor"
+                      },
+                "S":  {
+                          "item":  "ae2:cell_component_16k"
+                      },
+                "E":  {
+                          "item":  "ae2:fluix_pearl"
+                      }
+            },
+    "pattern":  [
+                    "GEG",
+                    "SCS",
+                    "GPG"
+                ],
+    "research":  "brain_core",
+    "result":  {
+                   "id":  "thaumicenergistics:brain_core"
+               }
+}

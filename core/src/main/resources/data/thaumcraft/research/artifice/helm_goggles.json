@@ -1,0 +1,40 @@
+{
+  "column": -9,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:goggles_revealing"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.helm_goggles.page.1"
+    },
+    {
+      "type": "infusion_fortress",
+      "id": "thaumcraft:fortress/helm_goggles"
+    }
+  ],
+  "parents": [
+    "armor_fortress"
+  ],
+  "parents_hidden": [
+    "goggles"
+  ],
+  "row": 7,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    }
+  ]
+}

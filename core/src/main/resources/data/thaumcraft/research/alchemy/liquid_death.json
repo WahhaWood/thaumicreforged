@@ -1,0 +1,43 @@
+{
+  "aspect_triggers": [
+    "mortuus",
+    "venenum"
+  ],
+  "column": -7,
+  "complexity": 2,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:fluid_death_bucket"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.liquid_death.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/bucket_death"
+    }
+  ],
+  "parents": [
+    "entropic_processing"
+  ],
+  "row": 3,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "mortuus"
+    },
+    {
+      "amount": 3,
+      "key": "venenum"
+    },
+    {
+      "key": "perditio"
+    },
+    {
+      "key": "aqua"
+    }
+  ],
+  "warp": 3
+}

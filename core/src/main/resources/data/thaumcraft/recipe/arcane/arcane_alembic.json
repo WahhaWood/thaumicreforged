@@ -1,0 +1,38 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aer"
+    },
+    {
+      "amount": 5,
+      "key": "aqua"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "F": {
+      "item": "thaumcraft:vis_filter"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "FIG",
+    "IBI",
+    "I I"
+  ],
+  "research": "distilessence",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:arcane_alembic"
+  }
+}

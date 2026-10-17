@@ -1,0 +1,45 @@
+{
+  "column": -10,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:wand_pedestal_focus"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.wand_pedestal_focus.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/wand_pedestal_focus"
+    }
+  ],
+  "parents": [
+    "wand_pedestal"
+  ],
+  "row": -7,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "auram"
+    },
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 6,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "potentia"
+    },
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    }
+  ]
+}

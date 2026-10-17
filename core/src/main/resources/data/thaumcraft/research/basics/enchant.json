@@ -1,0 +1,18 @@
+{
+  "autoUnlock": true,
+  "column": -4,
+  "icon": "thaumcraft:textures/misc/r_enchant.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.enchant.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.enchant.page.2"
+    }
+  ],
+  "round": true,
+  "row": -2,
+  "stub": true
+}

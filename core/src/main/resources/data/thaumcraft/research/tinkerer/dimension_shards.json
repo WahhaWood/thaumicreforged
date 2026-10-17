@@ -1,0 +1,17 @@
+{
+  "autoUnlock": true,
+  "column": 7,
+  "icon": {
+    "item": "thaumcraft:ender_shard"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.dimension_shards.page.1"
+    }
+  ],
+  "research_type": "thaumcraft:kami",
+  "round": true,
+  "row": 8,
+  "stub": true
+}

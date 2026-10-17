@@ -1,0 +1,51 @@
+{
+  "column": 0,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumcraft:golem_straw"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_straw.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.golem_straw.page.2"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_straw"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.golem_straw.page.3"
+    }
+  ],
+  "parents": [
+    "hungry_chest"
+  ],
+  "row": 2,
+  "siblings": [
+    "golem_core_gather",
+    "golem_bell"
+  ],
+  "tags": [
+    {
+      "amount": 3,
+      "key": "spiritus"
+    },
+    {
+      "amount": 3,
+      "key": "motus"
+    },
+    {
+      "amount": 3,
+      "key": "messis"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    }
+  ]
+}

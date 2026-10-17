@@ -1,0 +1,51 @@
+{
+  "auto_infusion_parent": false,
+  "column": -6,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:magnet"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.magnet.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.magnet.page.2"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/magnet"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.magnet.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/mob_magnet"
+    }
+  ],
+  "parents": [
+    "interface"
+  ],
+  "parents_hidden": [
+    "focus_telekinesis"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 3,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "machina"
+    },
+    {
+      "key": "motus"
+    },
+    {
+      "key": "sensus"
+    }
+  ]
+}

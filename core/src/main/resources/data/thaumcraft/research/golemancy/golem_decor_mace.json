@@ -1,0 +1,35 @@
+{
+  "aspect_triggers": [
+    "telum"
+  ],
+  "column": 8,
+  "complexity": 1,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:golem_decor_mace"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_decor_mace.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_decor_mace"
+    }
+  ],
+  "row": 11,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "metallum"
+    },
+    {
+      "amount": 2,
+      "key": "telum"
+    },
+    {
+      "key": "lucrum"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "column": -6,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumicenergistics:infusion_inscriber"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.infusion_inscriber.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumicenergistics:arcane/infusion_inscriber"
+    }
+  ],
+  "parents": [
+    "infusion_claw"
+  ],
+  "row": -8,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "machina"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "alienis"
+    },
+    {
+      "amount": 3,
+      "key": "ignis"
+    }
+  ]
+}

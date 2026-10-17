@@ -1,0 +1,6 @@
+{
+  "parent": "thaumcraft:block/eldritch_altar",
+  "textures": {
+    "texture0": "thaumcraft:block/model/obelisk_cap_2"
+  }
+}

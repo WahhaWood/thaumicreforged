@@ -1,0 +1,76 @@
+{
+  "autoUnlock": true,
+  "column": 2,
+  "icon": {
+    "item": "thaumcraft:inkwell"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.research.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.research.page.2"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumometer"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.research.page.3"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.research.page.4"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shapeless/inkwell"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shapeless/inkwell_from_phial"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shapeless/inkwell_repair"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.research.page.5"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.research.page.6"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.research.page.7"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.research.page.8"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.research.page.9"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.research.page.10"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.research.page.11"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.research.page.12"
+    }
+  ],
+  "round": true,
+  "row": 0,
+  "stub": true
+}

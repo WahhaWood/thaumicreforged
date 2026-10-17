@@ -1,0 +1,40 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "aer"
+    },
+    {
+      "amount": 8,
+      "key": "motus"
+    },
+    {
+      "amount": 8,
+      "key": "potentia"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:thaumium_sword"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:greatwood_log"
+    }
+  ],
+  "instability": 1,
+  "research": "elemental_sword",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:elemental_sword"
+  }
+}

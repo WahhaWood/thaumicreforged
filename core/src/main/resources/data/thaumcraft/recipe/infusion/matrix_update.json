@@ -1,0 +1,86 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 256,
+      "key": "auram"
+    },
+    {
+      "amount": 8,
+      "key": "tempestas"
+    },
+    {
+      "amount": 256,
+      "key": "machina"
+    },
+    {
+      "amount": 512,
+      "key": "cognitio"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:brain_jar"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:table"
+    },
+    {
+      "item": "thaumcraft:thaumonomicon"
+    },
+    {
+      "item": "thaumcraft:thaumometer"
+    },
+    {
+      "item": "thaumcraft:inkwell"
+    },
+    {
+      "item": "thaumcraft:table"
+    },
+    {
+      "item": "thaumcraft:thaumonomicon"
+    },
+    {
+      "item": "thaumcraft:thaumometer"
+    },
+    {
+      "item": "thaumcraft:inkwell"
+    },
+    {
+      "item": "thaumcraft:table"
+    },
+    {
+      "item": "thaumcraft:thaumonomicon"
+    },
+    {
+      "item": "thaumcraft:thaumometer"
+    },
+    {
+      "item": "thaumcraft:inkwell"
+    },
+    {
+      "item": "thaumcraft:table"
+    },
+    {
+      "item": "thaumcraft:thaumonomicon"
+    },
+    {
+      "item": "thaumcraft:thaumometer"
+    },
+    {
+      "item": "thaumcraft:inkwell"
+    }
+  ],
+  "instability": 10,
+  "research": "update_matrix",
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "isInfo": 1,
+        "metaUpdate": 5
+      }
+    },
+    "count": 1,
+    "id": "thaumcraft:runic_matrix"
+  }
+}

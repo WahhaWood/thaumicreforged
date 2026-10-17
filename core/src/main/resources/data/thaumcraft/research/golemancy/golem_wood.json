@@ -1,0 +1,40 @@
+{
+  "column": 2,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumcraft:golem_wood"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_wood.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_wood"
+    }
+  ],
+  "parents": [
+    "golem_straw"
+  ],
+  "row": 4,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 4,
+      "key": "spiritus"
+    },
+    {
+      "amount": 4,
+      "key": "motus"
+    },
+    {
+      "amount": 3,
+      "key": "arbor"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    }
+  ]
+}

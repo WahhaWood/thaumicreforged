@@ -1,0 +1,9 @@
+{
+  "parent": "ae2:item/display_base",
+  "textures": {
+    "front": "thaumicenergistics:block/part/arcane_terminal_bright",
+    "front_bright": "thaumicenergistics:block/part/arcane_terminal_bright",
+    "front_medium": "thaumicenergistics:block/part/arcane_terminal_medium",
+    "front_dark": "thaumicenergistics:block/part/arcane_terminal_dark"
+  }
+}

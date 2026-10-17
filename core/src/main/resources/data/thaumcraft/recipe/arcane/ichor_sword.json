@@ -1,0 +1,36 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 50,
+      "key": "ignis"
+    },
+    {
+      "amount": 50,
+      "key": "ordo"
+    },
+    {
+      "amount": 50,
+      "key": "aqua"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "c:ingots/ichorium"
+    },
+    "S": {
+      "item": "thaumcraft:wand_rod_silverwood"
+    }
+  },
+  "pattern": [
+    " I ",
+    " I ",
+    " S "
+  ],
+  "research": "ichor_tools",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:ichor_sword"
+  }
+}

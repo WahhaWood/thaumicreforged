@@ -1,0 +1,41 @@
+{
+  "column": 6,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:compass_stone"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.compass_stone.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/compass_stone"
+    }
+  ],
+  "parents": [
+    "goggles"
+  ],
+  "row": 2,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 3,
+      "key": "alienis"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    }
+  ],
+  "warp": 2
+}

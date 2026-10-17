@@ -1,0 +1,34 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 12,
+      "key": "aqua"
+    },
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 6,
+      "key": "gelum"
+    }
+  ],
+  "central": {
+    "item": "minecraft:ice"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:balanced_shard"
+    },
+    {
+      "item": "thaumcraft:water_shard"
+    }
+  ],
+  "instability": 3,
+  "research": "ice_rod",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:wand_rod_ice"
+  }
+}

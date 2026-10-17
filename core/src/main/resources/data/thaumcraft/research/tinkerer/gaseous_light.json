@@ -1,0 +1,31 @@
+{
+  "column": 0,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:gas_light"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.gaseous_light.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/gaseous_light"
+    }
+  ],
+  "parents": [
+    "nitor"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -3,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "lux"
+    },
+    {
+      "key": "aer"
+    }
+  ]
+}

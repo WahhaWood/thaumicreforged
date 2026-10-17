@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "alienis"
+    },
+    {
+      "amount": 16,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 8,
+      "key": "vitreus"
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:ender_pearl"
+  },
+  "research": "ender_shard",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:ender_shard"
+  }
+}

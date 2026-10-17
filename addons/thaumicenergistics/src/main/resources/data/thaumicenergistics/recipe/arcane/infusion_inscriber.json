@@ -1,0 +1,62 @@
+﻿{
+    "type":  "thaumcraft:shaped_arcane",
+    "aspects":  [
+                    {
+                        "amount":  64,
+                        "key":  "aer"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "terra"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "aqua"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "ignis"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "ordo"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "perditio"
+                    }
+                ],
+    "category":  "misc",
+    "key":  {
+                "D":  {
+                          "item":  "thaumicenergistics:diffusion_core"
+                      },
+                "C":  {
+                          "item":  "thaumicenergistics:coalescence_core"
+                      },
+                "T":  {
+                  "tag":  "c:ingots/thaumium"
+                      },
+                "P":  {
+                          "item":  "ae2:calculation_processor"
+                      },
+                "N":  {
+                          "item":  "thaumcraft:nether_shard"
+                      },
+                "E":  {
+                          "item":  "thaumcraft:ender_shard"
+                      },
+                "I":  {
+                          "item":  "thaumicenergistics:knowledge_inscriber"
+                      }
+            },
+    "pattern":  [
+                    "DTD",
+                    "NIE",
+                    "CPC"
+                ],
+    "research":  "infusion_inscriber",
+    "result":  {
+                   "id":  "thaumicenergistics:infusion_inscriber"
+               }
+}

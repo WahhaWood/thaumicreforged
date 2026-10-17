@@ -1,0 +1,40 @@
+{
+  "column": 8,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:essence_crystallizer"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.essence_crystal.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/essence_crystallizer"
+    }
+  ],
+  "parents": [
+    "tubes"
+  ],
+  "row": -2,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 5,
+      "key": "vitreus"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 5,
+      "key": "praecantatio"
+    }
+  ]
+}

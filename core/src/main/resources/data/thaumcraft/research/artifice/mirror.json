@@ -1,0 +1,61 @@
+{
+  "column": -1,
+  "complexity": 2,
+  "entity_triggers": [
+    "minecraft:enderman"
+  ],
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:mirror"
+  },
+  "item_triggers": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    [],
+    [],
+    {
+      "item": "minecraft:end_portal_frame"
+    }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.mirror.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.mirror.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/mirror"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.mirror.page.3"
+    }
+  ],
+  "parents": [
+    "infusion"
+  ],
+  "row": 8,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "iter"
+    },
+    {
+      "amount": 3,
+      "key": "alienis"
+    },
+    {
+      "amount": 3,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 3,
+      "key": "vitreus"
+    }
+  ]
+}

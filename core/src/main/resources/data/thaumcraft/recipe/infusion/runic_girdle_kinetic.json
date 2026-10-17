@@ -1,0 +1,63 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 33,
+      "key": "tutamen"
+    },
+    {
+      "amount": 55,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 64,
+      "key": "aer"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:runic_girdle"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:balanced_shard"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "type": "neoforge:components",
+      "components": {
+        "minecraft:attribute_modifiers": {
+          "modifiers": []
+        },
+        "minecraft:enchantments": {
+          "levels": {}
+        },
+        "minecraft:lore": [],
+        "minecraft:max_stack_size": 1,
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_harming"
+        },
+        "minecraft:rarity": "common",
+        "minecraft:repair_cost": 0
+      },
+      "items": "minecraft:splash_potion",
+      "strict": true
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    }
+  ],
+  "instability": 7,
+  "research": "runic_kinetic",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:runic_girdle_kinetic"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "column": 4,
+  "row": -6,
+  "complexity": 1,
+  "secondary": true,
+  "icon": {
+    "item": "thaumicenergistics:golem_gear_box"
+  },
+  "parents": [
+    "te_iron_gearbox",
+    "te_pseudo_core_use"
+  ],
+  "parents_hidden": [
+    "core_use"
+  ],
+  "tags": [
+    { "amount": 10, "key": "machina" },
+    { "amount": 8, "key": "praecantatio" },
+    { "amount": 5, "key": "metallum" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_thaumium_gearbox.page.1" },
+    { "type": "crucible", "id": "thaumicenergistics:crucible/thaumium_gearbox" }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thaumcraft:item/soul/aqua"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 0.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_aqua_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 1.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_humanus_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 2.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_aer_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 3.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_volatus_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 4.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_ignis_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 5.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_praecantatio_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 6.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_exanimis_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 7.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_corpus_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 8.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_bestia_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 9.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_venenum_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 10.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_terra_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 11.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_alienis_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 12.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_iter_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 13.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_metallum_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 14.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_limus_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 15.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_pannus_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 16.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_messis_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 17.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 18.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 19.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 2.0,
+        "thaumcraft:mob_aspect_id": 20.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown_infused"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 0.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_aqua_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 1.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_humanus_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 2.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_aer_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 3.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_volatus_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 4.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_ignis_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 5.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_praecantatio_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 6.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_exanimis_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 7.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_corpus_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 8.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_bestia_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 9.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_venenum_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 10.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_terra_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 11.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_alienis_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 12.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_iter_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 13.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_metallum_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 14.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_limus_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 15.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_pannus_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 16.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_messis_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 17.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 18.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 19.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_type": 1.0,
+        "thaumcraft:mob_aspect_id": 20.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown_condensed"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 0.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_aqua"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 1.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_humanus"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 2.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_aer"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 3.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_volatus"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 4.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_ignis"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 5.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_praecantatio"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 6.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_exanimis"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 7.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_corpus"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 8.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_bestia"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 9.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_venenum"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 10.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_terra"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 11.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_alienis"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 12.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_iter"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 13.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_metallum"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 14.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_limus"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 15.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_pannus"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 16.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_messis"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 17.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 18.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 19.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown"
+    },
+    {
+      "predicate": {
+        "thaumcraft:mob_aspect_id": 20.0
+      },
+      "model": "thaumcraft:item/soul/mob_aspect_unknown"
+    }
+  ]
+}

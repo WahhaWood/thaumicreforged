@@ -1,0 +1,26 @@
+{
+  "research_type": "thaumicenergistics:pseudo",
+  "column": 5,
+  "row": 0,
+  "complexity": 3,
+  "pseudo_for": "sceptre",
+  "stub": true,
+  "hidden": true,
+  "icon": {
+    "type": "neoforge:components",
+    "components": {
+      "minecraft:custom_data": {
+        "cap": "thaumium",
+        "rod": "silverwood",
+        "sceptre": 1
+      }
+    },
+    "items": [
+      "thaumcraft:wand_casting"
+    ],
+    "strict": false
+  },
+  "pages": [
+    { "type": "text", "key": "tc.research.sceptre.page.1" }
+  ]
+}

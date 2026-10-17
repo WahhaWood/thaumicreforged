@@ -1,0 +1,37 @@
+{
+  "column": -7,
+  "complexity": 3,
+  "icon": {
+    "item": "thaumcraft:mobilizer"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.mobilizer.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/mobilizer"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/mobilizer_relay"
+    }
+  ],
+  "parents": [
+    "magnet"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 5,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "motus"
+    },
+    {
+      "amount": 2,
+      "key": "ordo"
+    }
+  ]
+}

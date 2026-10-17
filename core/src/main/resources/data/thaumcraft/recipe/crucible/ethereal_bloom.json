@@ -1,0 +1,29 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 16,
+      "key": "herba"
+    },
+    {
+      "amount": 16,
+      "key": "sano"
+    },
+    {
+      "amount": 8,
+      "key": "vitium"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:shimmer_leaf"
+  },
+  "research": "ethereal_bloom",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:ethereal_bloom"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "terra"
+    },
+    {
+      "amount": 10,
+      "key": "perditio"
+    },
+    {
+      "amount": 6,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:earth_shard"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "thaumcraft:shatter",
+  "instability": 4,
+  "research": "ttench_shatter"
+}

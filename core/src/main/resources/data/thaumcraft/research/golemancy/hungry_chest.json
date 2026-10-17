@@ -1,0 +1,29 @@
+{
+  "column": -1,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:hungry_chest"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.hungry_chest.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/hungry_chest"
+    }
+  ],
+  "row": 0,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "fames"
+    },
+    {
+      "amount": 3,
+      "key": "vacuos"
+    }
+  ]
+}

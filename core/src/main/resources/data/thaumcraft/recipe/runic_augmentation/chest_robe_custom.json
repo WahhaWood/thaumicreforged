@@ -1,0 +1,16 @@
+{
+  "type": "thaumcraft:runic_augmentation",
+  "components": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:salis_mundus"
+    }
+  ],
+  "display": {
+    "count": 1,
+    "id": "thaumcraft:cloth_chest"
+  },
+  "research": "runic_augmentation"
+}

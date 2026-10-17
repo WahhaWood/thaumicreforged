@@ -1,0 +1,27 @@
+{
+  "column": 4,
+  "row": -1,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumicenergistics:vis_interface"
+  },
+  "parents": [
+    "te_arcane_terminal",
+    "te_pseudo_vis_power"
+  ],
+  "parents_hidden": [
+    "vis_power"
+  ],
+  "tags": [
+    { "amount": 5, "key": "auram" },
+    { "amount": 4, "key": "potentia" },
+    { "amount": 3, "key": "vacuos" },
+    { "amount": 2, "key": "machina" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_vis_relay_interface.page.1" },
+    { "type": "arcane", "id": "thaumicenergistics:arcane/vis_relay_interface" },
+    { "type": "text", "key": "tc.research.te_vis_relay_interface.page.2" },
+    { "type": "text", "key": "tc.research.te_vis_relay_interface.page.3" }
+  ]
+}

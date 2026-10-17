@@ -1,0 +1,39 @@
+{
+  "column": -4,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_deflect"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_deflect.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/focus_deflect"
+    }
+  ],
+  "parents": [
+    "focus_smelt"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -3,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "motus"
+    },
+    {
+      "key": "aer"
+    },
+    {
+      "key": "ordo"
+    },
+    {
+      "key": "mortuus"
+    }
+  ]
+}

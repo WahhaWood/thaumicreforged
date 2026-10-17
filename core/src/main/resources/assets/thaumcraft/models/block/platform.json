@@ -1,0 +1,5 @@
+{
+  "loader": "thaumcraft:platform_block_mimic",
+  "particle": "thaumcraft:block/platform",
+  "fallback": "thaumcraft:block/platform_base"
+}

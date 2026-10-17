@@ -1,0 +1,42 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 5,
+      "key": "ordo"
+    },
+    {
+      "amount": 5,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "thaumcraft:arcane_alembic"
+    },
+    "C": {
+      "item": "thaumcraft:alchemical_construct"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "T": {
+      "item": "thaumcraft:essence_tube"
+    }
+  },
+  "pattern": [
+    " T ",
+    "ACP",
+    " T "
+  ],
+  "research": "centrifuge",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:alchemical_centrifuge"
+  }
+}

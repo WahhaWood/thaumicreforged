@@ -1,0 +1,49 @@
+{
+  "column": 2,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_thaumium"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_thaumium.page.1"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumium_block"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_thaumium"
+    }
+  ],
+  "parents": [
+    "golem_iron",
+    "thaumium"
+  ],
+  "row": 10,
+  "tags": [
+    {
+      "amount": 10,
+      "key": "spiritus"
+    },
+    {
+      "amount": 10,
+      "key": "motus"
+    },
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    }
+  ]
+}

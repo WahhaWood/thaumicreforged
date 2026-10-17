@@ -1,0 +1,38 @@
+{
+  "column": 17,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:placement_mirror"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.placement_mirror.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/placement_mirror"
+    }
+  ],
+  "parents": [
+    "block_talisman"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 16,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "fabrico"
+    },
+    {
+      "key": "vitreus"
+    },
+    {
+      "key": "alienis"
+    },
+    {
+      "key": "cognitio"
+    }
+  ]
+}

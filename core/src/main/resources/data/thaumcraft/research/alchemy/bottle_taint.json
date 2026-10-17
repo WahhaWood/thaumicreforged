@@ -1,0 +1,42 @@
+{
+  "aspect_triggers": [
+    "vitium"
+  ],
+  "column": -8,
+  "complexity": 2,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:bottle_taint"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.bottle_taint.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/bottle_taint"
+    }
+  ],
+  "parents": [
+    "entropic_processing"
+  ],
+  "row": 1,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "vitium"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "key": "perditio"
+    },
+    {
+      "key": "aqua"
+    }
+  ],
+  "warp": 2
+}

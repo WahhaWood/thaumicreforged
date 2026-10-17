@@ -1,0 +1,51 @@
+{
+  "column": 17,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_helmet"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichorcloth_armor.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/ichor_helmet"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/ichor_chest"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/ichor_leggings"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/ichor_boots"
+    }
+  ],
+  "parents": [
+    "ichor_cloth"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 5,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "tutamen"
+    },
+    {
+      "key": "pannus"
+    },
+    {
+      "key": "lux"
+    },
+    {
+      "key": "fabrico"
+    }
+  ],
+  "warp": 4
+}

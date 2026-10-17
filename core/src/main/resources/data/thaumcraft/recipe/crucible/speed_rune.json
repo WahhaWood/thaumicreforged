@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "motus"
+    },
+    {
+      "amount": 4,
+      "key": "sensus"
+    },
+    {
+      "amount": 4,
+      "key": "auram"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:air_crystal_cluster"
+  },
+  "research": "update_speed",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:speed_rune"
+  }
+}

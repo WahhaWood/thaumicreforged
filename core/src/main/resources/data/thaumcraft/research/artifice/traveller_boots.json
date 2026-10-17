@@ -1,0 +1,41 @@
+{
+  "column": -1,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:traveller_boots"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.traveller_boots.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/traveller_boots"
+    }
+  ],
+  "parents": [
+    "enchfabric",
+    "infusion"
+  ],
+  "row": 5,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "iter"
+    },
+    {
+      "amount": 3,
+      "key": "terra"
+    },
+    {
+      "amount": 3,
+      "key": "volatus"
+    },
+    {
+      "amount": 3,
+      "key": "aqua"
+    }
+  ]
+}

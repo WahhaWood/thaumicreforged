@@ -1,0 +1,39 @@
+{
+  "column": -3,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:sanity_soap"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.sanity_soap.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/sanity_soap"
+    }
+  ],
+  "parents": [
+    "bath_salts"
+  ],
+  "row": -6,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "cognitio"
+    },
+    {
+      "amount": 5,
+      "key": "ordo"
+    },
+    {
+      "amount": 5,
+      "key": "sano"
+    },
+    {
+      "amount": 5,
+      "key": "alienis"
+    }
+  ]
+}

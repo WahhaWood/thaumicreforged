@@ -1,0 +1,58 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 24,
+      "key": "metallum"
+    },
+    {
+      "amount": 24,
+      "key": "tutamen"
+    },
+    {
+      "amount": 24,
+      "key": "pannus"
+    },
+    {
+      "amount": 16,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 16,
+      "key": "alienis"
+    },
+    {
+      "amount": 24,
+      "key": "vacuos"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:void_chest"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:cloth_chest"
+    },
+    {
+      "tag": "c:ingots/void"
+    },
+    {
+      "tag": "c:ingots/thaumium"
+    },
+    {
+      "item": "thaumcraft:salis_mundus"
+    },
+    {
+      "item": "thaumcraft:cloth"
+    },
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "instability": 6,
+  "research": "armor_void_fortress",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:void_robe_chest"
+  }
+}

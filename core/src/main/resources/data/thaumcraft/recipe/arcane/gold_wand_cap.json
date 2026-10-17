@@ -1,0 +1,32 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 3,
+      "key": "ordo"
+    },
+    {
+      "amount": 3,
+      "key": "ignis"
+    },
+    {
+      "amount": 3,
+      "key": "aer"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "pattern": [
+    "NNN",
+    "N N"
+  ],
+  "research": "gold_cap",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:wand_cap_gold"
+  }
+}

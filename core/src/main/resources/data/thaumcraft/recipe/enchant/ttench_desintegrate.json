@@ -1,0 +1,31 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "perditio"
+    },
+    {
+      "amount": 8,
+      "key": "vacuos"
+    },
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "thaumcraft:entropy_shard"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "thaumcraft:desintegrate",
+  "instability": 3,
+  "research": "ttench_desintegrate"
+}

@@ -1,0 +1,36 @@
+{
+  "column": 4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:xp_talisman"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.xp_talisman.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/xp_talisman"
+    }
+  ],
+  "parents": [
+    "brain_jar",
+    "spell_cloth"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -1,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "lucrum"
+    },
+    {
+      "key": "praecantatio"
+    },
+    {
+      "key": "humanus"
+    }
+  ]
+}

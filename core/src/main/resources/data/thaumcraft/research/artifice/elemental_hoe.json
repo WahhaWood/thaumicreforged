@@ -1,0 +1,37 @@
+{
+  "column": -7,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:elemental_hoe"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.elemental_hoe.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/elemental_hoe"
+    }
+  ],
+  "parents": [
+    "thaumium",
+    "infusion"
+  ],
+  "row": 7,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 3,
+      "key": "victus"
+    },
+    {
+      "amount": 3,
+      "key": "messis"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "thaumcraft:item/wand/cap/base",
+	"textures": {
+		"cap": "thaumcraft:item/model/wand_cap_iron"
+	}
+}

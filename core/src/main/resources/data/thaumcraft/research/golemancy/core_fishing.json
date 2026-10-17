@@ -1,0 +1,58 @@
+{
+  "column": -2,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_fishing"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.core_fishing.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/golem_core_fishing"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.core_fishing.page.2"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.core_fishing.page.3"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.core_fishing.page.4"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.core_fishing.page.5"
+    }
+  ],
+  "parents": [
+    "golem_core_harvest",
+    "infusion"
+  ],
+  "row": 7,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "meto"
+    },
+    {
+      "amount": 3,
+      "key": "bestia"
+    },
+    {
+      "amount": 3,
+      "key": "fames"
+    }
+  ]
+}

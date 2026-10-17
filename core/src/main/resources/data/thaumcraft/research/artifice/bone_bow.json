@@ -1,0 +1,41 @@
+{
+  "column": -7,
+  "complexity": 1,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:bone_bow"
+  },
+  "item_triggers": [
+    {
+      "item": "minecraft:bow"
+    },
+    {
+      "item": "minecraft:bone"
+    }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.bone_bow.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/bone_bow"
+    }
+  ],
+  "row": 1,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "telum"
+    },
+    {
+      "amount": 3,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "motus"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "column": 5,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumcraft:wand_cap_thaumium_inert"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.thaumium_cap.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/thaumium_inert_wand_cap"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/thaumium_wand_cap"
+    }
+  ],
+  "parents": [
+    "gold_cap",
+    "thaumium",
+    "infusion"
+  ],
+  "row": 4,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "metallum"
+    },
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    }
+  ]
+}

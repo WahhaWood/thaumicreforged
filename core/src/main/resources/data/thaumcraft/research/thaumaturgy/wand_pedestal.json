@@ -1,0 +1,42 @@
+{
+  "column": -9,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:wand_pedestal"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.wand_pedestal.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/wand_pedestal"
+    }
+  ],
+  "parents": [
+    "infusion",
+    "nodepreserve",
+    "node_stabilizer"
+  ],
+  "row": -6,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "potentia"
+    }
+  ]
+}

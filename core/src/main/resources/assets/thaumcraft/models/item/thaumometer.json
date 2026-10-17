@@ -1,0 +1,45 @@
+{
+	"parent": "builtin/generated",
+	"gui_light": "front",
+	"loader": "neoforge:obj",
+	"flip_v": true,
+	"model": "thaumcraft:models/obj/thaumometer.obj",
+	"textures": {
+		"layer0": "thaumcraft:item/model/thaumometer"
+	},
+	"display": {
+		"gui": {
+			"rotation": [ 90, 90, 0 ],
+			"translation": [ 2.5, 2.5, 0 ],
+			"scale": [ 0.3, 0.3, 0.3 ]
+		},
+		"ground": {
+			"translation": [ 2.85, 3, 2.85 ],
+			"scale": [ 0.35, 0.35, 0.35 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 0, 0, -90 ],
+			"translation": [ 1, -1.5, 0 ],
+			"scale": [ 0.15, 0.15, 0.15 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ 0, 0, -90 ],
+			"translation": [ 1, -0.5, 0.75 ],
+			"scale": [ 0.15, 0.15, 0.15 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 90, 90, 0 ],
+			"translation": [ -0.8, 15, -20 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ 120, 5, 90 ],
+			"translation": [ 7, -0.5, -6 ],
+			"scale": [ 0.2, 0.2, 0.2 ]
+		},
+		"fixed": {
+			"rotation": [ -90, 0, 0 ],
+			"translation": [ 3.5, 3.5, -3 ],
+			"scale": [ 0.45, 0.45, 0.45 ]
+		}
+	}
+}

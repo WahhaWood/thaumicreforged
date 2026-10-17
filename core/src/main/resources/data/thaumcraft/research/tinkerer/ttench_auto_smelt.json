@@ -1,0 +1,33 @@
+{
+  "column": 7,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/auto_smelt.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_auto_smelt.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_auto_smelt"
+    }
+  ],
+  "parents": [
+    "enchanter"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 5,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "ignis"
+    },
+    {
+      "key": "perditio"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

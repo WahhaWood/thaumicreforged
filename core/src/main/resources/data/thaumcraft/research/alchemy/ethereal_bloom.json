@@ -1,0 +1,47 @@
+{
+  "aspect_triggers": [
+    "vitium"
+  ],
+  "column": -2,
+  "complexity": 2,
+  "concealed": true,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:ethereal_bloom"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ethereal_bloom.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/ethereal_bloom"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.ethereal_bloom.page.2"
+    }
+  ],
+  "parents": [
+    "crucible"
+  ],
+  "row": -3,
+  "tags": [
+    {
+      "key": "praecantatio"
+    },
+    {
+      "amount": 6,
+      "key": "herba"
+    },
+    {
+      "amount": 3,
+      "key": "sano"
+    },
+    {
+      "amount": 6,
+      "key": "vitium"
+    }
+  ]
+}

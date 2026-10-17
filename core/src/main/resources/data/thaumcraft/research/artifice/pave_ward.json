@@ -1,0 +1,40 @@
+{
+  "column": 6,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:warding_stone"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.pave_ward.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/warding_stone"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.pave_ward.page.2"
+    }
+  ],
+  "parents": [
+    "arcane_stone"
+  ],
+  "row": -4,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "motus"
+    },
+    {
+      "amount": 3,
+      "key": "vinculum"
+    },
+    {
+      "amount": 3,
+      "key": "bestia"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "ordo"
+    },
+    {
+      "amount": 5,
+      "key": "aqua"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "W": {
+      "item": "thaumcraft:silverwood_planks"
+    }
+  },
+  "pattern": [
+    "GWG"
+  ],
+  "research": "distilessence",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:vis_filter"
+  }
+}

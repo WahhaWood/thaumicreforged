@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "thaumcraft:block/alch_furnace/valve",
+    "east": "#down",
+    "south": "#down",
+    "west": "#down",
+    "up": "#down",
+    "down": "thaumcraft:block/alch_furnace/valve_bottom"
+  }
+}

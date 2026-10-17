@@ -1,0 +1,45 @@
+﻿{
+    "type":  "thaumcraft:shapeless_arcane",
+    "aspects":  [
+                    {
+                        "amount":  10,
+                        "key":  "aer"
+                    },
+                    {
+                        "amount":  10,
+                        "key":  "terra"
+                    },
+                    {
+                        "amount":  10,
+                        "key":  "perditio"
+                    },
+                    {
+                        "amount":  10,
+                        "key":  "ignis"
+                    },
+                    {
+                        "amount":  10,
+                        "key":  "ordo"
+                    },
+                    {
+                        "amount":  10,
+                        "key":  "aqua"
+                    }
+                ],
+    "category":  "misc",
+    "ingredients":  [
+                        {
+                            "item":  "ae2:terminal"
+                        },
+                        {
+                            "item":  "thaumcraft:arcane_workbench"
+                        },
+                        {
+                            "item":  "ae2:calculation_processor"
+                        }
+                    ],
+    "research":  "te_arcane_terminal",
+    "result":  {
+                   "id":  "thaumicenergistics:arcane_terminal"
+               }
+}

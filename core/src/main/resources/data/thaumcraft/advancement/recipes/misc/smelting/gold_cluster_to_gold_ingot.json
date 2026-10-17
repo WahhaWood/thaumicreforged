@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_gold_cluster": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thaumcraft:gold_cluster"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thaumcraft:smelting/gold_cluster_to_gold_ingot"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_gold_cluster"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thaumcraft:smelting/gold_cluster_to_gold_ingot"
+    ]
+  }
+}

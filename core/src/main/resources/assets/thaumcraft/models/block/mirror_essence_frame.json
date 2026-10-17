@@ -1,0 +1,22 @@
+{
+  "render_type": "translucent",
+  "parent": "block/block",
+  "textures": {
+    "particle": "thaumcraft:block/mirror_essence_frame",
+    "frame": "thaumcraft:block/mirror_essence_frame"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 15],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#frame" },
+        "east":  { "uv": [0, 0, 1, 16], "texture": "#frame" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#frame", "cullface": "south" },
+        "west":  { "uv": [0, 0, 1, 16], "texture": "#frame" },
+        "up":    { "uv": [0, 0, 16, 1], "texture": "#frame" },
+        "down":  { "uv": [0, 0, 16, 1], "texture": "#frame" }
+      }
+    }
+  ]
+}

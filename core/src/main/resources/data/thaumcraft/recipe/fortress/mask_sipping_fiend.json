@@ -1,0 +1,43 @@
+{
+  "type": "thaumcraft:fortress_armor_upgrade",
+  "aspects": [
+    {
+      "amount": 64,
+      "key": "exanimis"
+    },
+    {
+      "amount": 64,
+      "key": "victus"
+    },
+    {
+      "amount": 16,
+      "key": "tutamen"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:thaumium_fortress_helmet"
+  },
+  "components": [
+    {
+      "tag": "c:dyes/orange"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "instability": 8,
+  "research": "mask_sipping_fiend",
+  "upgrade": "mask_sipping_fiend"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 16,
+      "key": "arbor"
+    },
+    {
+      "amount": 16,
+      "key": "meto"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:golem_core_harvest"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:elemental_axe"
+    },
+    {
+      "item": "minecraft:iron_axe"
+    },
+    {
+      "item": "minecraft:iron_axe"
+    },
+    {
+      "item": "minecraft:iron_axe"
+    }
+  ],
+  "instability": 2,
+  "research": "core_chop",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_core_lumber"
+  }
+}

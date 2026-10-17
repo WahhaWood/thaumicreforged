@@ -1,0 +1,15 @@
+{
+  "research_type": "thaumicenergistics:pseudo",
+  "column": -4,
+  "row": 0,
+  "complexity": 2,
+  "pseudo_for": "mirror",
+  "stub": true,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:mirror"
+  },
+  "pages": [
+    { "type": "text", "key": "tc.research.mirror.page.1" }
+  ]
+}

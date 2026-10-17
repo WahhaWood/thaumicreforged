@@ -1,0 +1,51 @@
+{
+  "column": -4,
+  "complexity": 1,
+  "concealed": true,
+  "conditions": [
+    {
+      "type": "neoforge:or",
+      "values": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "mekanism"
+        },
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "industrialreforged"
+        }
+      ]
+    }
+  ],
+  "icon": {
+    "item": "thaumcraft:tin_cluster"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.pure_tin.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/tin_cluster"
+    }
+  ],
+  "parents": [
+    "pure_iron"
+  ],
+  "row": 7,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 2,
+      "key": "ordo"
+    },
+    {
+      "key": "vitreus"
+    }
+  ]
+}

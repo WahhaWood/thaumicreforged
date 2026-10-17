@@ -1,0 +1,36 @@
+﻿{
+    "type":  "thaumcraft:shaped_arcane",
+    "aspects":  [
+                    {
+                        "amount":  1,
+                        "key":  "terra"
+                    },
+                    {
+                        "amount":  1,
+                        "key":  "ignis"
+                    }
+                ],
+    "category":  "misc",
+    "key":  {
+                "I":  {
+                          "item":  "minecraft:iron_ingot"
+                      },
+                "W":  [
+                          {
+                              "tag":  "c:gears/wood"
+                          },
+                          {
+                              "item":  "minecraft:stick"
+                          }
+                      ]
+            },
+    "pattern":  [
+                    " I ",
+                    " W ",
+                    "I I"
+                ],
+    "research":  "te_iron_gearbox",
+    "result":  {
+                   "id":  "thaumicenergistics:iron_gear"
+               }
+}

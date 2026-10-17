@@ -1,0 +1,34 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "aer"
+    },
+    {
+      "amount": 6,
+      "key": "motus"
+    },
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "thaumcraft:slow_fall",
+  "instability": 2,
+  "research": "ttench_slow_fall"
+}

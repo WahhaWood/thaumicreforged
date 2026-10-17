@@ -1,0 +1,52 @@
+{
+  "column": 10,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:alchemical_centrifuge"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.centrifuge.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/alchemical_centrifuge"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.centrifuge.page.2"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.centrifuge.page.3"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/essence_buffer"
+    }
+  ],
+  "parents": [
+    "tube_filter"
+  ],
+  "row": 0,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "perditio"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "fabrico"
+    }
+  ]
+}

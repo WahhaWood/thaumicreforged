@@ -1,0 +1,56 @@
+{
+  "column": -5,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumcraft:node_transducer"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.vis_power.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/node_transducer"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.vis_power.page.2"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.vis_power.page.3"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/vis_relay"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.vis_power.page.4"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.vis_power.page.5"
+    }
+  ],
+  "parents": [
+    "node_stabilizer"
+  ],
+  "row": -6,
+  "special": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "machina"
+    },
+    {
+      "amount": 6,
+      "key": "potentia"
+    }
+  ]
+}

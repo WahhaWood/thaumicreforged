@@ -1,0 +1,40 @@
+{
+  "aspect_triggers": [
+    "pannus"
+  ],
+  "column": 5,
+  "complexity": 1,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:golem_decor_top_hat"
+  },
+  "item_triggers": [
+    {
+      "tag": "minecraft:wool"
+    }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_decor_top_hat.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_decor_top_hat"
+    }
+  ],
+  "row": 10,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "pannus"
+    },
+    {
+      "key": "victus"
+    },
+    {
+      "key": "lucrum"
+    }
+  ]
+}

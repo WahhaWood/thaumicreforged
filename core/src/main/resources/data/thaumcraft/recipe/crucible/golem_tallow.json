@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "humanus"
+    },
+    {
+      "amount": 8,
+      "key": "motus"
+    },
+    {
+      "amount": 8,
+      "key": "spiritus"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:magic_tallow_block"
+  },
+  "research": "golem_tallow",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_tallow"
+  }
+}

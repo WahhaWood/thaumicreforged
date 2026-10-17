@@ -1,0 +1,31 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 40,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "tag": "thaumcraft:shards"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "S": {
+      "item": "thaumcraft:arcane_stone"
+    }
+  },
+  "pattern": [
+    "SBS",
+    "BEB",
+    "SBS"
+  ],
+  "research": "infusion",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:runic_matrix"
+  }
+}

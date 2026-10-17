@@ -1,0 +1,32 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "aqua"
+    },
+    {
+      "amount": 4,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:red_wool"
+    },
+    "S": {
+      "tag": "c:strings"
+    }
+  },
+  "pattern": [
+    "CCS",
+    "CCS",
+    "  S"
+  ],
+  "research": "golem_decor_fez",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_decor_fez"
+  }
+}

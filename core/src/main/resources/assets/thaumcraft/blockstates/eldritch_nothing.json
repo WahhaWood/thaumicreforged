@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "exposed=false": {
+      "model": "thaumcraft:block/blank"
+    },
+    "exposed=true": {
+      "model": "thaumcraft:block/blank"
+    }
+  }
+}

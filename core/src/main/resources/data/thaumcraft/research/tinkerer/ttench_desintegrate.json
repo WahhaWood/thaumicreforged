@@ -1,0 +1,33 @@
+{
+  "column": 6,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/desintegrate.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_desintegrate.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_desintegrate"
+    }
+  ],
+  "parents": [
+    "enchanter"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 6,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "perditio"
+    },
+    {
+      "key": "vacuos"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

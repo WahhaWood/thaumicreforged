@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cinder_pearl": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thaumcraft:cinder_pearl"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thaumcraft:shapeless/blaze_powder_from_pearl"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cinder_pearl"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thaumcraft:shapeless/blaze_powder_from_pearl"
+    ]
+  }
+}

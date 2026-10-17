@@ -1,0 +1,38 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 64,
+      "key": "alienis"
+    },
+    {
+      "amount": 16,
+      "key": "vacuos"
+    },
+    {
+      "amount": 16,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 16,
+      "key": "iter"
+    }
+  ],
+  "central": {
+    "item": "minecraft:ender_eye"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:void_seed"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "instability": 5,
+  "research": "oculus",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:eldritch_eye"
+  }
+}

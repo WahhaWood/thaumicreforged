@@ -1,0 +1,49 @@
+{
+	"variants": {
+		"element=base,facing=east": {
+			"model": "thaumcraft:block/alch_furnace/base",
+			"y": 180
+		},
+		"element=base,facing=north": {
+			"model": "thaumcraft:block/alch_furnace/base",
+			"y": 90
+		},
+		"element=base,facing=south": {
+			"model": "thaumcraft:block/alch_furnace/base",
+			"y": 270
+		},
+		"element=base,facing=west": {
+			"model": "thaumcraft:block/alch_furnace/base"
+		},
+		"element=valve,facing=east": {
+			"model": "thaumcraft:block/alch_furnace/valve",
+			"y": 270
+		},
+		"element=valve,facing=north": {
+			"model": "thaumcraft:block/alch_furnace/valve",
+			"y": 180
+		},
+		"element=valve,facing=south": {
+			"model": "thaumcraft:block/alch_furnace/valve"
+		},
+		"element=valve,facing=west": {
+			"model": "thaumcraft:block/alch_furnace/valve",
+			"y": 90
+		},
+		"element=center,facing=east": {
+			"model": "thaumcraft:block/alch_furnace/center"
+		},
+		"element=center,facing=north": {
+			"model": "thaumcraft:block/alch_furnace/center",
+			"y": 90
+		},
+		"element=center,facing=south": {
+			"model": "thaumcraft:block/alch_furnace/center",
+			"y": 270
+		},
+		"element=center,facing=west": {
+			"model": "thaumcraft:block/alch_furnace/center"
+		}
+	}
+}
+

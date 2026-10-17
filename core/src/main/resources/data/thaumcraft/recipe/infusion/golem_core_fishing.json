@@ -1,0 +1,40 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "aqua"
+    },
+    {
+      "amount": 16,
+      "key": "meto"
+    },
+    {
+      "amount": 16,
+      "key": "bestia"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:golem_core_harvest"
+  },
+  "components": [
+    {
+      "item": "minecraft:fishing_rod"
+    },
+    {
+      "item": "minecraft:salmon"
+    },
+    {
+      "item": "minecraft:pufferfish"
+    },
+    {
+      "item": "minecraft:mutton"
+    }
+  ],
+  "instability": 3,
+  "research": "core_fishing",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_core_fishing"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 16,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 16,
+      "key": "ordo"
+    },
+    {
+      "amount": 16,
+      "key": "meto"
+    },
+    {
+      "amount": 16,
+      "key": "perfodio"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:iron_pickaxe"
+    },
+    {
+      "item": "minecraft:cobweb"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "minecraft:silk_touch",
+  "instability": 5,
+  "research": "infusion_enchantment"
+}

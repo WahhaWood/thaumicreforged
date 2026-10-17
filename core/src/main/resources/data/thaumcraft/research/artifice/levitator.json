@@ -1,0 +1,36 @@
+{
+  "column": -3,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:lifter"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.levitator.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/lifter"
+    }
+  ],
+  "parents": [
+    "nitor"
+  ],
+  "row": -3,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "motus"
+    },
+    {
+      "amount": 3,
+      "key": "volatus"
+    },
+    {
+      "amount": 3,
+      "key": "aer"
+    }
+  ]
+}

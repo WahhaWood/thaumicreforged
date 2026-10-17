@@ -1,0 +1,80 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "herba"
+    },
+    {
+      "amount": 16,
+      "key": "iter"
+    },
+    {
+      "amount": 64,
+      "key": "lux"
+    },
+    {
+      "amount": 32,
+      "key": "motus"
+    },
+    {
+      "amount": 32,
+      "key": "perfodio"
+    },
+    {
+      "amount": 50,
+      "key": "terra"
+    },
+    {
+      "amount": 32,
+      "key": "tutamen"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:ichor_boots"
+  },
+  "components": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:focus_primal"
+    },
+    {
+      "item": "thaumcraft:thaumonomicon"
+    },
+    {
+      "item": "minecraft:golden_boots"
+    },
+    {
+      "item": "minecraft:grass_block"
+    },
+    {
+      "item": "thaumcraft:arcane_bore"
+    },
+    {
+      "item": "thaumcraft:arcane_lamp_growth"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "minecraft:white_wool"
+    },
+    {
+      "item": "minecraft:lead"
+    }
+  ],
+  "instability": 13,
+  "research": "ichorcloth_boots_gem",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:ichor_gem_boots"
+  }
+}

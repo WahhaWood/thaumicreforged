@@ -1,0 +1,33 @@
+{
+  "column": 3,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/vamprisim.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_vampirism.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_vampirism"
+    }
+  ],
+  "parents": [
+    "enchanter"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 5,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "fames"
+    },
+    {
+      "key": "telum"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "thaumcraft:config_flag",
+      "flag": "allowMirrors"
+    },
+    {
+      "type": "thaumcraft:config_flag",
+      "flag": "enableKami"
+    }
+  ],
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 100,
+      "key": "iter"
+    },
+    {
+      "amount": 64,
+      "key": "alienis"
+    },
+    {
+      "amount": 50,
+      "key": "praecantatio"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:sky_pearl"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:mirror"
+    },
+    {
+      "item": "thaumcraft:focus_portable_hole"
+    }
+  ],
+  "instability": 10,
+  "research": "focus_recall",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_recall"
+  }
+}

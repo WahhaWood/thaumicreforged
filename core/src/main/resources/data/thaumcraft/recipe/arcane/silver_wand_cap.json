@@ -1,0 +1,32 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "ordo"
+    },
+    {
+      "amount": 4,
+      "key": "ignis"
+    },
+    {
+      "amount": 4,
+      "key": "aer"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "N": {
+      "tag": "c:nuggets/silver"
+    }
+  },
+  "pattern": [
+    "NNN",
+    "N N"
+  ],
+  "research": "silver_cap",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:wand_cap_silver_inert"
+  }
+}

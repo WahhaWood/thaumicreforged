@@ -1,0 +1,40 @@
+{
+  "column": -4,
+  "complexity": 2,
+  "hidden": true,
+  "aspect_triggers": [
+    "sano"
+  ],
+  "icon": {
+    "item": "thaumcraft:bath_salts"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.bath_salts.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/bath_salts"
+    }
+  ],
+  "row": -4,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    },
+    {
+      "amount": 3,
+      "key": "sano"
+    }
+  ]
+}

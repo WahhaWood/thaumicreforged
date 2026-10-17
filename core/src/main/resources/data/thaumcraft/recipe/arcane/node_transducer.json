@@ -1,0 +1,45 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "ignis"
+    },
+    {
+      "amount": 32,
+      "key": "aer"
+    },
+    {
+      "amount": 32,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "thaumcraft:nitor"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "S": {
+      "item": "thaumcraft:node_stabilizer"
+    }
+  },
+  "pattern": [
+    "RCR",
+    "ISI",
+    "RAR"
+  ],
+  "research": "vis_power",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:node_transducer"
+  }
+}

@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"texture_size": [256, 128],
+	"textures": {
+		"0": "thaumcraft:block/model/arcane_bore",
+		"particle": "thaumcraft:block/model/arcane_bore"
+	},
+	"elements": [
+		{
+			"name": "neck",
+			"from": [6, 1, 6],
+			"to": [10, 4, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [10.5, 13.125, 11.125, 14], "texture": "#0"},
+				"east": {"uv": [10.5, 13.125, 11.125, 14], "texture": "#0"},
+				"south": {"uv": [10.5, 13.125, 11.125, 14], "texture": "#0"},
+				"west": {"uv": [10.5, 13.125, 11.125, 14], "texture": "#0"},
+				"up": {"uv": [13.25, 14, 13.875, 15.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "nose",
+			"from": [5.5, 0, 5.5],
+			"to": [10.5, 1, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [10.5, 14, 11.125, 14.75], "texture": "#0"},
+				"east": {"uv": [10.5, 14, 11.125, 14.75], "texture": "#0"},
+				"south": {"uv": [10.5, 14, 11.125, 14.75], "texture": "#0"},
+				"west": {"uv": [10.5, 14, 11.125, 14.75], "texture": "#0"},
+				"up": {"uv": [13.25, 14, 13.875, 15.25], "texture": "#0"},
+				"down": {"uv": [13.25, 14, 13.875, 15.25], "texture": "#0"}
+			}
+		}
+	]
+}

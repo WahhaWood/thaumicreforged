@@ -1,0 +1,36 @@
+{
+  "column": 6,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:arcane_sensor"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.arcane_ear.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/arcane_sensor"
+    }
+  ],
+  "parents": [
+    "goggles"
+  ],
+  "row": 0,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "potentia"
+    },
+    {
+      "amount": 3,
+      "key": "aer"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "autoUnlock": true,
+  "column": 0,
+  "icon": {
+    "item": "thaumcraft:crucible"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.crucible.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.crucible.page.2"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.crucible.page.3"
+    },
+    {
+      "type": "formed_structure",
+      "ingredients": [
+        {
+          "item": "minecraft:cauldron"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "key": "tc.research.crucible.page.4"
+    },
+    {
+      "type": "recipes",
+      "value": [
+        {
+          "type": "crucible",
+          "id": "thaumcraft:crucible/balanced_shard_from_air"
+        },
+        {
+          "type": "crucible",
+          "id": "thaumcraft:crucible/balanced_shard_from_fire"
+        },
+        {
+          "type": "crucible",
+          "id": "thaumcraft:crucible/balanced_shard_from_water"
+        },
+        {
+          "type": "crucible",
+          "id": "thaumcraft:crucible/balanced_shard_from_earth"
+        },
+        {
+          "type": "crucible",
+          "id": "thaumcraft:crucible/balanced_shard_from_order"
+        },
+        {
+          "type": "crucible",
+          "id": "thaumcraft:crucible/balanced_shard_from_entropy"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "key": "tc.research.crucible.page.5"
+    }
+  ],
+  "row": 0,
+  "stub": true
+}

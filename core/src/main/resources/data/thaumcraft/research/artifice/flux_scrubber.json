@@ -1,0 +1,45 @@
+{
+  "column": -8,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:flux_scrubber"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.flux_scrubber.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/flux_scrubber"
+    }
+  ],
+  "parents": [
+    "vis_power",
+    "bellows",
+    "tubes"
+  ],
+  "parents_hidden": [
+    "infusion"
+  ],
+  "row": -3,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "vinculum"
+    },
+    {
+      "amount": 3,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "aqua"
+    }
+  ]
+}

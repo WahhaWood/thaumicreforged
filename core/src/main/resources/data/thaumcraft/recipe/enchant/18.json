@@ -1,0 +1,24 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 8,
+      "key": "telum"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:bow"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "minecraft:power",
+  "instability": 2,
+  "research": "infusion_enchantment"
+}

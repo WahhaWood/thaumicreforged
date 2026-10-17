@@ -1,0 +1,53 @@
+{
+	"multipart": [
+		{
+			"when": {"main": "true", "facing": "east"},
+			"apply": {"model": "thaumcraft:block/research_table"}
+		},
+		{
+			"when": {"main": "true", "facing": "north"},
+			"apply": {"model": "thaumcraft:block/research_table", "y": 270}
+		},
+		{
+			"when": {"main": "true", "facing": "south"},
+			"apply": {"model": "thaumcraft:block/research_table", "y": 90}
+		},
+		{
+			"when": {"main": "true", "facing": "west"},
+			"apply": {"model": "thaumcraft:block/research_table", "y": 180}
+		},
+		{
+			"when": {"main": "true", "has_tools": "true", "facing": "east"},
+			"apply": {"model": "thaumcraft:block/research_table_tools"}
+		},
+		{
+			"when": {"main": "true", "has_tools": "true", "facing": "north"},
+			"apply": {"model": "thaumcraft:block/research_table_tools", "y": 270}
+		},
+		{
+			"when": {"main": "true", "has_tools": "true", "facing": "south"},
+			"apply": {"model": "thaumcraft:block/research_table_tools", "y": 90}
+		},
+		{
+			"when": {"main": "true", "has_tools": "true", "facing": "west"},
+			"apply": {"model": "thaumcraft:block/research_table_tools", "y": 180}
+		},
+		{
+			"when": {"main": "true", "has_notes": "true", "facing": "east"},
+			"apply": {"model": "thaumcraft:block/research_table_notes"}
+		},
+		{
+			"when": {"main": "true", "has_notes": "true", "facing": "north"},
+			"apply": {"model": "thaumcraft:block/research_table_notes", "y": 270}
+		},
+		{
+			"when": {"main": "true", "has_notes": "true", "facing": "south"},
+			"apply": {"model": "thaumcraft:block/research_table_notes", "y": 90}
+		},
+		{
+			"when": {"main": "true", "has_notes": "true", "facing": "west"},
+			"apply": {"model": "thaumcraft:block/research_table_notes", "y": 180}
+		}
+	]
+}
+

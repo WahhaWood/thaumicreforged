@@ -1,0 +1,59 @@
+{
+  "column": 3,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:runic_ring"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.runic_armor.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.runic_armor.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/runic_ring"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/runic_amulet"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/runic_girdle"
+    }
+  ],
+  "parents": [
+    "enchfabric"
+  ],
+  "parents_hidden": [
+    "infusion"
+  ],
+  "row": 4,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "tutamen"
+    },
+    {
+      "amount": 3,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "potentia"
+    },
+    {
+      "amount": 3,
+      "key": "cognitio"
+    }
+  ]
+}

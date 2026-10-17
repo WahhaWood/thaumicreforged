@@ -1,0 +1,103 @@
+{
+  "column": 4,
+  "complexity": 1,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:purple_banner"
+  },
+  "item_triggers": [
+    {
+      "item": "thaumcraft:crimson_cult_banner"
+    }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.banners.page.1"
+    },
+    {
+      "type": "recipes",
+      "value": [
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_white"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_orange"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_magenta"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_light_blue"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_yellow"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_lime"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_pink"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_gray"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_light_gray"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_cyan"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_purple"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_blue"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_brown"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_green"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_red"
+        },
+        {
+          "type": "arcane",
+          "id": "thaumcraft:arcane/banner_black"
+        }
+      ]
+    }
+  ],
+  "row": 8,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "pannus"
+    },
+    {
+      "key": "praecantatio"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "thaumcraft:item/ichor_pickaxe_adv"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "thaumcraft:ichor_mode": 1.0
+      },
+      "model": "thaumcraft:item/ichor_pickaxe_adv_mode1"
+    },
+    {
+      "predicate": {
+        "thaumcraft:ichor_mode": 2.0
+      },
+      "model": "thaumcraft:item/ichor_pickaxe_adv_mode2"
+    }
+  ]
+}

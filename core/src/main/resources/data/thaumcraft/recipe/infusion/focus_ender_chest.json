@@ -1,0 +1,37 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "ordo"
+    },
+    {
+      "amount": 10,
+      "key": "perditio"
+    },
+    {
+      "amount": 10,
+      "key": "alienis"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:focus_portable_hole"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:mirror_hand"
+    },
+    {
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "instability": 5,
+  "research": "focus_ender_chest",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_ender_chest"
+  }
+}

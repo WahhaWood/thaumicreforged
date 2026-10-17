@@ -1,0 +1,75 @@
+{
+  "column": 6,
+  "complexity": 3,
+  "entity_triggers": [
+    "thaumcraft:primal_orb"
+  ],
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:staff_rod_primal"
+  },
+  "item_triggers": [
+    {
+      "item": "thaumcraft:focus_primal"
+    }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.primal_staff_rod.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/primal_staff_rod"
+    }
+  ],
+  "parents": [
+    "focus_primal"
+  ],
+  "parents_hidden": [
+    "silverwood_staff_rod",
+    "bone_staff_rod",
+    "greatwood_staff_rod",
+    "blaze_staff_rod",
+    "reed_staff_rod",
+    "obsidian_staff_rod",
+    "quartz_staff_rod",
+    "ice_staff_rod"
+  ],
+  "row": 2,
+  "tags": [
+    {
+      "amount": 9,
+      "key": "aer"
+    },
+    {
+      "amount": 9,
+      "key": "terra"
+    },
+    {
+      "amount": 9,
+      "key": "ignis"
+    },
+    {
+      "amount": 9,
+      "key": "aqua"
+    },
+    {
+      "amount": 9,
+      "key": "ordo"
+    },
+    {
+      "amount": 9,
+      "key": "perditio"
+    },
+    {
+      "amount": 9,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 12,
+      "key": "praecantatio"
+    }
+  ],
+  "warp": 3
+}

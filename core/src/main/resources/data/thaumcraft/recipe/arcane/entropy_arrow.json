@@ -1,0 +1,28 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:arrow"
+    },
+    "S": {
+      "item": "thaumcraft:entropy_shard"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ASA",
+    "AAA"
+  ],
+  "research": "primal_arrow",
+  "result": {
+    "count": 8,
+    "id": "thaumcraft:arrow_entropy"
+  }
+}

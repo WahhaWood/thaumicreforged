@@ -1,0 +1,34 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aer"
+    },
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 5,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "thaumcraft:goggles_revealing"
+    },
+    "H": {
+      "item": "thaumcraft:thaumium_helmet"
+    }
+  },
+  "pattern": [
+    "GHG"
+  ],
+  "research": "revealing_helm",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:revealing_helmet"
+  }
+}

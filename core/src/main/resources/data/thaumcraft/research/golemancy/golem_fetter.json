@@ -1,0 +1,32 @@
+{
+  "column": 4,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:golem_fetter"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_fetter.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_fetter"
+    }
+  ],
+  "parents": [
+    "golem_stone"
+  ],
+  "row": 8,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "vinculum"
+    },
+    {
+      "amount": 3,
+      "key": "machina"
+    }
+  ]
+}

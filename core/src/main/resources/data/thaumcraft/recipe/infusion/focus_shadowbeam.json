@@ -1,0 +1,50 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 50,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 32,
+      "key": "alienis"
+    },
+    {
+      "amount": 16,
+      "key": "vitium"
+    },
+    {
+      "amount": 16,
+      "key": "praecantatio"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:focus_primal"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:ender_shard"
+    },
+    {
+      "item": "thaumcraft:nether_shard"
+    },
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    {
+      "tag": "c:ingots/void"
+    },
+    {
+      "item": "thaumcraft:entropy_shard"
+    }
+  ],
+  "instability": 8,
+  "research": "focus_shadowbeam",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_shadow_beam"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 2,
+      "key": "vinculum"
+    },
+    {
+      "amount": 2,
+      "key": "pannus"
+    }
+  ],
+  "catalyst": {
+    "tag": "c:strings"
+  },
+  "research": "alchemical_manufacture",
+  "result": {
+    "count": 1,
+    "id": "minecraft:cobweb"
+  }
+}

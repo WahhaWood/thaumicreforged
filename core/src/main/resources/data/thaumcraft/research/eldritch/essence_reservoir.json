@@ -1,0 +1,45 @@
+{
+  "column": 4,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumcraft:essence_reservoir"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.essence_reservoir.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/essence_reservoir"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.essence_reservoir.page.2"
+    }
+  ],
+  "parents": [
+    "void_metal",
+    "centrifuge",
+    "infusion"
+  ],
+  "row": -3,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 8,
+      "key": "vacuos"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 5,
+      "key": "praecantatio"
+    }
+  ]
+}

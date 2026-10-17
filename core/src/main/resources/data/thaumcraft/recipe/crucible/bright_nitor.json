@@ -1,0 +1,29 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 25,
+      "key": "potentia"
+    },
+    {
+      "amount": 25,
+      "key": "lux"
+    },
+    {
+      "amount": 10,
+      "key": "aer"
+    },
+    {
+      "amount": 10,
+      "key": "ignis"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:nitor"
+  },
+  "research": "bright_nitor",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:bright_nitor"
+  }
+}

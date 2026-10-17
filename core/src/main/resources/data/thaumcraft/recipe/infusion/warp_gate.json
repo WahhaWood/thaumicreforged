@@ -1,0 +1,46 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 64,
+      "key": "iter"
+    },
+    {
+      "amount": 50,
+      "key": "alienis"
+    },
+    {
+      "amount": 50,
+      "key": "volatus"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:travel_stone"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:ender_shard"
+    },
+    {
+      "item": "thaumcraft:transvector_dislocator"
+    },
+    {
+      "item": "thaumcraft:nether_shard"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:feather"
+    }
+  ],
+  "instability": 8,
+  "research": "warp_gate",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:warp_gate"
+  }
+}

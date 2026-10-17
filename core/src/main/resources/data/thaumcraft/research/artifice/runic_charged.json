@@ -1,0 +1,37 @@
+{
+  "column": 2,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:runic_ring_charged"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.runic_charged.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/runic_ring_charged"
+    }
+  ],
+  "parents": [
+    "runic_armor"
+  ],
+  "row": 3,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    },
+    {
+      "amount": 6,
+      "key": "potentia"
+    }
+  ]
+}

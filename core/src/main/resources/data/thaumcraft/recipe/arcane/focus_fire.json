@@ -1,0 +1,35 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 20,
+      "key": "ignis"
+    },
+    {
+      "amount": 10,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:fire_charge"
+    },
+    "C": {
+      "item": "thaumcraft:fire_shard"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    "CQC",
+    "Q#Q",
+    "CQC"
+  ],
+  "research": "focus_fire",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_fire"
+  }
+}

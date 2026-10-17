@@ -1,0 +1,43 @@
+{
+  "type": "thaumcraft:fortress_armor_upgrade",
+  "aspects": [
+    {
+      "amount": 64,
+      "key": "cognitio"
+    },
+    {
+      "amount": 64,
+      "key": "sano"
+    },
+    {
+      "amount": 16,
+      "key": "tutamen"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:thaumium_fortress_helmet"
+  },
+  "components": [
+    {
+      "tag": "c:dyes/red"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "thaumcraft:cinder_pearl"
+    },
+    {
+      "item": "thaumcraft:zombie_brain"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "instability": 8,
+  "research": "mask_grinning_devil",
+  "upgrade": "mask_grinning_devil"
+}

@@ -1,0 +1,45 @@
+{
+  "aspect_triggers": [
+    "lux",
+    "messis"
+  ],
+  "column": -4,
+  "complexity": 2,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:arcane_lamp_growth"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.lamp_growth.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/arcane_lamp_growth"
+    }
+  ],
+  "parents": [
+    "arcane_lamp",
+    "infusion"
+  ],
+  "row": 3,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "lux"
+    },
+    {
+      "amount": 6,
+      "key": "herba"
+    },
+    {
+      "amount": 3,
+      "key": "victus"
+    },
+    {
+      "amount": 3,
+      "key": "messis"
+    }
+  ]
+}

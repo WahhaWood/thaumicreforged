@@ -1,0 +1,35 @@
+{
+  "column": -3,
+  "complexity": 3,
+  "icon": {
+    "item": "thaumcraft:cleansing_talisman"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.cleansing_talisman.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/cleansing_talisman"
+    }
+  ],
+  "parents": [
+    "dark_quartz"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 4,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "sano"
+    },
+    {
+      "key": "ordo"
+    },
+    {
+      "key": "venenum"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 256,
+      "key": "motus"
+    },
+    {
+      "amount": 48,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 96,
+      "key": "machina"
+    },
+    {
+      "amount": 156,
+      "key": "cognitio"
+    },
+    {
+      "amount": 69,
+      "key": "auram"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:cleaner_rune"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:mixed_crystal_cluster"
+    },
+    {
+      "item": "thaumcraft:bath_salts"
+    },
+    {
+      "item": "thaumcraft:ethereal_bloom"
+    },
+    {
+      "item": "thaumcraft:sanity_soap"
+    },
+    {
+      "item": "thaumcraft:warding_stone"
+    },
+    {
+      "item": "thaumcraft:bath_salts"
+    },
+    {
+      "item": "thaumcraft:ethereal_bloom"
+    },
+    {
+      "item": "thaumcraft:sanity_soap"
+    }
+  ],
+  "instability": 5,
+  "research": "update_clean",
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "isInfo": 1,
+        "metaUpdate": 2
+      }
+    },
+    "count": 1,
+    "id": "thaumcraft:runic_matrix"
+  }
+}

@@ -1,0 +1,50 @@
+{
+	"variants": {
+		"type=none,facing=east": {
+			"model": "thaumcraft:block/arcane_alembic"
+		},
+		"type=none,facing=north": {
+			"model": "thaumcraft:block/arcane_alembic",
+			"y": 270
+		},
+		"type=none,facing=south": {
+			"model": "thaumcraft:block/arcane_alembic",
+			"y": 90
+		},
+		"type=none,facing=west": {
+			"model": "thaumcraft:block/arcane_alembic",
+			"y": 180
+		},
+		"type=first,facing=east": {
+			"model": "thaumcraft:block/arcane_alembic_first"
+		},
+		"type=first,facing=north": {
+			"model": "thaumcraft:block/arcane_alembic_first",
+			"y": 270
+		},
+		"type=first,facing=south": {
+			"model": "thaumcraft:block/arcane_alembic_first",
+			"y": 90
+		},
+		"type=first,facing=west": {
+			"model": "thaumcraft:block/arcane_alembic_first",
+			"y": 180
+		},
+		"type=second,facing=east": {
+			"model": "thaumcraft:block/arcane_alembic_second"
+		},
+		"type=second,facing=north": {
+			"model": "thaumcraft:block/arcane_alembic_second",
+			"y": 270
+		},
+		"type=second,facing=south": {
+			"model": "thaumcraft:block/arcane_alembic_second",
+			"y": 90
+		},
+		"type=second,facing=west": {
+			"model": "thaumcraft:block/arcane_alembic_second",
+			"y": 180
+		}
+	}
+}
+

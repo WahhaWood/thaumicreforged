@@ -1,0 +1,42 @@
+{
+  "column": 13,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_pickaxe_adv"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichor_pick_gem.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.ichor_pick_gem.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/ichor_pickaxe_adv"
+    }
+  ],
+  "parents": [
+    "ichor_tools"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 15,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "ignis"
+    },
+    {
+      "key": "instrumentum"
+    },
+    {
+      "key": "perfodio"
+    },
+    {
+      "key": "terra"
+    }
+  ]
+}

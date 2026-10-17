@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 10,
+      "key": "aer"
+    },
+    {
+      "amount": 8,
+      "key": "motus"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:nitor"
+  },
+  "research": "gaseous_shadow",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:gas_shadow"
+  }
+}

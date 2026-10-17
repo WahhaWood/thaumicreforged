@@ -1,0 +1,44 @@
+{
+  "column": -9,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:vis_amulet"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.vis_amulet.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/vis_amulet"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.vis_amulet.page.2"
+    }
+  ],
+  "parents": [
+    "wand_pedestal"
+  ],
+  "row": -8,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "potentia"
+    },
+    {
+      "amount": 3,
+      "key": "vacuos"
+    }
+  ]
+}

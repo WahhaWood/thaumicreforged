@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "thaumcraft:block/eldritch_crab_spawner",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "thaumcraft:block/eldritch_crab_spawner",
+      "x": 270
+    },
+    "facing=north": {
+      "model": "thaumcraft:block/eldritch_crab_spawner",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "thaumcraft:block/eldritch_crab_spawner"
+    },
+    "facing=west": {
+      "model": "thaumcraft:block/eldritch_crab_spawner",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "thaumcraft:block/eldritch_crab_spawner",
+      "y": 270
+    }
+  }
+}

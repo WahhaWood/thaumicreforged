@@ -1,0 +1,39 @@
+﻿{
+    "type":  "thaumcraft:shaped_arcane",
+    "aspects":  [
+                    {
+                        "amount":  3,
+                        "key":  "ignis"
+                    },
+                    {
+                        "amount":  4,
+                        "key":  "ordo"
+                    }
+                ],
+    "category":  "misc",
+    "key":  {
+                "W":  [
+                          {
+                              "item":  "thaumcraft:warded_glass"
+                          }
+                      ],
+                "R":  {
+                          "item":  "thaumcraft:salis_mundus"
+                      },
+                "T":  {
+                  "tag":  "c:ingots/thaumium"
+                      },
+                "C":  {
+                          "item":  "ae2:cell_component_4k"
+                      }
+            },
+    "pattern":  [
+                    "WRW",
+                    "RCR",
+                    "TTT"
+                ],
+    "research":  "te_storage",
+    "result":  {
+                   "id":  "thaumicenergistics:essentia_cell_4k"
+               }
+}

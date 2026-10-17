@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "facing=down,powered=false": { "model": "thaumcraft:block/transvector_dislocator" },
+    "facing=up,powered=false": { "model": "thaumcraft:block/transvector_dislocator" },
+    "facing=north,powered=false": { "model": "thaumcraft:block/transvector_dislocator", "y": 180 },
+    "facing=south,powered=false": { "model": "thaumcraft:block/transvector_dislocator" },
+    "facing=west,powered=false": { "model": "thaumcraft:block/transvector_dislocator", "y": 90 },
+    "facing=east,powered=false": { "model": "thaumcraft:block/transvector_dislocator", "y": 270 },
+
+    "facing=down,powered=true": { "model": "thaumcraft:block/transvector_dislocator_on" },
+    "facing=up,powered=true": { "model": "thaumcraft:block/transvector_dislocator_on" },
+    "facing=north,powered=true": { "model": "thaumcraft:block/transvector_dislocator_on", "y": 180 },
+    "facing=south,powered=true": { "model": "thaumcraft:block/transvector_dislocator_on" },
+    "facing=west,powered=true": { "model": "thaumcraft:block/transvector_dislocator_on", "y": 90 },
+    "facing=east,powered=true": { "model": "thaumcraft:block/transvector_dislocator_on", "y": 270 }
+  }
+}

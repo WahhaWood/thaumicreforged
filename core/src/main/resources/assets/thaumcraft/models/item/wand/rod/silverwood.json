@@ -1,0 +1,6 @@
+{
+	"parent": "thaumcraft:item/wand/rod/base",
+	"textures": {
+		"rod": "thaumcraft:item/model/wand_rod_silverwood"
+	}
+}

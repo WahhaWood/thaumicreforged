@@ -1,0 +1,23 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "top": "thaumcraft:block/enchanter_top",
+    "bottom": "thaumcraft:block/enchanter_bottom",
+    "side": "thaumcraft:block/enchanter_side",
+    "particle": "thaumcraft:block/enchanter_top"
+  },
+  "elements": [
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 12, 16 ],
+      "faces": {
+        "down":  { "texture": "#bottom", "cullface": "down" },
+        "up":    { "texture": "#top" },
+        "north": { "texture": "#side", "cullface": "north" },
+        "south": { "texture": "#side", "cullface": "south" },
+        "west":  { "texture": "#side", "cullface": "west" },
+        "east":  { "texture": "#side", "cullface": "east" }
+      }
+    }
+  ]
+}

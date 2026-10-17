@@ -1,0 +1,39 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "ignis"
+    },
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 5,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "thaumcraft:amber"
+    },
+    "B": {
+      "item": "thaumcraft:zombie_brain"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "IAI",
+    "ABA",
+    "IAI"
+  ],
+  "research": "thaumatorium",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:mnemonic_matrix"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "autoUnlock": true,
+  "column": -2,
+  "icon": {
+    "item": "thaumcraft:dark_quartz"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.dark_quartz.page.1"
+    },
+    {
+      "type": "recipes",
+      "value": [
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/dark_quartz_coal"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shaped/dark_quartz_charcoal"
+        }
+      ]
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/dark_quartz_block"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/dark_quartz_slab"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/dark_quartz_stairs"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/dark_quartz_pillar"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/chiseled_dark_quartz_block"
+    }
+  ],
+  "research_type": "thaumcraft:tt",
+  "round": true,
+  "row": 2,
+  "stub": true
+}

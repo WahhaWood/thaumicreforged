@@ -1,0 +1,40 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "sano"
+    },
+    {
+      "amount": 10,
+      "key": "spiritus"
+    },
+    {
+      "amount": 15,
+      "key": "victus"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:focus_pech"
+  },
+  "components": [
+    {
+      "item": "minecraft:golden_carrot"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+  "instability": 4,
+  "research": "focus_heal",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_heal"
+  }
+}

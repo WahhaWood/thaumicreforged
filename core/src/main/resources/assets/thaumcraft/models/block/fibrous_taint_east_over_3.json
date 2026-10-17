@@ -1,0 +1,46 @@
+{
+  "render_type": "cutout",
+  "textures": {
+    "tex": "thaumcraft:block/taint_fibres",
+    "over": "thaumcraft:block/taint_over_3",
+    "particle": "thaumcraft:block/taint_fibres"
+  },
+  "elements": [
+    {
+      "from": [
+        15.99,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "west": {
+          "texture": "#tex",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "from": [
+        15.979,
+        0,
+        0
+      ],
+      "to": [
+        15.989,
+        16,
+        16
+      ],
+      "faces": {
+        "west": {
+          "texture": "#over",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}

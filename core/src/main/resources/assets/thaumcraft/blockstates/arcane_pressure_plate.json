@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "type=all,powered=false": {
+      "model": "thaumcraft:block/arcane_pressure_plate_0"
+    },
+    "type=all,powered=true": {
+      "model": "thaumcraft:block/arcane_pressure_plate_0_down"
+    },
+    "type=except,powered=false": {
+      "model": "thaumcraft:block/arcane_pressure_plate_1"
+    },
+    "type=except,powered=true": {
+      "model": "thaumcraft:block/arcane_pressure_plate_1_down"
+    },
+    "type=you,powered=false": {
+      "model": "thaumcraft:block/arcane_pressure_plate_2"
+    },
+    "type=you,powered=true": {
+      "model": "thaumcraft:block/arcane_pressure_plate_2_down"
+    }
+  }
+}

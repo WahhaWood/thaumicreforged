@@ -1,0 +1,29 @@
+{
+  "column": 6,
+  "row": -3,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumicenergistics:arcane_assembler_1"
+  },
+  "parents": [
+    "te_arcane_assembler"
+  ],
+  "tags": [
+    { "amount": 5, "key": "fabrico" },
+    { "amount": 4, "key": "machina" },
+    { "amount": 4, "key": "auram" },
+    { "amount": 3, "key": "praecantatio" },
+    { "amount": 3, "key": "vinculum" }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.te_arcane_assembler_1.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumicenergistics:arcane_assembler_1"
+    }
+  ]
+}

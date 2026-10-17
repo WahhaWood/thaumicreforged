@@ -1,0 +1,38 @@
+{
+  "column": 17,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_gem_chest"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichorcloth_chest_gem.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/ichor_gem_chest"
+    }
+  ],
+  "parents": [
+    "ichorcloth_armor"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 7,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "aer"
+    },
+    {
+      "key": "motus"
+    },
+    {
+      "key": "volatus"
+    },
+    {
+      "key": "alienis"
+    }
+  ]
+}

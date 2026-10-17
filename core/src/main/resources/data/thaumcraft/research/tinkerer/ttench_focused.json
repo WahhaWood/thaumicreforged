@@ -1,0 +1,33 @@
+{
+  "column": 2,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/focused_strikes.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_focused.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_focused"
+    }
+  ],
+  "parents": [
+    "ttench_vampirism"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 7,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "ordo"
+    },
+    {
+      "key": "telum"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

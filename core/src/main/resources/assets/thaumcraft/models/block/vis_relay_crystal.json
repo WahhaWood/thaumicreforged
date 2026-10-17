@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "neoforge:obj",
+  "flip_v": true,
+  "model": "thaumcraft:models/obj/vis_relay.obj",
+  "textures": {
+    "texture0": "thaumcraft:block/model/vis_relay",
+    "particle": "thaumcraft:block/model/vis_relay"
+  },
+  "transform": {
+    "origin": "center",
+    "translation": [
+      -0.5,
+      1,
+      -1.915
+    ],
+    "rotation": [
+      -90,
+      0,
+      45
+    ]
+  },
+  "visibility": {
+    "RingBase": false,
+    "RingFloat": false,
+    "Support": false
+  }
+}

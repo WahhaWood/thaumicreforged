@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 8,
+      "key": "vacuos"
+    },
+    {
+      "amount": 2,
+      "key": "alienis"
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:wheat_seeds"
+  },
+  "research": "void_metal",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:void_seed"
+  }
+}

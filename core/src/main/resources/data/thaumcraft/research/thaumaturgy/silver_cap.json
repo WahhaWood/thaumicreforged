@@ -1,0 +1,45 @@
+{
+  "column": 5,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:wand_cap_silver"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.silver_cap.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/silver_wand_cap"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/silver_wand_cap"
+    }
+  ],
+  "parents": [
+    "gold_cap",
+    "infusion"
+  ],
+  "row": 1,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 3,
+      "key": "lucrum"
+    },
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    }
+  ]
+}

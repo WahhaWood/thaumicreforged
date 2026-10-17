@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"down": "thaumcraft:block/infernal_furnace/7",
+		"up": "thaumcraft:block/infernal_furnace/1",
+		"north": "thaumcraft:block/infernal_furnace/1",
+		"west": "thaumcraft:block/infernal_furnace/7",
+		"south": "thaumcraft:block/infernal_furnace/7",
+		"east": "thaumcraft:block/infernal_furnace/7",
+		"particle": "thaumcraft:block/infernal_furnace/7"
+	}
+}

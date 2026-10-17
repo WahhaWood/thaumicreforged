@@ -1,0 +1,51 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aer"
+    },
+    {
+      "amount": 5,
+      "key": "ignis"
+    },
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 5,
+      "key": "terra"
+    },
+    {
+      "amount": 3,
+      "key": "perditio"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "T": {
+      "item": "thaumcraft:thaumometer"
+    }
+  },
+  "pattern": [
+    "LGL",
+    "L L",
+    "TGT"
+  ],
+  "research": "goggles",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:goggles_revealing"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "column": -7,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:elemental_axe"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.elemental_axe.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/elemental_axe"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.elemental_axe.page.2"
+    }
+  ],
+  "parents": [
+    "thaumium",
+    "infusion"
+  ],
+  "row": 4,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "motus"
+    }
+  ]
+}

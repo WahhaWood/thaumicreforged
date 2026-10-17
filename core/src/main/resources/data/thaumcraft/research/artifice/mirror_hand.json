@@ -1,0 +1,41 @@
+{
+  "column": 1,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:mirror_hand"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.mirror_hand.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/mirror_hand"
+    }
+  ],
+  "parents": [
+    "mirror"
+  ],
+  "row": 9,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 3,
+      "key": "alienis"
+    },
+    {
+      "amount": 3,
+      "key": "vitreus"
+    },
+    {
+      "amount": 3,
+      "key": "iter"
+    }
+  ]
+}

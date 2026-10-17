@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "thaumicenergistics:essentia_provider",
+    "thaumicenergistics:infusion_provider",
+    "thaumicenergistics:gear_box",
+    "thaumicenergistics:golem_gear_box",
+    "thaumicenergistics:industrial_alchemy_furnace",
+    "thaumicenergistics:infusion_inscriber",
+    "thaumicenergistics:knowledge_inscriber",
+    "thaumicenergistics:infusion_assembler",
+    "thaumicenergistics:arcane_assembler",
+    "thaumicenergistics:arcane_assembler_1",
+    "thaumicenergistics:arcane_assembler_2",
+    "thaumicenergistics:arcane_assembler_3",
+    "thaumicenergistics:crucible_assembler",
+    "thaumicenergistics:crucible_inscriber"
+  ]
+}

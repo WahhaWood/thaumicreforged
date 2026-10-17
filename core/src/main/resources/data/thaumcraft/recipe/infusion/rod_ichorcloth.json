@@ -1,0 +1,46 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 100,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 32,
+      "key": "lux"
+    },
+    {
+      "amount": 32,
+      "key": "instrumentum"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:wand_rod_silverwood"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:ichor_cloth"
+    },
+    {
+      "item": "thaumcraft:cloth"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "thaumcraft:cloth"
+    },
+    {
+      "item": "thaumcraft:ichor_cloth"
+    }
+  ],
+  "instability": 9,
+  "research": "rod_ichorcloth",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:wand_rod_ichor"
+  }
+}

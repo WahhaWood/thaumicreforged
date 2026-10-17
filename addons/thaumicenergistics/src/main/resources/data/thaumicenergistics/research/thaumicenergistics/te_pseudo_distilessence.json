@@ -1,0 +1,15 @@
+{
+  "research_type": "thaumicenergistics:pseudo",
+  "column": -2,
+  "row": 0,
+  "complexity": 1,
+  "pseudo_for": "distilessence",
+  "stub": true,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:arcane_alembic"
+  },
+  "pages": [
+    { "type": "text", "key": "tc.research.distilessence.page.1" }
+  ]
+}

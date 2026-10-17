@@ -1,0 +1,45 @@
+{
+  "column": 4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_flesh"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_flesh.page.1"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/flesh_block"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_flesh"
+    }
+  ],
+  "parents": [
+    "golem_wood"
+  ],
+  "row": 4,
+  "tags": [
+    {
+      "amount": 7,
+      "key": "spiritus"
+    },
+    {
+      "amount": 7,
+      "key": "motus"
+    },
+    {
+      "amount": 6,
+      "key": "corpus"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    }
+  ],
+  "warp": 3
+}

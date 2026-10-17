@@ -1,0 +1,80 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 50,
+      "key": "aer"
+    },
+    {
+      "amount": 64,
+      "key": "fames"
+    },
+    {
+      "amount": 15,
+      "key": "ordo"
+    },
+    {
+      "amount": 32,
+      "key": "potentia"
+    },
+    {
+      "amount": 32,
+      "key": "spiritus"
+    },
+    {
+      "amount": 32,
+      "key": "telum"
+    },
+    {
+      "amount": 16,
+      "key": "vitreus"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:ichor_sword"
+  },
+  "components": [
+    {
+      "tag": "c:ingots/ichorium"
+    },
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:elemental_sword"
+    },
+    {
+      "item": "thaumcraft:focus_frost"
+    },
+    {
+      "item": "minecraft:cactus"
+    },
+    {
+      "item": "thaumcraft:cinnabar_cluster"
+    },
+    {
+      "item": "thaumcraft:iron_cluster"
+    },
+    {
+      "item": "thaumcraft:gold_cluster"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:focus_frost"
+    },
+    {
+      "item": "thaumcraft:elemental_sword"
+    },
+    {
+      "item": "thaumcraft:ichor_cloth"
+    }
+  ],
+  "instability": 15,
+  "research": "ichor_sword_gem",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:ichor_sword_adv"
+  }
+}

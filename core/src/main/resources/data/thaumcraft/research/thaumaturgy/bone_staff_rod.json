@@ -1,0 +1,45 @@
+{
+  "column": -2,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:staff_rod_bone"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.bone_staff_rod.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/bone_staff_rod"
+    }
+  ],
+  "parents": [
+    "bone_rod"
+  ],
+  "parents_hidden": [
+    "greatwood_staff_rod"
+  ],
+  "row": -1,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 6,
+      "key": "perditio"
+    },
+    {
+      "amount": 3,
+      "key": "exanimis"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ],
+  "warp": 1
+}

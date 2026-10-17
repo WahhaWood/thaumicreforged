@@ -1,0 +1,42 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "key": "aer"
+    },
+    {
+      "key": "terra"
+    },
+    {
+      "key": "ignis"
+    },
+    {
+      "key": "aqua"
+    },
+    {
+      "key": "ordo"
+    },
+    {
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "minecraft:wool"
+    },
+    "S": {
+      "tag": "c:strings"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SCS",
+    " S "
+  ],
+  "research": "enchfabric",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:cloth"
+  }
+}

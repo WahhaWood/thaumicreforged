@@ -1,0 +1,70 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 2048,
+      "key": "ordo"
+    },
+    {
+      "amount": 2048,
+      "key": "permutatio"
+    },
+    {
+      "amount": 2048,
+      "key": "vacuos"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:stable_rune"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:sanity_checker"
+    },
+    {
+      "item": "thaumcraft:alumentum"
+    },
+    {
+      "item": "thaumcraft:cleaner_rune"
+    },
+    {
+      "item": "thaumcraft:focus_trade"
+    },
+    {
+      "item": "thaumcraft:efficiency_rune"
+    },
+    {
+      "item": "thaumcraft:nitor"
+    },
+    {
+      "item": "thaumcraft:warding_stone"
+    },
+    {
+      "item": "thaumcraft:alumentum"
+    },
+    {
+      "item": "thaumcraft:speed_rune"
+    },
+    {
+      "item": "thaumcraft:focus_hell_bat"
+    },
+    {
+      "item": "thaumcraft:lucky_rune"
+    },
+    {
+      "item": "thaumcraft:nitor"
+    }
+  ],
+  "instability": 5,
+  "research": "update_stable",
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "isInfo": 1,
+        "metaUpdate": 4
+      }
+    },
+    "count": 1,
+    "id": "thaumcraft:runic_matrix"
+  }
+}

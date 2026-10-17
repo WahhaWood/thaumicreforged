@@ -1,0 +1,21 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "meto"
+    },
+    {
+      "amount": 5,
+      "key": "messis"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:golem_core_blank"
+  },
+  "research": "golem_core_harvest",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_core_harvest"
+  }
+}

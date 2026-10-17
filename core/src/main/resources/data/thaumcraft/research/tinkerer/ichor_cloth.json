@@ -1,0 +1,38 @@
+{
+  "column": 11,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_cloth"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichor_cloth.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/ichor_cloth"
+    }
+  ],
+  "parents": [
+    "ichor"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 7,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "pannus"
+    },
+    {
+      "key": "lux"
+    },
+    {
+      "key": "fabrico"
+    },
+    {
+      "key": "sensus"
+    }
+  ]
+}

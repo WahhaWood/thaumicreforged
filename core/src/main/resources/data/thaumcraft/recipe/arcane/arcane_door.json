@@ -1,0 +1,43 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 20,
+      "key": "aqua"
+    },
+    {
+      "amount": 10,
+      "key": "ordo"
+    },
+    {
+      "amount": 10,
+      "key": "terra"
+    },
+    {
+      "amount": 5,
+      "key": "ignis"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "thaumcraft:zombie_brain"
+    },
+    "D": {
+      "item": "thaumcraft:greatwood_planks"
+    },
+    "T": {
+      "tag": "c:ingots/thaumium"
+    }
+  },
+  "pattern": [
+    "TDT",
+    "DBD",
+    "TDT"
+  ],
+  "research": "warded_arcana",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:arcane_door"
+  }
+}

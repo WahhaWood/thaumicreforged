@@ -1,0 +1,50 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 65,
+      "key": "vacuos"
+    },
+    {
+      "amount": 32,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 50,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 32,
+      "key": "alienis"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:focus_portable_hole"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "minecraft:ender_chest"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:taint_slime"
+    },
+    {
+      "item": "thaumcraft:void_jar"
+    }
+  ],
+  "instability": 9,
+  "research": "block_talisman",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:block_talisman"
+  }
+}

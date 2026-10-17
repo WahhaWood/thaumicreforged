@@ -1,0 +1,37 @@
+{
+  "column": -7,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:elemental_sword"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.elemental_sword.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/elemental_sword"
+    }
+  ],
+  "parents": [
+    "thaumium",
+    "infusion"
+  ],
+  "row": 5,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "telum"
+    },
+    {
+      "amount": 3,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "potentia"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "column": 5,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/shatter.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_shatter.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_shatter"
+    }
+  ],
+  "parents": [
+    "ttench_desintegrate"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 8,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "terra"
+    },
+    {
+      "amount": 3,
+      "key": "perditio"
+    },
+    {
+      "key": "instrumentum"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

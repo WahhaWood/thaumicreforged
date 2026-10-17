@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "thaumcraft:item/blood_sword_inactive"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "thaumcraft:activated": 1.0
+      },
+      "model": "thaumcraft:item/blood_sword_active"
+    }
+  ]
+}

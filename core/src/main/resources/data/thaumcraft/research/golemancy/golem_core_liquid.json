@@ -1,0 +1,40 @@
+{
+  "column": -7,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_liquid"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_liquid.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_core_liquid"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_liquid.page.2"
+    }
+  ],
+  "parents": [
+    "golem_core_fill"
+  ],
+  "row": 4,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "iter"
+    }
+  ]
+}

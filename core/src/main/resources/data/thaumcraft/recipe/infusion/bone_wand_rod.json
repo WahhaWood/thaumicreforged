@@ -1,0 +1,34 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 12,
+      "key": "perditio"
+    },
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 6,
+      "key": "exanimis"
+    }
+  ],
+  "central": {
+    "item": "minecraft:bone"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:balanced_shard"
+    },
+    {
+      "item": "thaumcraft:entropy_shard"
+    }
+  ],
+  "instability": 3,
+  "research": "bone_rod",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:wand_rod_bone"
+  }
+}

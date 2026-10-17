@@ -1,0 +1,41 @@
+{
+  "column": -6,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:arcane_bellows"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.bellows.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/arcane_bellows"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.bellows.page.2"
+    }
+  ],
+  "parents": [
+    "infernal_furnace"
+  ],
+  "row": -2,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "machina"
+    },
+    {
+      "amount": 3,
+      "key": "motus"
+    }
+  ]
+}

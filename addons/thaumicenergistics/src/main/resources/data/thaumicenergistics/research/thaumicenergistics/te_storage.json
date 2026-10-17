@@ -1,0 +1,52 @@
+{
+  "column": 0,
+  "row": 2,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumicenergistics:essentia_cell_64k"
+  },
+  "parents": [
+    "te_research",
+    "te_pseudo_distilessence"
+  ],
+  "parents_hidden": [
+    "distilessence"
+  ],
+  "tags": [
+    { "amount": 5, "key": "vacuos" },
+    { "amount": 5, "key": "potentia" },
+    { "amount": 3, "key": "vitreus" },
+    { "amount": 3, "key": "metallum" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_storage.page.1" },
+    { "type": "text", "key": "tc.research.te_storage.page.2" },
+    { "type": "arcane", "id": "thaumicenergistics:arcane/essentia_cell_casing" },
+    {
+      "type": "recipes",
+      "value": [
+        { "type": "arcane", "id": "thaumicenergistics:arcane/essentia_cell_1k" },
+        { "type": "arcane", "id": "thaumicenergistics:arcane/essentia_cell_4k" },
+        { "type": "arcane", "id": "thaumicenergistics:arcane/essentia_cell_16k" },
+        { "type": "arcane", "id": "thaumicenergistics:arcane/essentia_cell_64k" },
+        { "type": "arcane", "id": "thaumicenergistics:arcane/essentia_cell_256k" },
+        { "type": "arcane", "id": "thaumicenergistics:arcane/essentia_cell_1m" },
+        { "type": "arcane", "id": "thaumicenergistics:arcane/essentia_cell_4m" },
+        { "type": "arcane", "id": "thaumicenergistics:arcane/essentia_cell_16m" }
+      ]
+    },
+    {
+      "type": "recipes",
+      "value": [
+        { "type": "crafting", "id": "thaumicenergistics:shapeless/essentia_cell_1k" },
+        { "type": "crafting", "id": "thaumicenergistics:shapeless/essentia_cell_4k" },
+        { "type": "crafting", "id": "thaumicenergistics:shapeless/essentia_cell_16k" },
+        { "type": "crafting", "id": "thaumicenergistics:shapeless/essentia_cell_64k" },
+        { "type": "crafting", "id": "thaumicenergistics:shapeless/essentia_cell_256k" },
+        { "type": "crafting", "id": "thaumicenergistics:shapeless/essentia_cell_1m" },
+        { "type": "crafting", "id": "thaumicenergistics:shapeless/essentia_cell_4m" },
+        { "type": "crafting", "id": "thaumicenergistics:shapeless/essentia_cell_16m" }
+      ]
+    }
+  ]
+}

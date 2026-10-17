@@ -1,0 +1,21 @@
+{
+  "column": 1,
+  "hidden": true,
+  "icon": "thaumcraft:textures/misc/r_eldritchminor.png",
+  "aspect_triggers": [
+    "alienis"
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.eldritch_minor.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/void_seed"
+    }
+  ],
+  "round": true,
+  "row": 0,
+  "special": true
+}

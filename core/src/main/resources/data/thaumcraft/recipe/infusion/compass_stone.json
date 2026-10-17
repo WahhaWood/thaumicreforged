@@ -1,0 +1,44 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "sensus"
+    },
+    {
+      "amount": 8,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 8,
+      "key": "alienis"
+    },
+    {
+      "amount": 8,
+      "key": "auram"
+    }
+  ],
+  "central": {
+    "item": "minecraft:flint"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:nitor"
+    },
+    {
+      "item": "thaumcraft:order_shard"
+    },
+    {
+      "item": "thaumcraft:knowledge_fragment"
+    },
+    {
+      "item": "thaumcraft:entropy_shard"
+    }
+  ],
+  "instability": 5,
+  "research": "compass_stone",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:compass_stone"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "thaumcraft:item/cleansing_talisman_inactive"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "thaumcraft:active": 1.0
+      },
+      "model": "thaumcraft:item/cleansing_talisman_active"
+    }
+  ]
+}

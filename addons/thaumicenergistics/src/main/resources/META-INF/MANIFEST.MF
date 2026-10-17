@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: thaumicenergistics
+Specification-Vendor: WahhaWood
+Specification-Version: 1
+Implementation-Title: thaumicenergistics
+Implementation-Version: 1.0.0
+Implementation-Vendor: WahhaWood
+MixinConfigs: thaumicenergistics.mixins.json
+

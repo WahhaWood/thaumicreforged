@@ -1,0 +1,40 @@
+{
+  "column": -3,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:arcane_lamp"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.arcane_lamp.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/arcane_lamp"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.arcane_lamp.page.2"
+    }
+  ],
+  "parents": [
+    "nitor"
+  ],
+  "row": 1,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "lux"
+    },
+    {
+      "amount": 3,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "tenebrae"
+    }
+  ]
+}

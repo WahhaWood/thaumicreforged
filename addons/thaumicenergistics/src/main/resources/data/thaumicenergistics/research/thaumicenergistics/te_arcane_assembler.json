@@ -1,0 +1,30 @@
+{
+  "column": 6,
+  "row": -1,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumicenergistics:arcane_assembler"
+  },
+  "parents": [
+    "te_vis_relay_interface",
+    "te_pseudo_sceptre"
+  ],
+  "parents_hidden": [
+    "sceptre"
+  ],
+  "tags": [
+    { "amount": 5, "key": "fabrico" },
+    { "amount": 3, "key": "machina" },
+    { "amount": 3, "key": "cognitio" },
+    { "amount": 3, "key": "permutatio" },
+    { "amount": 3, "key": "auram" },
+    { "amount": 3, "key": "lucrum" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_arcane_assembler.page.1" },
+    { "type": "infusion", "id": "thaumicenergistics:infusion/arcane_assembler" },
+    { "type": "text", "key": "tc.research.te_arcane_assembler.page.2" },
+    { "type": "text", "key": "tc.research.te_arcane_assembler.page.3" }
+  ]
+}

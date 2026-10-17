@@ -1,0 +1,35 @@
+{
+  "column": -3,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_flight"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_flight.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/focus_flight"
+    }
+  ],
+  "parents": [
+    "focus_smelt"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -4,
+  "tags": [
+    {
+      "key": "motus"
+    },
+    {
+      "key": "praecantatio"
+    },
+    {
+      "amount": 2,
+      "key": "aer"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "thaumicenergistics:block/infusion_provider"
+    },
+    "facing=up": {
+      "model": "thaumicenergistics:block/infusion_provider",
+      "x": 180
+    },
+    "facing=south": {
+      "model": "thaumicenergistics:block/infusion_provider",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "thaumicenergistics:block/infusion_provider",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "thaumicenergistics:block/infusion_provider",
+      "x": 270
+    },
+    "facing=east": {
+      "model": "thaumicenergistics:block/infusion_provider",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

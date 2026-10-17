@@ -1,0 +1,34 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "ignis"
+    },
+    {
+      "amount": 10,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "thaumcraft:fire_shard"
+    },
+    "B": {
+      "item": "thaumcraft:order_shard"
+    },
+    "S": {
+      "item": "thaumcraft:arcane_bricks"
+    }
+  },
+  "pattern": [
+    "SAS",
+    "SBS"
+  ],
+  "research": "pave_ward",
+  "result": {
+    "count": 4,
+    "id": "thaumcraft:warding_stone"
+  }
+}

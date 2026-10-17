@@ -1,0 +1,44 @@
+{
+  "column": 0,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:speed_rune"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.update_speed.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/speed_rune"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.update_speed.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/matrix_speed"
+    }
+  ],
+  "parents": [
+    "update_matrix"
+  ],
+  "row": 12,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    }
+  ]
+}

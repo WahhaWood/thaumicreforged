@@ -1,0 +1,66 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 25,
+      "key": "terra"
+    },
+    {
+      "amount": 25,
+      "key": "ignis"
+    },
+    {
+      "amount": 25,
+      "key": "aer"
+    },
+    {
+      "amount": 25,
+      "key": "aqua"
+    },
+    {
+      "amount": 25,
+      "key": "ordo"
+    },
+    {
+      "amount": 25,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "thaumcraft:air_shard"
+    },
+    "2": {
+      "item": "thaumcraft:fire_shard"
+    },
+    "3": {
+      "item": "thaumcraft:water_shard"
+    },
+    "4": {
+      "item": "thaumcraft:earth_shard"
+    },
+    "5": {
+      "item": "thaumcraft:order_shard"
+    },
+    "6": {
+      "item": "thaumcraft:entropy_shard"
+    },
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "thaumcraft:balanced_shard"
+    }
+  },
+  "pattern": [
+    "123",
+    "ISI",
+    "456"
+  ],
+  "research": "basic_artiface",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:primal_charm"
+  }
+}

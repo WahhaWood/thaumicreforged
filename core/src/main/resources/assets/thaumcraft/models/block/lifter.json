@@ -1,0 +1,9 @@
+{
+  "render_type": "cutout",
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "thaumcraft:block/lifter_bottom",
+    "top": "thaumcraft:block/lifter_top",
+    "side": "thaumcraft:block/lifter_side"
+  }
+}

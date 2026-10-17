@@ -1,0 +1,31 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 8,
+      "key": "telum"
+    },
+    {
+      "amount": 8,
+      "key": "herba"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:dead_bush"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "minecraft:thorns",
+  "instability": 2,
+  "research": "infusion_enchantment"
+}

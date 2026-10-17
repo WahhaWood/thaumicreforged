@@ -1,0 +1,33 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 2,
+      "key": "aer"
+    },
+    {
+      "amount": 2,
+      "key": "terra"
+    },
+    {
+      "amount": 2,
+      "key": "ignis"
+    },
+    {
+      "amount": 2,
+      "key": "ordo"
+    },
+    {
+      "amount": 2,
+      "key": "perditio"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:water_shard"
+  },
+  "research": "crucible",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:balanced_shard"
+  }
+}

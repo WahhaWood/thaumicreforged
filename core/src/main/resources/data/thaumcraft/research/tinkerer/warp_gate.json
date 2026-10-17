@@ -1,0 +1,45 @@
+{
+  "column": 19,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:warp_gate"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.warp_gate.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/warp_gate"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/sky_pearl"
+    }
+  ],
+  "parents": [
+    "ichorcloth_chest_gem"
+  ],
+  "parents_hidden": [
+    "ichorcloth_boots_gem"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 6,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "iter"
+    },
+    {
+      "key": "alienis"
+    },
+    {
+      "key": "volatus"
+    },
+    {
+      "key": "machina"
+    }
+  ]
+}

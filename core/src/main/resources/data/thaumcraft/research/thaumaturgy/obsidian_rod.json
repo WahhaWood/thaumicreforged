@@ -1,0 +1,42 @@
+{
+  "column": -8,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:wand_rod_obsidian"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.obsidian_rod.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/obsidian_wand_rod"
+    }
+  ],
+  "parents": [
+    "greatwood_rod",
+    "infusion"
+  ],
+  "row": 2,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 6,
+      "key": "terra"
+    },
+    {
+      "amount": 3,
+      "key": "ignis"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

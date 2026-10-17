@@ -1,0 +1,65 @@
+{
+	"variants": {
+		"active=false,facing=east,filled=false": {
+			"model": "thaumcraft:block/alchemy_furnace",
+			"y": 90
+		},
+		"active=false,facing=north,filled=false": {
+			"model": "thaumcraft:block/alchemy_furnace"
+		},
+		"active=false,facing=south,filled=false": {
+			"model": "thaumcraft:block/alchemy_furnace",
+			"y": 180
+		},
+		"active=false,facing=west,filled=false": {
+			"model": "thaumcraft:block/alchemy_furnace",
+			"y": 270
+		},
+		"active=true,facing=east,filled=false": {
+			"model": "thaumcraft:block/alchemy_furnace_active",
+			"y": 90
+		},
+		"active=true,facing=north,filled=false": {
+			"model": "thaumcraft:block/alchemy_furnace_active"
+		},
+		"active=true,facing=south,filled=false": {
+			"model": "thaumcraft:block/alchemy_furnace_active",
+			"y": 180
+		},
+		"active=true,facing=west,filled=false": {
+			"model": "thaumcraft:block/alchemy_furnace_active",
+			"y": 270
+		},
+		"active=false,facing=east,filled=true": {
+			"model": "thaumcraft:block/alchemy_furnace_filled",
+			"y": 90
+		},
+		"active=false,facing=north,filled=true": {
+			"model": "thaumcraft:block/alchemy_furnace_filled"
+		},
+		"active=false,facing=south,filled=true": {
+			"model": "thaumcraft:block/alchemy_furnace_filled",
+			"y": 180
+		},
+		"active=false,facing=west,filled=true": {
+			"model": "thaumcraft:block/alchemy_furnace_filled",
+			"y": 270
+		},
+		"active=true,facing=east,filled=true": {
+			"model": "thaumcraft:block/alchemy_furnace_active_filled",
+			"y": 90
+		},
+		"active=true,facing=north,filled=true": {
+			"model": "thaumcraft:block/alchemy_furnace_active_filled"
+		},
+		"active=true,facing=south,filled=true": {
+			"model": "thaumcraft:block/alchemy_furnace_active_filled",
+			"y": 180
+		},
+		"active=true,facing=west,filled=true": {
+			"model": "thaumcraft:block/alchemy_furnace_active_filled",
+			"y": 270
+		}
+	}
+}
+

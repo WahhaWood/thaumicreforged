@@ -1,0 +1,44 @@
+{
+  "autoUnlock": true,
+  "column": -2,
+  "icon": {
+    "item": "thaumcraft:greatwood_sapling"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.plants.page.1"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shapeless/greatwood_planks"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.plants.page.2"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shapeless/silverwood_planks"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.plants.page.3"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.plants.page.4"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.plants.page.5"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.plants.page.6"
+    }
+  ],
+  "round": true,
+  "row": -4,
+  "stub": true
+}

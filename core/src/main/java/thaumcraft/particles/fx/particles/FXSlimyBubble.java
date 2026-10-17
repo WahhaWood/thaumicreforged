@@ -1,0 +1,90 @@
+package thaumcraft.particles.fx.particles;
+
+import com.mojang.blaze3d.vertex.VertexConsumer;
+import net.minecraft.client.Camera;
+import net.minecraft.client.multiplayer.ClientLevel;
+import net.minecraft.client.particle.Particle;
+import net.minecraft.client.particle.ParticleRenderType;
+import net.minecraft.util.Mth;
+import org.jetbrains.annotations.NotNull;
+import org.joml.Quaternionf;
+import org.joml.Vector3f;
+
+public class FXSlimyBubble extends Particle {
+   int particle = 144;
+   protected float particleScale;
+
+   public FXSlimyBubble(ClientLevel level, double x, double y, double z, float scale) {
+      super(level, x, y, z, 0.0, 0.0, 0.0);
+      this.rCol = 1.0F;
+      this.gCol = 1.0F;
+      this.bCol = 1.0F;
+      this.xd = 0.0;
+      this.yd = 0.0;
+      this.zd = 0.0;
+      this.particleScale = scale;
+      this.lifetime = 15 + level.random.nextInt(5);
+      this.hasPhysics = true;
+      this.setSize(0.01F, 0.01F);
+   }
+
+   public void render(@NotNull VertexConsumer buffer, @NotNull Camera camera, float partialTick) {
+      float u0 = this.particle % 16 / 16.0F;
+      float u1 = u0 + 0.0625F;
+      float v0 = this.particle / 16 / 16.0F;
+      float v1 = v0 + 0.0625F;
+      float scale = this.particleScale;
+      float px = (float)(Mth.lerp(partialTick, this.xo, this.x) - camera.getPosition().x);
+      float py = (float)(Mth.lerp(partialTick, this.yo, this.y) - camera.getPosition().y);
+      float pz = (float)(Mth.lerp(partialTick, this.zo, this.z) - camera.getPosition().z);
+      Quaternionf rotation = camera.rotation();
+      Vector3f[] vertices = new Vector3f[]{
+         new Vector3f(-1.0F, -1.0F, 0.0F), new Vector3f(-1.0F, 1.0F, 0.0F), new Vector3f(1.0F, 1.0F, 0.0F), new Vector3f(1.0F, -1.0F, 0.0F)
+      };
+
+      for (Vector3f vertex : vertices) {
+         vertex.rotate(rotation);
+         vertex.mul(scale * 0.1F);
+         vertex.add(px, py, pz);
+      }
+
+      int light = this.getLightColor(partialTick);
+      buffer.addVertex(vertices[0].x(), vertices[0].y(), vertices[0].z())
+         .setUv(u1, v1)
+         .setColor(this.rCol, this.gCol, this.bCol, this.alpha)
+         .setUv2(light & 65535, light >> 16);
+      buffer.addVertex(vertices[1].x(), vertices[1].y(), vertices[1].z())
+         .setUv(u1, v0)
+         .setColor(this.rCol, this.gCol, this.bCol, this.alpha)
+         .setUv2(light & 65535, light >> 16);
+      buffer.addVertex(vertices[2].x(), vertices[2].y(), vertices[2].z())
+         .setUv(u0, v0)
+         .setColor(this.rCol, this.gCol, this.bCol, this.alpha)
+         .setUv2(light & 65535, light >> 16);
+      buffer.addVertex(vertices[3].x(), vertices[3].y(), vertices[3].z())
+         .setUv(u0, v1)
+         .setColor(this.rCol, this.gCol, this.bCol, this.alpha)
+         .setUv2(light & 65535, light >> 16);
+   }
+
+   public void setAlpha(float alpha) {
+      this.alpha = alpha;
+   }
+
+   @NotNull
+   public ParticleRenderType getRenderType() {
+      return ParticleRenderType.PARTICLE_SHEET_TRANSLUCENT;
+   }
+
+   public void tick() {
+      this.xo = this.x;
+      this.yo = this.y;
+      this.zo = this.z;
+      if (this.age++ >= this.lifetime) {
+         this.remove();
+      } else {
+         this.yd += 0.002;
+         this.move(this.xd, this.yd, this.zd);
+      }
+   }
+}

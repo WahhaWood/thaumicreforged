@@ -1,0 +1,35 @@
+{
+  "aspect_triggers": [
+    "telum"
+  ],
+  "column": 5,
+  "complexity": 1,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:golem_decor_dart"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_decor_dart.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_decor_dart"
+    }
+  ],
+  "row": 11,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "volatus"
+    },
+    {
+      "amount": 2,
+      "key": "telum"
+    },
+    {
+      "key": "lucrum"
+    }
+  ]
+}

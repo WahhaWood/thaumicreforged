@@ -1,0 +1,28 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 10,
+      "key": "fabrico"
+    },
+    {
+      "amount": 10,
+      "key": "ordo"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:anvil"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "thaumcraft:repair",
+  "instability": 4,
+  "research": "infusion_enchantment"
+}

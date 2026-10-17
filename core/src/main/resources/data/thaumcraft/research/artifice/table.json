@@ -1,0 +1,20 @@
+{
+  "autoUnlock": true,
+  "column": 0,
+  "icon": {
+    "item": "thaumcraft:table"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.table.page.1"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/table"
+    }
+  ],
+  "round": true,
+  "row": -1,
+  "stub": true
+}

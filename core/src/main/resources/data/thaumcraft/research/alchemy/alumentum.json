@@ -1,0 +1,30 @@
+{
+  "column": 2,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:alumentum"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.alumentum.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/alumentum"
+    }
+  ],
+  "parents": [
+    "crucible"
+  ],
+  "row": 1,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "potentia"
+    },
+    {
+      "key": "ignis"
+    }
+  ]
+}

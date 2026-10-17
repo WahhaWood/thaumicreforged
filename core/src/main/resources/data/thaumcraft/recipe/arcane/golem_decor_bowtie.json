@@ -1,0 +1,31 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "aer"
+    },
+    {
+      "amount": 4,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:black_wool"
+    },
+    "S": {
+      "tag": "c:strings"
+    }
+  },
+  "pattern": [
+    "CSC",
+    "C C"
+  ],
+  "research": "golem_decor_bowtie",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_decor_bowtie"
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"texture_size": [128, 64],
+	"textures": {
+		"0": "thaumcraft:block/model/arcane_bellows"
+	},
+	"elements": [
+		{
+			"name": "bottom",
+			"from": [2, 0, 2],
+			"to": [14, 2, 14],
+			"faces": {
+				"north": {"uv": [0, 3, 1.5, 3.5], "texture": "#0"},
+				"east": {"uv": [1.5, 3, 3, 3.5], "texture": "#0"},
+				"south": {"uv": [3, 3, 4.5, 3.5], "texture": "#0"},
+				"west": {"uv": [4.5, 3, 6, 3.5], "texture": "#0"},
+				"up": {"uv": [1.5, 0, 3, 3], "texture": "#0"},
+				"down": {"uv": [3, 0, 4.5, 3], "texture": "#0"}
+			}
+		}
+	]
+}

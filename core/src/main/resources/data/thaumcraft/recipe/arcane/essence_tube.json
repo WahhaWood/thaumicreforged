@@ -1,0 +1,38 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 5,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:gold_nugget"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Q": {
+      "item": "thaumcraft:quicksilver"
+    }
+  },
+  "pattern": [
+    " Q ",
+    "IGI",
+    " B "
+  ],
+  "research": "tubes",
+  "result": {
+    "count": 8,
+    "id": "thaumcraft:essence_tube"
+  }
+}

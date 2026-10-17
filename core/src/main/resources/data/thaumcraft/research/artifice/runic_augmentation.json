@@ -1,0 +1,42 @@
+{
+  "column": 6,
+  "complexity": 1,
+  "concealed": true,
+  "icon": "thaumcraft:textures/misc/r_runicupg.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.runic_augmentation.page.1"
+    },
+    {
+      "type": "infusion_runic_augmentation",
+      "id": "thaumcraft:runic_augmentation/chest_robe_custom"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.runic_augmentation.page.2"
+    }
+  ],
+  "parents": [
+    "runic_armor"
+  ],
+  "row": 4,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    },
+    {
+      "amount": 4,
+      "key": "permutatio"
+    },
+    {
+      "amount": 4,
+      "key": "lucrum"
+    }
+  ]
+}

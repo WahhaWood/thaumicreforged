@@ -1,0 +1,50 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "volatus"
+    },
+    {
+      "amount": 32,
+      "key": "potentia"
+    },
+    {
+      "amount": 32,
+      "key": "aer"
+    },
+    {
+      "amount": 16,
+      "key": "iter"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:curios_belt"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "thaumcraft:earth_shard"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "instability": 8,
+  "research": "girdle_hover",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:girdle_hover"
+  }
+}

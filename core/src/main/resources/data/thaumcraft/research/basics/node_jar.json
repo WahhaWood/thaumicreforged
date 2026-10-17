@@ -1,0 +1,220 @@
+{
+  "column": -7,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "type": "neoforge:components",
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": []
+      },
+      "minecraft:custom_data": {
+        "aspects": [
+          {
+            "amount": 40,
+            "key": "aer"
+          },
+          {
+            "amount": 40,
+            "key": "ignis"
+          },
+          {
+            "amount": 40,
+            "key": "aqua"
+          },
+          {
+            "amount": 40,
+            "key": "terra"
+          }
+        ],
+        "nodeid": "",
+        "nodetype": 0
+      },
+      "minecraft:enchantments": {
+        "levels": {}
+      },
+      "minecraft:lore": [],
+      "minecraft:max_stack_size": 1,
+      "minecraft:rarity": "common",
+      "minecraft:repair_cost": 0
+    },
+    "items": [
+      "thaumcraft:node_jar"
+    ],
+    "strict": true
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.node_jar.page.1"
+    },
+    {
+      "type": "formed_structure",
+      "aspects": [
+        {
+          "amount": 70,
+          "key": "ignis"
+        },
+        {
+          "amount": 70,
+          "key": "terra"
+        },
+        {
+          "amount": 70,
+          "key": "aer"
+        },
+        {
+          "amount": 70,
+          "key": "aqua"
+        },
+        {
+          "amount": 70,
+          "key": "ordo"
+        },
+        {
+          "amount": 70,
+          "key": "perditio"
+        }
+      ],
+      "dx": 3,
+      "dy": 4,
+      "dz": 3,
+      "ingredients": [
+        {
+          "tag": "minecraft:wooden_slabs"
+        },
+        {
+          "tag": "minecraft:wooden_slabs"
+        },
+        {
+          "tag": "minecraft:wooden_slabs"
+        },
+        {
+          "tag": "minecraft:wooden_slabs"
+        },
+        {
+          "tag": "minecraft:wooden_slabs"
+        },
+        {
+          "tag": "minecraft:wooden_slabs"
+        },
+        {
+          "tag": "minecraft:wooden_slabs"
+        },
+        {
+          "tag": "minecraft:wooden_slabs"
+        },
+        {
+          "tag": "minecraft:wooden_slabs"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "thaumcraft:primal_256_aura_node"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        },
+        {
+          "item": "minecraft:glass"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "key": "tc.research.node_jar.page.2"
+    }
+  ],
+  "parents": [
+    "nodepreserve"
+  ],
+  "row": 4,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "lucrum"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "motus"
+    }
+  ]
+}

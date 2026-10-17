@@ -1,0 +1,35 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 20,
+      "key": "ignis"
+    },
+    {
+      "amount": 10,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "thaumcraft:fire_shard"
+    },
+    "N": {
+      "item": "minecraft:quartz"
+    },
+    "S": {
+      "item": "thaumcraft:focus_fire"
+    }
+  },
+  "pattern": [
+    "FNF",
+    "NSN",
+    "FNF"
+  ],
+  "research": "focus_smelt",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_smelt"
+  }
+}

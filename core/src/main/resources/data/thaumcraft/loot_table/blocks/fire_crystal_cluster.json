@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "thaumcraft:fire_shard"
+        }
+      ],
+      "rolls": 6.0
+    }
+  ],
+  "random_sequence": "thaumcraft:blocks/fire_crystal_cluster"
+}

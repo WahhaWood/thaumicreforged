@@ -1,0 +1,46 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 65,
+      "key": "vacuos"
+    },
+    {
+      "amount": 32,
+      "key": "pannus"
+    },
+    {
+      "amount": 16,
+      "key": "alienis"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:focus_pouch"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:ichor_cloth"
+    },
+    {
+      "item": "thaumcraft:ender_shard"
+    },
+    {
+      "item": "thaumcraft:ichor_cloth"
+    },
+    {
+      "item": "thaumcraft:ender_shard"
+    },
+    {
+      "item": "minecraft:ender_chest"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "instability": 6,
+  "research": "ichor_pouch",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:ichor_pouch"
+  }
+}

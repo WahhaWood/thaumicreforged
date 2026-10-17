@@ -1,0 +1,54 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 256,
+      "key": "motus"
+    },
+    {
+      "amount": 48,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 96,
+      "key": "machina"
+    },
+    {
+      "amount": 156,
+      "key": "cognitio"
+    },
+    {
+      "amount": 69,
+      "key": "auram"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:lucky_rune"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:mirror"
+    },
+    {
+      "item": "thaumcraft:eldritch_eye"
+    },
+    {
+      "item": "thaumcraft:loot_bag_uncommon"
+    },
+    {
+      "item": "thaumcraft:eldritch_eye"
+    }
+  ],
+  "instability": 5,
+  "research": "update_lucky",
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "isInfo": 1,
+        "metaUpdate": 3
+      }
+    },
+    "count": 1,
+    "id": "thaumcraft:runic_matrix"
+  }
+}

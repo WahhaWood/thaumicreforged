@@ -1,0 +1,35 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 20,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "C": {
+      "item": "thaumcraft:clean_fragment"
+    },
+    "G": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "pattern": [
+    " G ",
+    "BCB",
+    " G "
+  ],
+  "research": "volume_of_purification",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:volume_of_purification"
+  }
+}

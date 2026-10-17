@@ -1,0 +1,50 @@
+{
+	"variants": {
+		"element=bottom,facing=east": {
+			"model": "thaumcraft:block/crucible",
+			"y": 180
+		},
+		"element=bottom,facing=north": {
+			"model": "thaumcraft:block/crucible",
+			"y": 90
+		},
+		"element=bottom,facing=south": {
+			"model": "thaumcraft:block/crucible",
+			"y": 270
+		},
+		"element=bottom,facing=west": {
+			"model": "thaumcraft:block/crucible"
+		},
+		"element=center,facing=east": {
+			"model": "thaumcraft:block/thaumatorium_center",
+			"y": 180
+		},
+		"element=center,facing=north": {
+			"model": "thaumcraft:block/thaumatorium_center",
+			"y": 90
+		},
+		"element=center,facing=south": {
+			"model": "thaumcraft:block/thaumatorium_center",
+			"y": 270
+		},
+		"element=center,facing=west": {
+			"model": "thaumcraft:block/thaumatorium_center"
+		},
+		"element=top,facing=east": {
+			"model": "thaumcraft:block/thaumatorium_top",
+			"y": 90
+		},
+		"element=top,facing=north": {
+			"model": "thaumcraft:block/thaumatorium_top",
+			"y": 90
+		},
+		"element=top,facing=south": {
+			"model": "thaumcraft:block/thaumatorium_top",
+			"y": 270
+		},
+		"element=top,facing=west": {
+			"model": "thaumcraft:block/thaumatorium_top"
+		}
+	}
+}
+

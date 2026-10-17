@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "thaumcraft:block/mnemonic_matrix",
+	"elements": [
+		{
+			"name": "core",
+			"from": [3, 3, 3],
+			"to": [13, 13, 13],
+			"faces": {
+				"north": {"uv": [3, 3, 13, 13], "texture": "#0"},
+				"east": {"uv": [3, 3, 13, 13], "texture": "#0"},
+				"south": {"uv": [3, 3, 13, 13], "texture": "#0"},
+				"west": {"uv": [3, 3, 13, 13], "texture": "#0"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#0"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "east",
+			"from": [13, 5, 5],
+			"to": [16, 11, 11],
+			"faces": {
+				"north": {"uv": [0, 5, 3, 11], "texture": "#0"},
+				"east": {"uv": [0, 0, 6, 6], "texture": "#missing"},
+				"south": {"uv": [13, 5, 16, 11], "texture": "#0"},
+				"west": {"uv": [0, 0, 6, 6], "texture": "#missing"},
+				"up": {"uv": [13, 5, 16, 11], "texture": "#0"},
+				"down": {"uv": [13, 5, 16, 11], "texture": "#0"}
+			}
+		}
+	]
+}

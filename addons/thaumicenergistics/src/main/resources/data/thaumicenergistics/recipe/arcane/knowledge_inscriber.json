@@ -1,0 +1,53 @@
+﻿{
+    "type":  "thaumcraft:shaped_arcane",
+    "aspects":  [
+                    {
+                        "amount":  5,
+                        "key":  "aqua"
+                    },
+                    {
+                        "amount":  5,
+                        "key":  "ordo"
+                    },
+                    {
+                        "amount":  5,
+                        "key":  "terra"
+                    },
+                    {
+                        "amount":  5,
+                        "key":  "perditio"
+                    },
+                    {
+                        "amount":  5,
+                        "key":  "ignis"
+                    },
+                    {
+                        "amount":  5,
+                        "key":  "aer"
+                    }
+                ],
+    "category":  "misc",
+    "key":  {
+                "I":  {
+                          "item":  "minecraft:iron_ingot"
+                      },
+                "P":  {
+                          "item":  "ae2:monitor"
+                      },
+                "T":  {
+                          "item":  "thaumcraft:thaumonomicon"
+                      },
+                "L":  {
+                          "item":  "ae2:logic_processor"
+                      }
+            },
+    "pattern":  [
+                    "IPI",
+                    " T ",
+                    "ILI"
+                ],
+    "research":  "te_arcane_assembler",
+    "result":  {
+                   "id":  "thaumicenergistics:knowledge_inscriber"
+               }
+}

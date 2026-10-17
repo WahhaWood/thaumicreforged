@@ -1,0 +1,43 @@
+{
+  "column": 4,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:distorted_fragment"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.distorted_fragment.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/distorted_fragment"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/distorted_fragment"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.distorted_fragment.page.2"
+    }
+  ],
+  "parents": [
+    "sanity_checker"
+  ],
+  "row": 4,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "vitium"
+    },
+    {
+      "amount": 5,
+      "key": "tenebrae"
+    }
+  ]
+}

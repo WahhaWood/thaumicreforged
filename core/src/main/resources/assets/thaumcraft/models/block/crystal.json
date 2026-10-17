@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:block/block",
+  "render_type": "cutout",
+  "loader": "neoforge:obj",
+  "flip_v": true,
+  "model": "thaumcraft:models/obj/crystal.obj",
+  "textures": {
+    "texture0": "thaumcraft:block/crystal",
+    "particle": "thaumcraft:block/crystal"
+  },
+  "transform": {
+    "origin": "center",
+    "translation": [ 0, 0,  0 ],
+    "rotation": [ 0, 0, 0 ]
+  }
+}

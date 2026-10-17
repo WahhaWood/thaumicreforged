@@ -1,0 +1,16 @@
+{
+  "column": 0,
+  "row": 0,
+  "complexity": 0,
+  "round": true,
+  "autoUnlock": true,
+  "icon": {
+    "item": "thaumicenergistics:knowledge_core"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.te_research.page.1"
+    }
+  ]
+}

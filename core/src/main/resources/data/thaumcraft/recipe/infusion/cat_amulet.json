@@ -1,0 +1,43 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 32,
+      "key": "ordo"
+    },
+    {
+      "amount": 16,
+      "key": "cognitio"
+    }
+  ],
+  "central": {
+    "item": "minecraft:quartz_block"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:ender_shard"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "tag": "c:dyes/light_blue"
+    },
+    {
+      "item": "minecraft:cod"
+    }
+  ],
+  "instability": 8,
+  "research": "cat_amulet",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:cat_amulet"
+  }
+}

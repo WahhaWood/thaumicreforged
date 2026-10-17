@@ -1,0 +1,39 @@
+{
+  "column": -1,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:staff_rod_greatwood"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.greatwood_staff_rod.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.greatwood_staff_rod.page.2"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/greatwood_staff_rod"
+    }
+  ],
+  "parents": [
+    "silverwood_rod"
+  ],
+  "row": 7,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 6,
+      "key": "arbor"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

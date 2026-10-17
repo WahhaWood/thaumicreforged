@@ -1,0 +1,235 @@
+{
+  "column": 4,
+  "icon": {
+    "item": "thaumcraft:jar"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.jar_label.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/jar"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.jar_label.page.2"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shapeless/jar_label"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.jar_label.page.3"
+    },
+    {
+      "type": "recipes",
+      "value": [
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_aer"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_alienis"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_aqua"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_arbor"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_auram"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_bestia"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_cognitio"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_corpus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_exanimis"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_fabrico"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_fames"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_gelum"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_herba"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_humanus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_ignis"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_instrumentum"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_iter"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_limus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_lucrum"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_lux"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_machina"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_messis"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_metallum"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_meto"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_mortuus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_motus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_ordo"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_pannus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_perditio"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_perfodio"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_permutatio"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_potentia"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_praecantatio"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_sano"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_sensus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_spiritus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_telum"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_tempestas"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_tenebrae"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_terra"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_tutamen"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_vacuos"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_venenum"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_victus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_vinculum"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_vitium"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_vitreus"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/jar_label_volatus"
+        }
+      ]
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shapeless/jar_label_null"
+    }
+  ],
+  "parents": [
+    "distilessence"
+  ],
+  "round": true,
+  "row": -3,
+  "stub": true
+}

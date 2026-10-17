@@ -1,0 +1,44 @@
+{
+  "column": -4,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:transvector_interface"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.interface.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.interface.page.2"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/connector"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.interface.page.3"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/transvector_interface"
+    }
+  ],
+  "parents": [
+    "dark_quartz"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 2,
+  "tags": [
+    {
+      "amount": 4,
+      "key": "perditio"
+    },
+    {
+      "amount": 4,
+      "key": "ordo"
+    }
+  ]
+}

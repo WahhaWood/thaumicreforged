@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thaumcraft:item/research_notes",
+    "layer1": "thaumcraft:item/research_notes_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "thaumcraft:discovery": 1
+      },
+      "model": "thaumcraft:item/research_notes_discovery"
+    }
+  ]
+}

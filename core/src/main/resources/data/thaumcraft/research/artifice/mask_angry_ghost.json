@@ -1,0 +1,36 @@
+{
+  "column": -10,
+  "complexity": 2,
+  "concealed": true,
+  "icon": "thaumcraft:textures/misc/r_mask1.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.mask_angry_ghost.page.1"
+    },
+    {
+      "type": "infusion_fortress",
+      "id": "thaumcraft:fortress/mask_angry_ghost"
+    }
+  ],
+  "parents": [
+    "armor_fortress"
+  ],
+  "row": 9,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "perditio"
+    },
+    {
+      "amount": 5,
+      "key": "mortuus"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    }
+  ],
+  "warp": 1
+}

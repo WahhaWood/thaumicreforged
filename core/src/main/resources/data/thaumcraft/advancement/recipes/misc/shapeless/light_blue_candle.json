@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thaumcraft:shapeless/light_blue_candle"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_white_candle": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thaumcraft:white_candle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_white_candle"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thaumcraft:shapeless/light_blue_candle"
+    ]
+  }
+}

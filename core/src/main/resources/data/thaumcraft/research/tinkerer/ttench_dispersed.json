@@ -1,0 +1,33 @@
+{
+  "column": 1,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/dispersed_strikes.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_dispersed.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_dispersed"
+    }
+  ],
+  "parents": [
+    "ttench_vampirism"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 6,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "perditio"
+    },
+    {
+      "key": "telum"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

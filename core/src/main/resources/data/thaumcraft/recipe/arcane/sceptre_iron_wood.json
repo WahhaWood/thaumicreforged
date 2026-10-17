@@ -1,0 +1,52 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "key": "aer"
+    },
+    {
+      "key": "terra"
+    },
+    {
+      "key": "ignis"
+    },
+    {
+      "key": "aqua"
+    },
+    {
+      "key": "ordo"
+    },
+    {
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "thaumcraft:primal_charm"
+    },
+    "R": {
+      "item": "minecraft:stick"
+    },
+    "T": {
+      "item": "thaumcraft:wand_cap_iron"
+    }
+  },
+  "pattern": [
+    " TF",
+    " RT",
+    "T  "
+  ],
+  "research": "sceptre",
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "cap": "iron",
+        "rod": "wood",
+        "sceptre": 1
+      }
+    },
+    "count": 1,
+    "id": "thaumcraft:wand_casting"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 15,
+      "key": "terra"
+    },
+    {
+      "amount": 5,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "thaumcraft:alchemical_construct"
+    },
+    "D": {
+      "item": "minecraft:dispenser"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Q": {
+      "item": "thaumcraft:balanced_shard"
+    },
+    "T": {
+      "item": "thaumcraft:essence_tube"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "IDI",
+    "QCQ",
+    "WTW"
+  ],
+  "research": "essence_crystal",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:essence_crystallizer"
+  }
+}

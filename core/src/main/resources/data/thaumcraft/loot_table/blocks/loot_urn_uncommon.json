@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "thaumcraft:loot_urn_uncommon"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "thaumcraft:blocks/loot_urn_uncommon"
+}

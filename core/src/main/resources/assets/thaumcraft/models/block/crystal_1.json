@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:block/block",
+  "render_type": "cutout",
+  "loader": "neoforge:obj",
+  "flip_v": true,
+  "detectCullableFaces": false,
+  "diffuseLighting": true,
+  "model": "thaumcraft:models/obj/crystal.obj",
+  "textures": {
+    "texture0": "thaumcraft:block/crystal",
+    "particle": "thaumcraft:block/crystal"
+  },
+  "transform": {
+    "origin": "center",
+    "translation": [ 0, 0, 0 ],
+    "rotation": [ 0, 0, 0 ]
+  },
+  "visibility": {
+    "s014": true,
+    "s015": true,
+    "s016": true,
+    "s017": true,
+    "s018": false,
+    "s019": false,
+    "s024": false,
+    "s026": false
+  }
+}

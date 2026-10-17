@@ -1,0 +1,42 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 20,
+      "key": "aer"
+    },
+    {
+      "amount": 5,
+      "key": "ordo"
+    },
+    {
+      "amount": 15,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "thaumcraft:air_shard"
+    },
+    "W": {
+      "item": "thaumcraft:greatwood_log"
+    }
+  },
+  "pattern": [
+    "WFW",
+    "SIS",
+    "WFW"
+  ],
+  "research": "mobilizer",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:mobilizer_relay"
+  }
+}

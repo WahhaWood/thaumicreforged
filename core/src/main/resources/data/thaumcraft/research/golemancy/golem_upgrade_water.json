@@ -1,0 +1,33 @@
+{
+  "column": 5,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_upgrade_water"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_upgrade_water.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_upgrade_water"
+    }
+  ],
+  "parents": [
+    "golem_bell"
+  ],
+  "row": 1,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "sensus"
+    }
+  ]
+}

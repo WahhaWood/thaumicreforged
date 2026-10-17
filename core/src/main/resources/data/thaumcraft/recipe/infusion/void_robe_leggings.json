@@ -1,0 +1,58 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 20,
+      "key": "metallum"
+    },
+    {
+      "amount": 20,
+      "key": "tutamen"
+    },
+    {
+      "amount": 20,
+      "key": "pannus"
+    },
+    {
+      "amount": 16,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 16,
+      "key": "alienis"
+    },
+    {
+      "amount": 20,
+      "key": "vacuos"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:void_leggings"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:cloth_leggings"
+    },
+    {
+      "tag": "c:ingots/void"
+    },
+    {
+      "tag": "c:ingots/thaumium"
+    },
+    {
+      "item": "thaumcraft:salis_mundus"
+    },
+    {
+      "item": "thaumcraft:cloth"
+    },
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "instability": 6,
+  "research": "armor_void_fortress",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:void_robe_leggings"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 25,
+      "key": "ignis"
+    },
+    {
+      "amount": 15,
+      "key": "aer"
+    },
+    {
+      "amount": 15,
+      "key": "bestia"
+    },
+    {
+      "amount": 25,
+      "key": "perditio"
+    }
+  ],
+  "central": {
+    "item": "minecraft:magma_cream"
+  },
+  "components": [
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "thaumcraft:fire_shard"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "thaumcraft:entropy_shard"
+    }
+  ],
+  "instability": 3,
+  "research": "focus_hell_bat",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_hell_bat"
+  }
+}

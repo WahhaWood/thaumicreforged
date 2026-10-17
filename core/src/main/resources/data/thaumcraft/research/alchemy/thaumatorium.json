@@ -1,0 +1,75 @@
+{
+  "column": 10,
+  "complexity": 3,
+  "concealed": true,
+  "icon": "thaumcraft:textures/misc/alchemy_construct.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.thaumatorium.page.1"
+    },
+    {
+      "type": "formed_structure",
+      "aspects": [
+        {
+          "amount": 15,
+          "key": "ignis"
+        },
+        {
+          "amount": 30,
+          "key": "ordo"
+        },
+        {
+          "amount": 30,
+          "key": "aqua"
+        }
+      ],
+      "dy": 3,
+      "ingredients": [
+        {
+          "item": "thaumcraft:alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:alchemical_construct"
+        },
+        {
+          "item": "thaumcraft:crucible"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "key": "tc.research.thaumatorium.page.2"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.thaumatorium.page.3"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/mnemonic_matrix"
+    }
+  ],
+  "parents": [
+    "centrifuge"
+  ],
+  "row": -2,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "fabrico"
+    }
+  ]
+}

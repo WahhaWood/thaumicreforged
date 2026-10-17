@@ -1,0 +1,43 @@
+{
+  "type": "thaumcraft:fortress_armor_upgrade",
+  "aspects": [
+    {
+      "amount": 64,
+      "key": "perditio"
+    },
+    {
+      "amount": 64,
+      "key": "mortuus"
+    },
+    {
+      "amount": 16,
+      "key": "tutamen"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:thaumium_fortress_helmet"
+  },
+  "components": [
+    {
+      "tag": "c:dyes/black"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "minecraft:poisonous_potato"
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "instability": 8,
+  "research": "mask_angry_ghost",
+  "upgrade": "mask_angry_ghost"
+}

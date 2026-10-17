@@ -1,0 +1,44 @@
+{
+  "column": -4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:lucky_rune"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.update_lucky.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/lucky_rune"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.update_lucky.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/matrix_lucky"
+    }
+  ],
+  "parents": [
+    "update_matrix"
+  ],
+  "row": 16,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    }
+  ]
+}

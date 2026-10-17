@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "thaumcraft:block/arcane_lamp"
+    },
+    "active=true": {
+      "model": "thaumcraft:block/arcane_lamp"
+    }
+  }
+}

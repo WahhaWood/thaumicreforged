@@ -1,0 +1,15 @@
+{
+  "research_type": "thaumicenergistics:pseudo",
+  "column": -6,
+  "row": 0,
+  "complexity": 2,
+  "pseudo_for": "infusion",
+  "stub": true,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:runic_matrix"
+  },
+  "pages": [
+    { "type": "text", "key": "tc.research.infusion.page.1" }
+  ]
+}

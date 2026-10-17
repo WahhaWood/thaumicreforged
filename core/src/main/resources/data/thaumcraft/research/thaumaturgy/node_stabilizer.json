@@ -1,0 +1,39 @@
+{
+  "column": -7,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:node_stabilizer"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.node_stabilizer.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/node_stabilizer"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.node_stabilizer.page.2"
+    }
+  ],
+  "parents": [
+    "nodepreserve"
+  ],
+  "row": -4,
+  "tags": [
+    {
+      "amount": 4,
+      "key": "auram"
+    },
+    {
+      "amount": 4,
+      "key": "ordo"
+    },
+    {
+      "amount": 4,
+      "key": "potentia"
+    }
+  ]
+}

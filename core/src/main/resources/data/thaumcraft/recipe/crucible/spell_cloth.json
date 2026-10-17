@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 6,
+      "key": "perditio"
+    },
+    {
+      "amount": 4,
+      "key": "permutatio"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:cloth"
+  },
+  "research": "spell_cloth",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:spell_cloth"
+  }
+}

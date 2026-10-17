@@ -1,0 +1,31 @@
+{
+  "column": 3,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumcraft:spell_cloth"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.spell_cloth.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/spell_cloth"
+    }
+  ],
+  "parents_hidden": [
+    "enchfabric"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 2,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    },
+    {
+      "key": "pannus"
+    }
+  ]
+}

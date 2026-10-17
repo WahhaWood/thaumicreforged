@@ -1,0 +1,51 @@
+{
+  "column": -4,
+  "complexity": 1,
+  "concealed": true,
+  "icon": "thaumcraft:textures/misc/r_alchmult.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.alchemical_duplication.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/gunpowder_dupe"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/slime_ball_dupe"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/clay_ball_dupe"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/glowstone_dust_dupe"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/ink_sac_dupe"
+    }
+  ],
+  "parents": [
+    "tallow"
+  ],
+  "row": 0,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "lucrum"
+    },
+    {
+      "amount": 3,
+      "key": "fabrico"
+    }
+  ]
+}

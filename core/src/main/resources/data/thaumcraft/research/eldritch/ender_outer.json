@@ -1,0 +1,18 @@
+{
+  "column": -3,
+  "complexity": 1,
+  "hidden": true,
+  "icon": "thaumcraft:textures/misc/r_outer.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ender_outer.page.1"
+    }
+  ],
+  "parents": [
+    "oculus"
+  ],
+  "round": true,
+  "row": 4,
+  "stub": true
+}

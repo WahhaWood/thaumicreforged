@@ -1,0 +1,31 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 2,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "thaumcraft:order_shard"
+    },
+    "W": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " I ",
+    " WI",
+    "S  "
+  ],
+  "research": "interface",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:connector"
+  }
+}

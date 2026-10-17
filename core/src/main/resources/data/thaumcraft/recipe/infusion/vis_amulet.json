@@ -1,0 +1,50 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 24,
+      "key": "auram"
+    },
+    {
+      "amount": 64,
+      "key": "potentia"
+    },
+    {
+      "amount": 64,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 24,
+      "key": "vacuos"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:curios_amulet"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:primal_charm"
+    },
+    {
+      "item": "thaumcraft:mixed_crystal_cluster"
+    },
+    {
+      "item": "thaumcraft:mixed_crystal_cluster"
+    },
+    {
+      "item": "thaumcraft:primal_charm"
+    },
+    {
+      "item": "thaumcraft:mixed_crystal_cluster"
+    },
+    {
+      "item": "thaumcraft:mixed_crystal_cluster"
+    }
+  ],
+  "instability": 6,
+  "research": "vis_amulet",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:vis_amulet"
+  }
+}

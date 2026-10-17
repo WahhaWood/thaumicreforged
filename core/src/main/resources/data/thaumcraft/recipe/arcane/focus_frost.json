@@ -1,0 +1,39 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "aqua"
+    },
+    {
+      "amount": 10,
+      "key": "ordo"
+    },
+    {
+      "amount": 10,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "thaumcraft:water_shard"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    "CQC",
+    "Q#Q",
+    "CQC"
+  ],
+  "research": "focus_frost",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_frost"
+  }
+}

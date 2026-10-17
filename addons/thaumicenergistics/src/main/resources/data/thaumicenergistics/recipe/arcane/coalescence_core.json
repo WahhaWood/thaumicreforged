@@ -1,0 +1,35 @@
+﻿{
+    "type":  "thaumcraft:shapeless_arcane",
+    "aspects":  [
+                    {
+                        "amount":  2,
+                        "key":  "aqua"
+                    },
+                    {
+                        "amount":  2,
+                        "key":  "ordo"
+                    }
+                ],
+    "category":  "misc",
+    "ingredients":  [
+                        {
+                            "item":  "thaumcraft:quicksilver_nugget"
+                        },
+                        {
+                            "item":  "thaumcraft:quicksilver_nugget"
+                        },
+                        {
+                            "item":  "thaumcraft:quicksilver_nugget"
+                        },
+                        {
+                            "item":  "thaumcraft:order_shard"
+                        },
+                        {
+                            "item":  "ae2:formation_core"
+                        }
+                    ],
+    "research":  "te_cores",
+    "result":  {
+                   "id":  "thaumicenergistics:coalescence_core"
+               }
+}

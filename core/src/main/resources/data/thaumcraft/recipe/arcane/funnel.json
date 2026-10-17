@@ -1,0 +1,28 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "key": "ordo"
+    },
+    {
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "T": {
+      "tag": "c:ingots/thaumium"
+    }
+  },
+  "pattern": [
+    "STS"
+  ],
+  "research": "funnel",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:funnel"
+  }
+}

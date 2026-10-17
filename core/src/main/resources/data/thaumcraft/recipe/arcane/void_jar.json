@@ -1,0 +1,35 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 15,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "J": {
+      "item": "thaumcraft:jar"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "P": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    "O",
+    "J",
+    "P"
+  ],
+  "research": "void_jar",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:void_jar"
+  }
+}

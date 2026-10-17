@@ -1,0 +1,15 @@
+{
+  "research_type": "thaumicenergistics:pseudo",
+  "column": 1,
+  "row": 2,
+  "complexity": 2,
+  "pseudo_for": "warded_arcana",
+  "stub": true,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:arcane_door"
+  },
+  "pages": [
+    { "type": "text", "key": "tc.research.warded_arcana.page.1" }
+  ]
+}

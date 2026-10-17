@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cinnabar_cluster": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thaumcraft:cinnabar_cluster"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thaumcraft:smelting/cinnabar_cluster_to_quicksilver"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cinnabar_cluster"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thaumcraft:smelting/cinnabar_cluster_to_quicksilver"
+    ]
+  }
+}

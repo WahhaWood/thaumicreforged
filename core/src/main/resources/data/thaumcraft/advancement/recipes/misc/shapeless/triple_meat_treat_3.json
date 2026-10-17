@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_chicken_nugget": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thaumcraft:chicken_nugget"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_fish_nugget": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thaumcraft:fish_nugget"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_pork_nugget": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thaumcraft:pork_nugget"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thaumcraft:shapeless/triple_meat_treat_3"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_fish_nugget",
+      "has_chicken_nugget",
+      "has_pork_nugget"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thaumcraft:shapeless/triple_meat_treat_3"
+    ]
+  }
+}

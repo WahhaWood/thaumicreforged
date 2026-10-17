@@ -1,0 +1,36 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 27,
+      "key": "perditio"
+    },
+    {
+      "amount": 27,
+      "key": "ordo"
+    },
+    {
+      "amount": 18,
+      "key": "ignis"
+    },
+    {
+      "amount": 18,
+      "key": "aer"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "N": {
+      "tag": "c:nuggets/void"
+    }
+  },
+  "pattern": [
+    "NNN",
+    "N N"
+  ],
+  "research": "void_cap",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:wand_cap_void_inert"
+  }
+}

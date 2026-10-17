@@ -1,0 +1,6 @@
+{
+  "parent": "thaumcraft:block/loot_crate",
+  "textures": {
+    "side": "thaumcraft:block/loot_crate_uncommon"
+  }
+}

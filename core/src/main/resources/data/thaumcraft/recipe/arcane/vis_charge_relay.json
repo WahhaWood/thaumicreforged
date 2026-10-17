@@ -1,0 +1,39 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "ignis"
+    },
+    {
+      "amount": 16,
+      "key": "ordo"
+    },
+    {
+      "amount": 16,
+      "key": "aer"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "thaumcraft:vis_relay"
+    },
+    "W": {
+      "item": "thaumcraft:wand_rod_greatwood"
+    }
+  },
+  "pattern": [
+    " R ",
+    "W W",
+    "I I"
+  ],
+  "research": "vis_charge_relay",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:vis_charge_relay"
+  }
+}

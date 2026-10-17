@@ -1,0 +1,15 @@
+{
+  "research_type": "thaumicenergistics:pseudo",
+  "column": 3,
+  "row": -6,
+  "complexity": 3,
+  "pseudo_for": "core_use",
+  "stub": true,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_use"
+  },
+  "pages": [
+    { "type": "text", "key": "tc.research.core_use.page.1" }
+  ]
+}

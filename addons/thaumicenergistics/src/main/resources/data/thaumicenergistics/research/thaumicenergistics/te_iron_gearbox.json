@@ -1,0 +1,20 @@
+{
+  "column": 4,
+  "row": -5,
+  "complexity": 1,
+  "secondary": true,
+  "icon": {
+    "item": "thaumicenergistics:iron_gear"
+  },
+  "tags": [
+    { "amount": 6, "key": "machina" },
+    { "amount": 4, "key": "metallum" },
+    { "amount": 4, "key": "permutatio" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_iron_gearbox.page.1" },
+    { "type": "text", "key": "tc.research.te_iron_gearbox.page.2" },
+    { "type": "arcane", "id": "thaumicenergistics:arcane/iron_gear" },
+    { "type": "arcane", "id": "thaumicenergistics:arcane/gear_box" }
+  ]
+}

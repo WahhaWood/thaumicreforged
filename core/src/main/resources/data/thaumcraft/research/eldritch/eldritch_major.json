@@ -1,0 +1,27 @@
+{
+  "column": -1,
+  "hidden": true,
+  "icon": "thaumcraft:textures/misc/r_eldritchmajor.png",
+  "parents": [
+    "eldritch_minor"
+  ],
+  "item_triggers": [
+    {
+      "item": "thaumcraft:void_seed"
+    }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.eldritch_major.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.eldritch_major.page.2"
+    }
+  ],
+  "round": true,
+  "row": 0,
+  "special": true,
+  "stub": true
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thaumcraft:shaped/travel_stone_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_travel_stone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thaumcraft:travel_stone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_travel_stone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thaumcraft:shaped/travel_stone_slab"
+    ]
+  }
+}

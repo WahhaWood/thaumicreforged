@@ -1,0 +1,18 @@
+{
+  "autoUnlock": true,
+  "column": -4,
+  "icon": "thaumcraft:textures/misc/r_pech.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.pech.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.pech.page.2"
+    }
+  ],
+  "round": true,
+  "row": -4,
+  "stub": true
+}

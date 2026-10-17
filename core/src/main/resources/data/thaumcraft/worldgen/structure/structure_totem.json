@@ -1,0 +1,8 @@
+{
+  "type": "thaumcraft:code_built",
+  "biomes": "#thaumcraft:structure_land",
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {},
+  "feature": "thaumcraft:structure_totem"
+}

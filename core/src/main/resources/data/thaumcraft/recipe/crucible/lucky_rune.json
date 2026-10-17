@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "permutatio"
+    },
+    {
+      "amount": 6,
+      "key": "lucrum"
+    },
+    {
+      "amount": 4,
+      "key": "alienis"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:earth_crystal_cluster"
+  },
+  "research": "update_lucky",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:lucky_rune"
+  }
+}

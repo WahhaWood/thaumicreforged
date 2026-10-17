@@ -1,0 +1,35 @@
+{
+  "column": -10,
+  "complexity": 2,
+  "concealed": true,
+  "icon": "thaumcraft:textures/misc/r_mask0.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.mask_grinning_devil.page.1"
+    },
+    {
+      "type": "infusion_fortress",
+      "id": "thaumcraft:fortress/mask_grinning_devil"
+    }
+  ],
+  "parents": [
+    "armor_fortress"
+  ],
+  "row": 8,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "sano"
+    },
+    {
+      "amount": 5,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    }
+  ]
+}

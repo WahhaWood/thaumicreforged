@@ -1,0 +1,35 @@
+{
+  "column": -3,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/misc/r_nodetap2.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.nodetapper2.page.1"
+    }
+  ],
+  "parents": [
+    "nodetapper1"
+  ],
+  "round": true,
+  "row": 3,
+  "special": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "motus"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    }
+  ]
+}

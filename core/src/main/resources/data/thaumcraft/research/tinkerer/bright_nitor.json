@@ -1,0 +1,39 @@
+{
+  "column": 1,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:bright_nitor"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.bright_nitor.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/bright_nitor"
+    }
+  ],
+  "parents": [
+    "gaseous_light"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -5,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "lux"
+    },
+    {
+      "key": "ignis"
+    },
+    {
+      "key": "potentia"
+    },
+    {
+      "key": "aer"
+    }
+  ]
+}

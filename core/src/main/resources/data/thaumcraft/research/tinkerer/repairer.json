@@ -1,0 +1,42 @@
+{
+  "column": -1,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:repairer"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.repairer.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/repairer"
+    }
+  ],
+  "parents": [
+    "funnel"
+  ],
+  "parents_hidden": [
+    "thaumium",
+    "enchfabric"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -9,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "instrumentum"
+    },
+    {
+      "key": "fabrico"
+    },
+    {
+      "key": "ordo"
+    },
+    {
+      "key": "praecantatio"
+    }
+  ]
+}

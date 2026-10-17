@@ -1,0 +1,37 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.thaumcraft.pounce"
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 8
+  },
+  "max_level": 5,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 8
+  },
+  "slots": [
+    "legs"
+  ],
+  "supported_items": [
+    "minecraft:leather_leggings",
+    "minecraft:chainmail_leggings",
+    "minecraft:iron_leggings",
+    "minecraft:diamond_leggings",
+    "minecraft:golden_leggings",
+    "minecraft:netherite_leggings",
+    "thaumcraft:cloth_leggings",
+    "thaumcraft:ichor_leggings",
+    "thaumcraft:ichor_gem_leggings",
+    "thaumcraft:thaumium_leggings",
+    "thaumcraft:thaumium_fortress_leggings",
+    "thaumcraft:void_leggings",
+    "thaumcraft:void_robe_leggings",
+    "thaumcraft:cultist_robe_leggings",
+    "thaumcraft:cultist_plate_leggings",
+    "thaumcraft:cultist_leader_leggings"
+  ],
+  "weight": 5
+}

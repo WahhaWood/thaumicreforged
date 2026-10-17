@@ -1,0 +1,28 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "thaumcraft:order_shard"
+    },
+    "N": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "pattern": [
+    "NNN",
+    "NCN",
+    "NNN"
+  ],
+  "research": "golem_upgrade_order",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_upgrade_order"
+  }
+}

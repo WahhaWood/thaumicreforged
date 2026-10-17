@@ -1,0 +1,45 @@
+{
+  "column": -7,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:vis_charge_relay"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.vis_charge_relay.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/vis_charge_relay"
+    }
+  ],
+  "parents": [
+    "vis_power",
+    "wand_pedestal"
+  ],
+  "parents_hidden": [
+    "greatwood_rod"
+  ],
+  "row": -6,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "machina"
+    },
+    {
+      "amount": 6,
+      "key": "potentia"
+    }
+  ]
+}

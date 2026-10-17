@@ -1,0 +1,22 @@
+{
+  "autoUnlock": true,
+  "column": 0,
+  "icon": "thaumcraft:textures/misc/r_aspects.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.aspects.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.aspects.page.2"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.aspects.page.3"
+    }
+  ],
+  "round": true,
+  "row": 0,
+  "stub": true
+}

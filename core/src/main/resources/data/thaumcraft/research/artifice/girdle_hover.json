@@ -1,0 +1,44 @@
+{
+  "aspect_triggers": [
+    "volatus"
+  ],
+  "column": 2,
+  "complexity": 3,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:girdle_hover"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.girdle_hover.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/girdle_hover"
+    }
+  ],
+  "parents": [
+    "hover_harness"
+  ],
+  "row": 7,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "volatus"
+    },
+    {
+      "amount": 3,
+      "key": "iter"
+    },
+    {
+      "amount": 3,
+      "key": "aer"
+    },
+    {
+      "amount": 6,
+      "key": "motus"
+    }
+  ]
+}

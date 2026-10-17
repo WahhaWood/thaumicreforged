@@ -1,0 +1,42 @@
+{
+  "column": -1,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_lumber"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.core_chop.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/golem_core_chop"
+    }
+  ],
+  "parents": [
+    "golem_core_harvest",
+    "elemental_axe"
+  ],
+  "row": 7,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "arbor"
+    },
+    {
+      "amount": 3,
+      "key": "meto"
+    },
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 3,
+      "key": "potentia"
+    }
+  ]
+}

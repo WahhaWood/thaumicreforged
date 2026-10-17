@@ -1,0 +1,84 @@
+﻿{
+    "type":  "thaumcraft:infusion",
+    "aspects":  [
+                    {
+                        "amount":  1280,
+                        "key":  "humanus"
+                    },
+                    {
+                        "amount":  1024,
+                        "key":  "instrumentum"
+                    },
+                    {
+                        "amount":  768,
+                        "key":  "machina"
+                    },
+                    {
+                        "amount":  768,
+                        "key":  "praecantatio"
+                    },
+                    {
+                        "amount":  256,
+                        "key":  "vinculum"
+                    }
+                ],
+    "category":  "misc",
+    "central":  {
+                    "item":  "thaumicenergistics:arcane_assembler_2"
+                },
+    "components":  [
+                       {
+                           "item":  "ae2:quartz_vibrant_glass"
+                       },
+                       {
+                           "item":  "minecraft:nether_star"
+                       },
+                       {
+                           "item":  "ae2:calculation_processor"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "item":  "ae2:quartz_vibrant_glass"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "item":  "ae2:calculation_processor"
+                       },
+                       {
+                           "item":  "minecraft:nether_star"
+                       },
+                       {
+                           "item":  "ae2:quartz_vibrant_glass"
+                       },
+                       {
+                           "item":  "minecraft:nether_star"
+                       },
+                       {
+                           "item":  "ae2:calculation_processor"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "item":  "ae2:quartz_vibrant_glass"
+                       },
+                       {
+                           "tag":  "c:ingots/ichorium"
+                       },
+                       {
+                           "item":  "ae2:calculation_processor"
+                       },
+                       {
+                           "item":  "minecraft:nether_star"
+                       }
+                   ],
+    "instability":  15,
+    "research":  "arcane_assembler_3",
+    "result":  {
+                   "id":  "thaumicenergistics:arcane_assembler_3"
+               }
+}

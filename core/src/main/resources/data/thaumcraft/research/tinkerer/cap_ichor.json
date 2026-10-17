@@ -1,0 +1,39 @@
+{
+  "column": 11,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:wand_cap_ichor"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.cap_ichor.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/cap_ichor"
+    }
+  ],
+  "parents": [
+    "ichorium"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 11,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "instrumentum"
+    },
+    {
+      "key": "metallum"
+    },
+    {
+      "key": "lux"
+    },
+    {
+      "key": "praecantatio"
+    }
+  ],
+  "warp": 2
+}

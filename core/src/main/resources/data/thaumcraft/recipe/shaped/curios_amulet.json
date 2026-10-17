@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "tag": "c:strings"
+    }
+  },
+  "pattern": [
+    " S ",
+    "S S",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:curios_amulet"
+  }
+}

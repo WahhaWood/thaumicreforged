@@ -1,0 +1,34 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 12,
+      "key": "terra"
+    },
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 6,
+      "key": "tenebrae"
+    }
+  ],
+  "central": {
+    "item": "minecraft:obsidian"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:balanced_shard"
+    },
+    {
+      "item": "thaumcraft:earth_shard"
+    }
+  ],
+  "instability": 3,
+  "research": "obsidian_rod",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:wand_rod_obsidian"
+  }
+}

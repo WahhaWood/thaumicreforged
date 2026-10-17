@@ -1,0 +1,40 @@
+{
+  "column": -6,
+  "complexity": 3,
+  "icon": {
+    "item": "thaumcraft:infusion_claw"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.infusion_claw.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/infusion_claw"
+    }
+  ],
+  "parents_hidden": [
+    "void_metal",
+    "adv_alchemy_furnace"
+  ],
+  "row": -4,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 4,
+      "key": "machina"
+    },
+    {
+      "amount": 3,
+      "key": "vacuos"
+    },
+    {
+      "amount": 3,
+      "key": "fabrico"
+    }
+  ]
+}

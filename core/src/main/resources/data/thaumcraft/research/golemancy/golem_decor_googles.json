@@ -1,0 +1,40 @@
+{
+  "aspect_triggers": [
+    "pannus"
+  ],
+  "column": 6,
+  "complexity": 1,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:golem_decor_googles"
+  },
+  "item_triggers": [
+    {
+      "tag": "minecraft:wool"
+    }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_decor_googles.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_decor_googles"
+    }
+  ],
+  "row": 10,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "pannus"
+    },
+    {
+      "key": "sensus"
+    },
+    {
+      "key": "lucrum"
+    }
+  ]
+}

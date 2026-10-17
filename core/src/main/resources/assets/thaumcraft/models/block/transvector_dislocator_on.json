@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "thaumcraft:block/obsidian_tile",
+    "front": "thaumcraft:block/arcane_pressure_plate_2",
+    "side": "thaumcraft:block/obsidian_tile"
+  }
+}

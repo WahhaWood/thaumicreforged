@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "thaumcraft:cat_amulet",
+    "thaumcraft:cleansing_talisman",
+    "thaumcraft:curios_amulet",
+    "thaumcraft:runic_amulet",
+    "thaumcraft:runic_amulet_emergency",
+    "thaumcraft:vis_amulet",
+    "thaumcraft:vis_amulet_lesser",
+    "thaumcraft:xp_talisman"
+  ]
+}

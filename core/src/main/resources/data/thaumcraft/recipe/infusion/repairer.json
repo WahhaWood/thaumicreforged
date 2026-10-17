@@ -1,0 +1,56 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 15,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 20,
+      "key": "fabrico"
+    },
+    {
+      "amount": 10,
+      "key": "ordo"
+    },
+    {
+      "amount": 15,
+      "key": "praecantatio"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:obsidian_tile"
+  },
+  "components": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "tag": "minecraft:planks"
+    },
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "thaumcraft:cloth"
+    },
+    {
+      "tag": "c:ingots/thaumium"
+    }
+  ],
+  "instability": 8,
+  "research": "repairer",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:repairer"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "style=base,phase=0":   { "model": "thaumcraft:block/obsidian_totem/base" },
+    "style=base,phase=1":   { "model": "thaumcraft:block/obsidian_totem/base" },
+    "style=base,phase=2":   { "model": "thaumcraft:block/obsidian_totem/base" },
+    "style=base,phase=3":   { "model": "thaumcraft:block/obsidian_totem/base" },
+
+    "style=shaded,phase=0": { "model": "thaumcraft:block/obsidian_totem/shaded" },
+    "style=shaded,phase=1": { "model": "thaumcraft:block/obsidian_totem/shaded" },
+    "style=shaded,phase=2": { "model": "thaumcraft:block/obsidian_totem/shaded" },
+    "style=shaded,phase=3": { "model": "thaumcraft:block/obsidian_totem/shaded" },
+
+    "style=carved,phase=0": { "model": "thaumcraft:block/obsidian_totem/carved_p0" },
+    "style=carved,phase=1": { "model": "thaumcraft:block/obsidian_totem/carved_p1" },
+    "style=carved,phase=2": { "model": "thaumcraft:block/obsidian_totem/carved_p2" },
+    "style=carved,phase=3": { "model": "thaumcraft:block/obsidian_totem/carved_p3" }
+  }
+}

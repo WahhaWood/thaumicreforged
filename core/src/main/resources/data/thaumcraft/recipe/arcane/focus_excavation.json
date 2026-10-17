@@ -1,0 +1,39 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 20,
+      "key": "terra"
+    },
+    {
+      "amount": 5,
+      "key": "perditio"
+    },
+    {
+      "amount": 5,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "c:gems/emerald"
+    },
+    "C": {
+      "item": "thaumcraft:earth_shard"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    "CQC",
+    "Q#Q",
+    "CQC"
+  ],
+  "research": "focus_excavation",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_excavation"
+  }
+}

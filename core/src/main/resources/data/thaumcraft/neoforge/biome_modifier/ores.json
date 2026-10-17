@@ -1,0 +1,15 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "thaumcraft:ore_amber",
+    "thaumcraft:ore_cinnabar",
+    "thaumcraft:ore_air_shard",
+    "thaumcraft:ore_fire_shard",
+    "thaumcraft:ore_water_shard",
+    "thaumcraft:ore_earth_shard",
+    "thaumcraft:ore_order_shard",
+    "thaumcraft:ore_entropy_shard"
+  ],
+  "step": "underground_ores"
+}

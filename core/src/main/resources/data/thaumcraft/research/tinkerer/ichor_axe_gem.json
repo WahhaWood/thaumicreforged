@@ -1,0 +1,38 @@
+{
+  "column": 16,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_axe_adv"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichor_axe_gem.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/ichor_axe_adv"
+    }
+  ],
+  "parents": [
+    "ichor_tools"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 14,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "aqua"
+    },
+    {
+      "key": "instrumentum"
+    },
+    {
+      "key": "arbor"
+    },
+    {
+      "key": "messis"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "column": -9,
+  "row": -4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumicenergistics:crucible_core"
+  },
+  "parents": [
+    "crucible_inscriber"
+  ],
+  "tags": [
+    { "amount": 5, "key": "cognitio" },
+    { "amount": 5, "key": "limus" },
+    { "amount": 4, "key": "praecantatio" },
+    { "amount": 3, "key": "machina" }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.te_crucible_core.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumicenergistics:crucible_core"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+	"texture_size": [8, 20],
+	"elements": [
+		{
+			"name": "rod",
+			"from": [-1, -1, -1],
+			"to": [1, 17, 1],
+			"faces": {
+				"north": {"uv": [0, 1.6, 4, 16], "texture": "#rod"},
+				"east": {"uv": [4, 1.6, 8, 16], "texture": "#rod"},
+				"south": {"uv": [8, 1.6, 12, 16], "texture": "#rod"},
+				"west": {"uv": [16, 1.6, 12, 16], "texture": "#rod"},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#rod"},
+				"down": {"uv": [8, 0, 12, 4], "texture": "#rod"}
+			}
+		}
+	]
+}

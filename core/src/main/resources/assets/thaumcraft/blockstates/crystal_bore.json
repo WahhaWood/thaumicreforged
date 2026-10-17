@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "thaumcraft:block/crystal_bore_base"
+    },
+    "facing=south": {
+      "model": "thaumcraft:block/crystal_bore_base",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "thaumcraft:block/crystal_bore_base",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "thaumcraft:block/crystal_bore_base",
+      "y": 90
+    },
+    "facing=up": {
+      "model": "thaumcraft:block/crystal_bore_base",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "thaumcraft:block/crystal_bore_base",
+      "x": 90
+    }
+  }
+}

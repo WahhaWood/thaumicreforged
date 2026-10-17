@@ -1,0 +1,42 @@
+{
+  "column": 17,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_gem_leggings"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichorcloth_legs_gem.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.ichorcloth_legs_gem.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/ichor_gem_leggings"
+    }
+  ],
+  "parents": [
+    "ichorcloth_armor"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 9,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "ignis"
+    },
+    {
+      "key": "sano"
+    },
+    {
+      "key": "lucrum"
+    },
+    {
+      "key": "potentia"
+    }
+  ]
+}

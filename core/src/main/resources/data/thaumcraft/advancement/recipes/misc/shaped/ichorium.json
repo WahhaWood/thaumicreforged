@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ichorium_nugget": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thaumcraft:ichorium_nugget"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thaumcraft:shaped/ichorium"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ichorium_nugget"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thaumcraft:shaped/ichorium"
+    ]
+  }
+}

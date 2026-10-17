@@ -1,0 +1,19 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "key": "metallum"
+    },
+    {
+      "key": "ordo"
+    }
+  ],
+  "catalyst": {
+    "tag": "c:ores/iron"
+  },
+  "research": "pure_iron",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:iron_cluster"
+  }
+}

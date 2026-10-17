@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "ordo"
+    },
+    {
+      "amount": 16,
+      "key": "permutatio"
+    },
+    {
+      "amount": 16,
+      "key": "vacuos"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:primal_charm"
+  },
+  "research": "update_stable",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:stable_rune"
+  }
+}

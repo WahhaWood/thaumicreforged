@@ -1,0 +1,57 @@
+{
+  "autoUnlock": true,
+  "column": -2,
+  "icon": {
+    "tag": "c:ores/shard"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ore.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.ore.page.2"
+    },
+    {
+      "type": "recipes",
+      "value": [
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/air_crystal_cluster"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/fire_crystal_cluster"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/water_crystal_cluster"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/earth_crystal_cluster"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/order_crystal_cluster"
+        },
+        {
+          "type": "crafting",
+          "id": "thaumcraft:shapeless/entropy_crystal_cluster"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "key": "tc.research.ore.page.3"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.ore.page.4"
+    }
+  ],
+  "round": true,
+  "row": -2,
+  "stub": true
+}

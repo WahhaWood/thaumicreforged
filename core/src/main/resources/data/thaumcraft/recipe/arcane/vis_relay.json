@@ -1,0 +1,32 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "ignis"
+    },
+    {
+      "amount": 8,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "thaumcraft:balanced_shard"
+    }
+  },
+  "pattern": [
+    " I ",
+    "ISI",
+    " I "
+  ],
+  "research": "vis_power",
+  "result": {
+    "count": 2,
+    "id": "thaumcraft:vis_relay"
+  }
+}

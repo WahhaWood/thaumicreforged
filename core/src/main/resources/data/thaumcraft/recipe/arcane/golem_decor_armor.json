@@ -1,0 +1,27 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:iron_chestplate"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "I I",
+    "IAI"
+  ],
+  "research": "golem_decor_armor",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_decor_armor"
+  }
+}

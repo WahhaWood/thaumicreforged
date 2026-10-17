@@ -1,0 +1,38 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "aer"
+    },
+    {
+      "amount": 10,
+      "key": "perditio"
+    },
+    {
+      "amount": 6,
+      "key": "tutamen"
+    },
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:piston"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "thaumcraft:shockwave",
+  "instability": 4,
+  "research": "ttench_shockwave"
+}

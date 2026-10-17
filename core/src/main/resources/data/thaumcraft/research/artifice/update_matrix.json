@@ -1,0 +1,57 @@
+{
+  "column": -4,
+  "complexity": 3,
+  "concealed": true,
+  "icon": "thaumcraft:textures/misc/matrixupdate.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.update_matrix.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/matrix_update"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.update_matrix.page.2"
+    }
+  ],
+  "parents": [
+    "brain_jar"
+  ],
+  "parents_hidden": [
+    "thaumium"
+  ],
+  "row": 11,
+  "tags": [
+    {
+      "amount": 64,
+      "key": "auram"
+    },
+    {
+      "amount": 16,
+      "key": "tempestas"
+    },
+    {
+      "amount": 15,
+      "key": "fabrico"
+    },
+    {
+      "amount": 64,
+      "key": "cognitio"
+    },
+    {
+      "amount": 64,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 64,
+      "key": "potentia"
+    },
+    {
+      "amount": 256,
+      "key": "praecantatio"
+    }
+  ]
+}

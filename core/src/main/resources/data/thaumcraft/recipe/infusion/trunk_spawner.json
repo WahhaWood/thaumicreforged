@@ -1,0 +1,44 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "motus"
+    },
+    {
+      "amount": 4,
+      "key": "spiritus"
+    },
+    {
+      "amount": 4,
+      "key": "iter"
+    },
+    {
+      "amount": 16,
+      "key": "vacuos"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:hungry_chest"
+  },
+  "components": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "thaumcraft:greatwood_planks"
+    },
+    {
+      "item": "thaumcraft:golem_wood"
+    },
+    {
+      "item": "thaumcraft:greatwood_planks"
+    }
+  ],
+  "instability": 3,
+  "research": "travel_trunk",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:trunk_spawner"
+  }
+}

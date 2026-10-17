@@ -1,0 +1,41 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "aer"
+    },
+    {
+      "amount": 10,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "thaumcraft:zombie_brain"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "W": {
+      "item": "thaumcraft:greatwood_planks"
+    }
+  },
+  "pattern": [
+    "GIG",
+    "GBG",
+    "WRW"
+  ],
+  "research": "arcane_ear",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:arcane_sensor"
+  }
+}

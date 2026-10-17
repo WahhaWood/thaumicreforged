@@ -1,0 +1,45 @@
+{
+  "column": -1,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:mirror_essence"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.mirror_essence.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/mirror_essence"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.mirror_essence.page.2"
+    }
+  ],
+  "parents": [
+    "mirror"
+  ],
+  "row": 10,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "iter"
+    },
+    {
+      "amount": 3,
+      "key": "alienis"
+    },
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

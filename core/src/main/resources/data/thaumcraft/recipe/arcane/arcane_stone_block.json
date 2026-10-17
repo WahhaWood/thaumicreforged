@@ -1,0 +1,30 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "key": "terra"
+    },
+    {
+      "key": "ignis"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "thaumcraft:shards"
+    },
+    "S": {
+      "tag": "c:stones"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SCS",
+    "SSS"
+  ],
+  "research": "arcane_stone",
+  "result": {
+    "count": 9,
+    "id": "thaumcraft:arcane_stone"
+  }
+}

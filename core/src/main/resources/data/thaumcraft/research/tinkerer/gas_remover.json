@@ -1,0 +1,32 @@
+{
+  "column": -2,
+  "icon": {
+    "item": "thaumcraft:gas_removal"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.gas_remover.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/gas_remover"
+    }
+  ],
+  "parents": [
+    "gaseous_shadow"
+  ],
+  "research_type": "thaumcraft:tt",
+  "round": true,
+  "row": -7,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 2,
+      "key": "lux"
+    }
+  ]
+}

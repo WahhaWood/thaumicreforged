@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "neoforge:obj",
+  "flip_v": true,
+  "model": "thaumicenergistics:models/obj/infusion_assembler.obj",
+  "textures": {
+    "texture0": "thaumicenergistics:block/model/infusion_assembler",
+    "particle": "thaumicenergistics:block/model/infusion_assembler"
+  },
+  "transform": {
+    "origin": "center",
+    "translation": [ 0, 0, 0 ],
+    "rotation": [ 0, 0, 0 ]
+  }
+}

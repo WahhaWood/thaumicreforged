@@ -1,0 +1,20 @@
+{
+  "autoUnlock": true,
+  "column": 2,
+  "icon": {
+    "item": "thaumcraft:thaumometer"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.thaumometer.page.1"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/thaumometer"
+    }
+  ],
+  "round": true,
+  "row": 1,
+  "stub": true
+}

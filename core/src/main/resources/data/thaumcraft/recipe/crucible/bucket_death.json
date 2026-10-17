@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "mortuus"
+    },
+    {
+      "amount": 32,
+      "key": "venenum"
+    },
+    {
+      "amount": 32,
+      "key": "perditio"
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:bucket"
+  },
+  "research": "liquid_death",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:fluid_death_bucket"
+  }
+}

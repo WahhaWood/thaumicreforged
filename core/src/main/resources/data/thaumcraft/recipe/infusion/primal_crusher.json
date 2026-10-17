@@ -1,0 +1,62 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 24,
+      "key": "perfodio"
+    },
+    {
+      "amount": 24,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 16,
+      "key": "perditio"
+    },
+    {
+      "amount": 16,
+      "key": "vacuos"
+    },
+    {
+      "amount": 16,
+      "key": "telum"
+    },
+    {
+      "amount": 16,
+      "key": "alienis"
+    },
+    {
+      "amount": 16,
+      "key": "lucrum"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:primordial_pearl"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:primal_charm"
+    },
+    {
+      "item": "thaumcraft:void_pickaxe"
+    },
+    {
+      "item": "thaumcraft:void_shovel"
+    },
+    {
+      "item": "thaumcraft:primal_charm"
+    },
+    {
+      "item": "thaumcraft:elemental_pickaxe"
+    },
+    {
+      "item": "thaumcraft:elemental_shovel"
+    }
+  ],
+  "instability": 6,
+  "research": "primal_crusher",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:primal_crusher"
+  }
+}

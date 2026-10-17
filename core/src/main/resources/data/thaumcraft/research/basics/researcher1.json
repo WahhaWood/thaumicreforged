@@ -1,0 +1,30 @@
+{
+  "column": 4,
+  "complexity": 1,
+  "icon": "thaumcraft:textures/misc/r_researcher1.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.researcher1.page.1"
+    }
+  ],
+  "parents": [
+    "research"
+  ],
+  "round": true,
+  "row": 1,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    }
+  ]
+}

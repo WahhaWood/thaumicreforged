@@ -1,0 +1,44 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "telum"
+    },
+    {
+      "amount": 16,
+      "key": "victus"
+    },
+    {
+      "amount": 16,
+      "key": "spiritus"
+    },
+    {
+      "amount": 24,
+      "key": "praecantatio"
+    }
+  ],
+  "central": {
+    "item": "minecraft:diamond_sword"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:zombie_brain"
+    },
+    {
+      "item": "thaumcraft:spell_cloth"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ],
+  "instability": 8,
+  "research": "blood_sword",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:blood_sword"
+  }
+}

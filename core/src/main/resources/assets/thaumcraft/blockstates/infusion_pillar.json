@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"top=false,facing=east": {
+			"model": "thaumcraft:block/infusion_pillar",
+			"y": 270
+		},
+		"top=false,facing=north": {
+			"model": "thaumcraft:block/infusion_pillar",
+			"y": 180
+		},
+		"top=false,facing=south": {
+			"model": "thaumcraft:block/infusion_pillar"
+		},
+		"top=false,facing=west": {
+			"model": "thaumcraft:block/infusion_pillar",
+			"y": 90
+		},
+		"top=true": {
+			"model": "thaumcraft:block/empty"
+		}
+	}
+}
+

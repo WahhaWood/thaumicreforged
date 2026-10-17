@@ -1,0 +1,20 @@
+{
+  "autoUnlock": true,
+  "column": 2,
+  "icon": {
+    "item": "thaumcraft:grate"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.grate.page.1"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/grate"
+    }
+  ],
+  "round": true,
+  "row": -1,
+  "stub": true
+}

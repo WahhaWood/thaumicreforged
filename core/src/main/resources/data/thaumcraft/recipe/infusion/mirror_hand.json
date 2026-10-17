@@ -1,0 +1,33 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 16,
+      "key": "iter"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:mirror"
+  },
+  "components": [
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:compass"
+    },
+    {
+      "item": "minecraft:map"
+    }
+  ],
+  "instability": 5,
+  "research": "mirror_hand",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:mirror_hand"
+  }
+}

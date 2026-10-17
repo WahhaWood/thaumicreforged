@@ -1,0 +1,41 @@
+{
+  "column": 0,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_iron"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_iron.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_iron"
+    }
+  ],
+  "parents": [
+    "golem_stone"
+  ],
+  "row": 10,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 9,
+      "key": "spiritus"
+    },
+    {
+      "amount": 9,
+      "key": "motus"
+    },
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    }
+  ]
+}

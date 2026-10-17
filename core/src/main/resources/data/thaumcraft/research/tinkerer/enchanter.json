@@ -1,0 +1,48 @@
+{
+  "column": 5,
+  "complexity": 5,
+  "icon": {
+    "item": "thaumcraft:enchanter"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.enchanter.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.enchanter.page.2"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.enchanter.page.3"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/enchanter"
+    }
+  ],
+  "parents": [
+    "spell_cloth"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 4,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    },
+    {
+      "key": "auram"
+    },
+    {
+      "key": "alienis"
+    },
+    {
+      "key": "tenebrae"
+    },
+    {
+      "key": "cognitio"
+    }
+  ]
+}

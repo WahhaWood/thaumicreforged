@@ -1,0 +1,36 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    },
+    {
+      "amount": 3,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "T": {
+      "tag": "minecraft:trapdoors"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "WTW",
+    "W W",
+    "WWW"
+  ],
+  "research": "hungry_chest",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:hungry_chest"
+  }
+}

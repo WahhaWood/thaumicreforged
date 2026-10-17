@@ -1,0 +1,57 @@
+{
+  "column": 7,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:essence_tube"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.tubes.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/essence_tube"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.tubes.page.2"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/essence_valve"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.tubes.page.3"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/resonator"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.tubes.page.4"
+    }
+  ],
+  "parents": [
+    "distilessence"
+  ],
+  "row": 0,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    }
+  ]
+}

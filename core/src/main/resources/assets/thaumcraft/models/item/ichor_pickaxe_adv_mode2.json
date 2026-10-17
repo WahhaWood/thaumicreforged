@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "thaumcraft:item/ichor_pickaxe_adv_mode2"
+  }
+}

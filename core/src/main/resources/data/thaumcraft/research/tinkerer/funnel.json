@@ -1,0 +1,36 @@
+{
+  "column": 0,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:funnel"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.funnel.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/funnel"
+    }
+  ],
+  "parents": [
+    "bright_nitor"
+  ],
+  "parents_hidden": [
+    "distilessence"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -7,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "instrumentum"
+    },
+    {
+      "amount": 2,
+      "key": "iter"
+    }
+  ]
+}

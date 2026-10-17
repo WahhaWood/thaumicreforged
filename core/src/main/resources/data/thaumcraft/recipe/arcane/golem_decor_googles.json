@@ -1,0 +1,30 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "aer"
+    },
+    {
+      "amount": 4,
+      "key": "aqua"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "GIG"
+  ],
+  "research": "golem_decor_googles",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_decor_googles"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "column": -2,
+  "row": -4,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumicenergistics:essentia_provider"
+  },
+  "parents": [
+    "te_cores"
+  ],
+  "tags": [
+    { "amount": 3, "key": "machina" },
+    { "amount": 5, "key": "praecantatio" },
+    { "amount": 3, "key": "ordo" },
+    { "amount": 7, "key": "sensus" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_essentia_provider.page.1" },
+    { "type": "infusion", "id": "thaumicenergistics:infusion/essentia_provider" }
+  ]
+}

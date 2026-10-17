@@ -1,0 +1,38 @@
+{
+  "column": 4,
+  "complexity": 3,
+  "icon": "thaumcraft:textures/misc/r_resdupe.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.researchdupe.page.1"
+    }
+  ],
+  "parents": [
+    "researcher2"
+  ],
+  "round": true,
+  "row": 5,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "lucrum"
+    },
+    {
+      "amount": 3,
+      "key": "fabrico"
+    }
+  ]
+}

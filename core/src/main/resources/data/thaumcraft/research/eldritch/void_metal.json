@@ -1,0 +1,80 @@
+{
+  "column": 2,
+  "complexity": 2,
+  "icon": {
+    "item": "thaumcraft:void_metal_ingot"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.void_metal.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/void_metal_ingot"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.void_metal.page.2"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/void_axe"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/void_sword"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/void_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/void_shovel"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/void_hoe"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/void_helmet"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/void_chest"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/void_leggings"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/void_boots"
+    }
+  ],
+  "parents": [
+    "thaumium",
+    "eldritch_minor"
+  ],
+  "row": -2,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 3,
+      "key": "alienis"
+    },
+    {
+      "amount": 3,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 5,
+      "key": "vacuos"
+    }
+  ]
+}

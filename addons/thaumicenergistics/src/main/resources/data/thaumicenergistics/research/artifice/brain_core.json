@@ -1,0 +1,39 @@
+{
+  "column": -4,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumicenergistics:brain_core"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.brain_core.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumicenergistics:arcane/brain_core"
+    }
+  ],
+  "parents": [
+    "infusion_inscriber"
+  ],
+  "row": -8,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "cognitio"
+    },
+    {
+      "amount": 4,
+      "key": "machina"
+    },
+    {
+      "amount": 3,
+      "key": "vitreus"
+    },
+    {
+      "amount": 3,
+      "key": "potentia"
+    }
+  ]
+}

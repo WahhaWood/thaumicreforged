@@ -1,0 +1,56 @@
+﻿{
+    "type":  "thaumcraft:shaped_arcane",
+    "aspects":  [
+                    {
+                        "amount":  100,
+                        "key":  "aer"
+                    },
+                    {
+                        "amount":  100,
+                        "key":  "terra"
+                    },
+                    {
+                        "amount":  100,
+                        "key":  "aqua"
+                    },
+                    {
+                        "amount":  100,
+                        "key":  "ignis"
+                    },
+                    {
+                        "amount":  100,
+                        "key":  "ordo"
+                    },
+                    {
+                        "amount":  100,
+                        "key":  "perditio"
+                    }
+                ],
+    "category":  "misc",
+    "key":  {
+                "A":  {
+                          "item":  "thaumcraft:vis_relay"
+                      },
+                "B":  {
+                          "item":  "ae2:blank_pattern"
+                      },
+                "C":  {
+                          "item":  "thaumcraft:bright_nitor"
+                      },
+                "D":  {
+                          "item":  "ae2:quartz_vibrant_glass"
+                      },
+                "E":  {
+                          "item":  "ae2:calculation_processor"
+                      }
+            },
+    "pattern":  [
+                    "ABA",
+                    "BCB",
+                    "DED"
+                ],
+    "research":  "crucible_core",
+    "result":  {
+                   "id":  "thaumicenergistics:crucible_core"
+               }
+}

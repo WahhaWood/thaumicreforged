@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "neoforge:obj",
+  "render_type": "minecraft:translucent",
+  "flip_v": true,
+  "model": "thaumicenergistics:models/obj/advanced_arcane_assembler.obj",
+  "textures": {
+    "texture0": "thaumicenergistics:block/model/advanced_arcane_assembler_2_level",
+    "particle": "thaumicenergistics:block/model/advanced_arcane_assembler_2_level"
+  },
+  "transform": {
+    "origin": "center",
+    "translation": [ 0, 0, 0 ],
+    "rotation": [ 0, 0, 0 ]
+  }
+}

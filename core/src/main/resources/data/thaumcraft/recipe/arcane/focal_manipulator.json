@@ -1,0 +1,60 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "ignis"
+    },
+    {
+      "amount": 32,
+      "key": "aer"
+    },
+    {
+      "amount": 32,
+      "key": "perditio"
+    },
+    {
+      "amount": 32,
+      "key": "terra"
+    },
+    {
+      "amount": 32,
+      "key": "aqua"
+    },
+    {
+      "amount": 32,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "thaumcraft:primal_charm"
+    },
+    "Q": {
+      "item": "thaumcraft:arcane_stone_stairs"
+    },
+    "S": {
+      "item": "thaumcraft:arcane_stone"
+    },
+    "T": {
+      "item": "thaumcraft:table"
+    }
+  },
+  "pattern": [
+    "IQI",
+    "SPS",
+    "GTG"
+  ],
+  "research": "focal_manipulator",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focal_manipulator"
+  }
+}

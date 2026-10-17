@@ -1,0 +1,29 @@
+{
+  "column": -9,
+  "row": -2,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumicenergistics:crucible_inscriber"
+  },
+  "parents_hidden": [
+    "void_metal",
+    "crucible"
+  ],
+  "tags": [
+    { "amount": 5, "key": "praecantatio" },
+    { "amount": 4, "key": "machina" },
+    { "amount": 3, "key": "cognitio" },
+    { "amount": 3, "key": "permutatio" }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.te_crucible_inscriber.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumicenergistics:crucible_inscriber"
+    }
+  ]
+}

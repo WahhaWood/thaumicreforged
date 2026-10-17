@@ -1,0 +1,53 @@
+{
+  "column": 4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_primal"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_primal.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/focus_primal"
+    }
+  ],
+  "parents": [
+    "eldritch_minor"
+  ],
+  "row": 1,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "aer"
+    },
+    {
+      "amount": 6,
+      "key": "aqua"
+    },
+    {
+      "amount": 6,
+      "key": "ignis"
+    },
+    {
+      "amount": 6,
+      "key": "terra"
+    },
+    {
+      "amount": 6,
+      "key": "ordo"
+    },
+    {
+      "amount": 6,
+      "key": "perditio"
+    },
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    }
+  ],
+  "warp": 2
+}

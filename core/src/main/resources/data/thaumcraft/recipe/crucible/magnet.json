@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "bestia"
+    },
+    {
+      "amount": 8,
+      "key": "cognitio"
+    },
+    {
+      "amount": 8,
+      "key": "sensus"
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:ender_pearl"
+  },
+  "research": "magnet",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:magnet"
+  }
+}

@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="GPL-3.0-only"
+
+[[mods]]
+modId="thaumicenergistics"
+version="1.0.5.1"
+displayName="Thaumic Energistics"
+authors="Nividica (original Thaumic Energistics), WahhaWood (port)"
+description='''
+An addon for Thaumcraft and Applied Energistics 2, bridging magic and technology.
+'''
+
+[[dependencies.thaumicenergistics]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.226,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.thaumicenergistics]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.thaumicenergistics]]
+    modId="thaumcraft"
+    type="required"
+    versionRange="[1.0.5.1,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.thaumicenergistics]]
+    modId="ae2"
+    type="required"
+    versionRange="[19.2.0,20.0.0)"
+    ordering="AFTER"
+    side="BOTH"

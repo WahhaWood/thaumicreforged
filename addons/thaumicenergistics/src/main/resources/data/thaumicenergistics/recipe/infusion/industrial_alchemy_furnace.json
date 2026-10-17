@@ -1,0 +1,80 @@
+﻿{
+    "type":  "thaumcraft:infusion",
+    "aspects":  [
+                    {
+                        "amount":  256,
+                        "key":  "machina"
+                    },
+                    {
+                        "amount":  128,
+                        "key":  "praecantatio"
+                    },
+                    {
+                        "amount":  128,
+                        "key":  "ordo"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "permutatio"
+                    }
+                ],
+    "category":  "misc",
+    "central":  {
+                    "item":  "thaumcraft:alchemy_furnace"
+                },
+    "components":  [
+                       {
+                           "item":  "thaumicenergistics:infusion_provider"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       },
+                       {
+                           "item":  "thaumcraft:filtered_essence_tube"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       },
+                       {
+                           "item":  "thaumcraft:arcane_alembic"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       },
+                       {
+                           "item":  "thaumcraft:filtered_essence_tube"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       },
+                       {
+                           "item":  "thaumicenergistics:essentia_provider"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       },
+                       {
+                           "item":  "thaumcraft:filtered_essence_tube"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       },
+                       {
+                           "item":  "thaumcraft:arcane_alembic"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       },
+                       {
+                           "item":  "thaumcraft:filtered_essence_tube"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       }
+                   ],
+    "instability":  10,
+    "research":  "te_industrial_alchemy_furnace",
+    "result":  {
+                   "id":  "thaumicenergistics:industrial_alchemy_furnace"
+               }
+}

@@ -1,0 +1,15 @@
+{
+  "research_type": "thaumicenergistics:pseudo",
+  "column": 4,
+  "row": 0,
+  "complexity": 2,
+  "pseudo_for": "vis_power",
+  "stub": true,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:node_transducer"
+  },
+  "pages": [
+    { "type": "text", "key": "tc.research.vis_power.page.1" }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "column": 2,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:sanity_checker"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.sanity_checker.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/sanity_checker"
+    }
+  ],
+  "parents": [
+    "eldritch_minor"
+  ],
+  "row": 2,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "alienis"
+    },
+    {
+      "amount": 5,
+      "key": "sensus"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "column": -7,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_sorting"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.core_sorting.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/golem_core_sorting"
+    }
+  ],
+  "parents": [
+    "golem_core_empty",
+    "golem_core_fill",
+    "infusion"
+  ],
+  "row": 2,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "vacuos"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "lucrum"
+    },
+    {
+      "amount": 3,
+      "key": "fames"
+    }
+  ]
+}

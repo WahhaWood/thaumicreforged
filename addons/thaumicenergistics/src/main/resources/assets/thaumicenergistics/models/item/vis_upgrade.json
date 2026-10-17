@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thaumicenergistics:item/vis.upgrade",
+    "layer1": "thaumicenergistics:item/vis.upgrade.wisp"
+  }
+}

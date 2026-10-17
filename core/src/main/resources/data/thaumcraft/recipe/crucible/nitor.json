@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 3,
+      "key": "potentia"
+    },
+    {
+      "amount": 3,
+      "key": "ignis"
+    },
+    {
+      "amount": 3,
+      "key": "lux"
+    }
+  ],
+  "catalyst": {
+    "tag": "c:dusts/glowstone"
+  },
+  "research": "nitor",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:nitor"
+  }
+}

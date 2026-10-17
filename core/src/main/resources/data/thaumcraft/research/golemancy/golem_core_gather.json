@@ -1,0 +1,31 @@
+{
+  "column": -3,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_gather"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_gather.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_core_blank"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_gather.page.2"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_core_gather"
+    }
+  ],
+  "parents": [
+    "golem_straw"
+  ],
+  "row": 3,
+  "stub": true
+}

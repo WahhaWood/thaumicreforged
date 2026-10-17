@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "ignis"
+    },
+    {
+      "amount": 16,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 8,
+      "key": "vitreus"
+    }
+  ],
+  "catalyst": {
+    "item": "minecraft:nether_wart"
+  },
+  "research": "nether_shard",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:nether_shard"
+  }
+}

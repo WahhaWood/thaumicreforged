@@ -1,0 +1,53 @@
+{
+  "column": 9,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:filtered_essence_tube"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.tube_filter.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/filtered_essence_tube"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.tube_filter.page.2"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/restricted_essence_tube"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/directional_essence_tube"
+    }
+  ],
+  "parents": [
+    "tubes"
+  ],
+  "row": 1,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    }
+  ]
+}

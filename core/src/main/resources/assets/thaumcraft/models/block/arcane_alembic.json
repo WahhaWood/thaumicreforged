@@ -1,0 +1,19 @@
+{
+	"parent": "minecraft:block/block",
+	"loader": "neoforge:obj",
+	"flip_v": true,
+	"model": "thaumcraft:models/obj/arcane_alembic.obj",
+	"textures": {
+		"texture0": "thaumcraft:block/model/arcane_alembic",
+		"particle": "thaumcraft:block/model/arcane_alembic"
+	},
+	"transform": {
+		"origin": "center",
+		"translation": [ 0.5, 0, -1.5 ],
+		"rotation": [ -90, 0, 0 ]
+	},
+	"visibility": {
+		"TubeSmall": false,
+		"TubeMain": false
+	}
+}

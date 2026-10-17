@@ -1,0 +1,51 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 25,
+      "key": "terra"
+    },
+    {
+      "amount": 25,
+      "key": "perditio"
+    },
+    {
+      "amount": 25,
+      "key": "ordo"
+    },
+    {
+      "amount": 25,
+      "key": "aer"
+    },
+    {
+      "amount": 25,
+      "key": "ignis"
+    },
+    {
+      "amount": 25,
+      "key": "aqua"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thaumcraft:primal_charm"
+    },
+    "C": {
+      "item": "minecraft:diamond"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    "CQC",
+    "Q#Q",
+    "CQC"
+  ],
+  "research": "focus_primal",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_primal"
+  }
+}

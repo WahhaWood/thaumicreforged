@@ -1,0 +1,38 @@
+{
+  "column": 9,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/tunnel.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_tunnel.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_tunnel"
+    }
+  ],
+  "parents": [
+    "ttench_auto_smelt"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 6,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "terra"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    },
+    {
+      "key": "instrumentum"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

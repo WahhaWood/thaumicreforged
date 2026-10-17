@@ -1,0 +1,54 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 256,
+      "key": "motus"
+    },
+    {
+      "amount": 48,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 96,
+      "key": "machina"
+    },
+    {
+      "amount": 156,
+      "key": "cognitio"
+    },
+    {
+      "amount": 69,
+      "key": "auram"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:efficiency_rune"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:mirror_essence"
+    },
+    {
+      "item": "thaumcraft:filtered_essence_tube"
+    },
+    {
+      "item": "thaumcraft:mirror_essence"
+    },
+    {
+      "item": "thaumcraft:filtered_essence_tube"
+    }
+  ],
+  "instability": 5,
+  "research": "update_efficiency",
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "isInfo": 1,
+        "metaUpdate": 1
+      }
+    },
+    "count": 1,
+    "id": "thaumcraft:runic_matrix"
+  }
+}

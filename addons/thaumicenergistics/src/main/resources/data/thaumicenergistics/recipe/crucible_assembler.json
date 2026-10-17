@@ -1,0 +1,56 @@
+﻿{
+    "type":  "thaumcraft:infusion",
+    "aspects":  [
+                    {
+                        "amount":  128,
+                        "key":  "praecantatio"
+                    },
+                    {
+                        "amount":  96,
+                        "key":  "instrumentum"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "machina"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "humanus"
+                    }
+                ],
+    "category":  "misc",
+    "central":  {
+                    "item":  "thaumcraft:crucible"
+                },
+    "components":  [
+                       {
+                           "item":  "thaumicenergistics:crucible_core"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       },
+                       {
+                           "item":  "ae2:calculation_processor"
+                       },
+                       {
+                           "item":  "ae2:cell_component_64k"
+                       },
+                       {
+                           "item":  "ae2:pattern_provider"
+                       },
+                       {
+                           "item":  "ae2:cell_component_64k"
+                       },
+                       {
+                           "item":  "ae2:calculation_processor"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       }
+                   ],
+    "instability":  8,
+    "research":  "crucible_assembler",
+    "result":  {
+                   "id":  "thaumicenergistics:crucible_assembler"
+               }
+}

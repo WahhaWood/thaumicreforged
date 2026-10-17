@@ -1,0 +1,23 @@
+{
+  "autoUnlock": true,
+  "column": 3,
+  "icon": {
+    "item": "thaumcraft:knowledge_fragment"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.knowfrag.page.1"
+    },
+    {
+      "type": "crafting",
+      "id": "thaumcraft:shaped/research_notes"
+    }
+  ],
+  "parents": [
+    "research"
+  ],
+  "round": true,
+  "row": -2,
+  "stub": true
+}

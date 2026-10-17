@@ -1,0 +1,25 @@
+{
+  "column": 3,
+  "icon": {
+    "item": "thaumcraft:iron_bell"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_bell.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.golem_bell.page.2"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/iron_bell"
+    }
+  ],
+  "parents": [
+    "golem_straw"
+  ],
+  "row": 0,
+  "stub": true
+}

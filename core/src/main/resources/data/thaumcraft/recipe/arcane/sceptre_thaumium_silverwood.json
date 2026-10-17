@@ -1,0 +1,58 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 81,
+      "key": "aer"
+    },
+    {
+      "amount": 81,
+      "key": "terra"
+    },
+    {
+      "amount": 81,
+      "key": "ignis"
+    },
+    {
+      "amount": 81,
+      "key": "aqua"
+    },
+    {
+      "amount": 81,
+      "key": "ordo"
+    },
+    {
+      "amount": 81,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "thaumcraft:primal_charm"
+    },
+    "R": {
+      "item": "thaumcraft:wand_rod_silverwood"
+    },
+    "T": {
+      "item": "thaumcraft:wand_cap_thaumium"
+    }
+  },
+  "pattern": [
+    " TF",
+    " RT",
+    "T  "
+  ],
+  "research": "sceptre",
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "cap": "thaumium",
+        "rod": "silverwood",
+        "sceptre": 1
+      }
+    },
+    "count": 1,
+    "id": "thaumcraft:wand_casting"
+  }
+}

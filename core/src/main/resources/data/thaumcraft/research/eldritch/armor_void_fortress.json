@@ -1,0 +1,55 @@
+{
+  "column": 0,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:void_robe_helmet"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.armor_void_fortress.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/void_robe_helmet"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/void_robe_chest"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/void_robe_leggings"
+    }
+  ],
+  "parents": [
+    "void_metal",
+    "enchfabric",
+    "eldritch_major"
+  ],
+  "row": -3,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "tutamen"
+    },
+    {
+      "amount": 3,
+      "key": "alienis"
+    },
+    {
+      "amount": 3,
+      "key": "pannus"
+    },
+    {
+      "amount": 3,
+      "key": "tenebrae"
+    },
+    {
+      "amount": 5,
+      "key": "vacuos"
+    }
+  ]
+}

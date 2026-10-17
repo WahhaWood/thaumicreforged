@@ -1,0 +1,43 @@
+{
+  "column": 4,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:clean_fragment"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.clean_fragment.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/clean_fragment"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/clean_fragment"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.clean_fragment.page.2"
+    }
+  ],
+  "parents": [
+    "distorted_fragment"
+  ],
+  "row": 6,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 5,
+      "key": "vitreus"
+    }
+  ]
+}

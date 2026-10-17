@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "level=0": { "model": "thaumcraft:block/invisible" },
+    "level=1": { "model": "thaumcraft:block/invisible" },
+    "level=2": { "model": "thaumcraft:block/invisible" },
+    "level=3": { "model": "thaumcraft:block/invisible" },
+    "level=4": { "model": "thaumcraft:block/invisible" },
+    "level=5": { "model": "thaumcraft:block/invisible" },
+    "level=6": { "model": "thaumcraft:block/invisible" }
+  }
+}

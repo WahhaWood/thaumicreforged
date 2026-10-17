@@ -1,0 +1,33 @@
+{
+  "column": 7,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/slow_fall.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_slow_fall.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_slow_fall"
+    }
+  ],
+  "parents": [
+    "enchanter"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 3,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "aer"
+    },
+    {
+      "key": "motus"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "aer"
+    },
+    {
+      "amount": 10,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:dispenser"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "W": {
+      "item": "thaumcraft:greatwood_planks"
+    }
+  },
+  "pattern": [
+    "WIW",
+    "IDI",
+    "WIW"
+  ],
+  "research": "arcane_bore",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:arcane_bore_base"
+  }
+}

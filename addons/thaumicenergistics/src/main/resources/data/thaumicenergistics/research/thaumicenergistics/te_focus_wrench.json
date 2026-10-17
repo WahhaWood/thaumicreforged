@@ -1,0 +1,24 @@
+{
+  "column": -3,
+  "row": -7,
+  "complexity": 1,
+  "secondary": true,
+  "icon": {
+    "item": "thaumicenergistics:focus_aewrench"
+  },
+  "parents": [
+    "te_pseudo_focus_fire"
+  ],
+  "parents_hidden": [
+    "focus_fire"
+  ],
+  "tags": [
+    { "amount": 6, "key": "machina" },
+    { "amount": 5, "key": "instrumentum" },
+    { "amount": 3, "key": "praecantatio" }
+  ],
+  "pages": [
+    { "type": "text", "key": "tc.research.te_focus_wrench.page.1" },
+    { "type": "arcane", "id": "thaumicenergistics:arcane/focus_aewrench" }
+  ]
+}

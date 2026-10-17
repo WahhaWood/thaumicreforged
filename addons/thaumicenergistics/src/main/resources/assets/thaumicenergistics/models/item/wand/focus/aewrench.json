@@ -1,0 +1,6 @@
+{
+  "parent": "thaumcraft:item/wand/focus/base",
+  "textures": {
+    "focus": "thaumicenergistics:item/foci.aewrench"
+  }
+}

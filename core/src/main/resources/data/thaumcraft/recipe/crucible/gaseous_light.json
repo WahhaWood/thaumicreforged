@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "lux"
+    },
+    {
+      "amount": 10,
+      "key": "aer"
+    },
+    {
+      "amount": 8,
+      "key": "motus"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:nitor"
+  },
+  "research": "gaseous_light",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:gas_light"
+  }
+}

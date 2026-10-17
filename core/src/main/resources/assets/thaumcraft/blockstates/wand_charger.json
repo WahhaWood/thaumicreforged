@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "thaumcraft:block/wand_charger"
+    },
+    "active=true": {
+      "model": "thaumcraft:block/wand_charger"
+    }
+  }
+}

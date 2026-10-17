@@ -1,0 +1,145 @@
+{
+  "column": -4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:runic_matrix"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.infusion.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/runix_matrix"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/arcane_pedestal"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.infusion.page.2"
+    },
+    {
+      "type": "formed_structure",
+      "aspects": [
+        {
+          "amount": 25,
+          "key": "ignis"
+        },
+        {
+          "amount": 25,
+          "key": "terra"
+        },
+        {
+          "amount": 25,
+          "key": "ordo"
+        },
+        {
+          "amount": 25,
+          "key": "aer"
+        },
+        {
+          "amount": 25,
+          "key": "perditio"
+        },
+        {
+          "amount": 25,
+          "key": "aqua"
+        }
+      ],
+      "dx": 3,
+      "dy": 3,
+      "dz": 3,
+      "ingredients": [
+        {
+          "block": "thaumcraft:hole"
+        },
+        "empty",
+        {
+          "block": "thaumcraft:hole"
+        },
+        "empty",
+        {
+          "item": "thaumcraft:runic_matrix"
+        },
+        "empty",
+        {
+          "block": "thaumcraft:hole"
+        },
+        "empty",
+        {
+          "block": "thaumcraft:hole"
+        },
+        {
+          "item": "thaumcraft:arcane_stone"
+        },
+        "empty",
+        {
+          "item": "thaumcraft:arcane_stone"
+        },
+        "empty",
+        "empty",
+        "empty",
+        {
+          "item": "thaumcraft:arcane_stone"
+        },
+        "empty",
+        {
+          "item": "thaumcraft:arcane_stone"
+        },
+        {
+          "item": "thaumcraft:arcane_bricks"
+        },
+        "empty",
+        {
+          "item": "thaumcraft:arcane_bricks"
+        },
+        "empty",
+        {
+          "item": "thaumcraft:arcane_pedestal"
+        },
+        "empty",
+        {
+          "item": "thaumcraft:arcane_bricks"
+        },
+        "empty",
+        {
+          "item": "thaumcraft:arcane_bricks"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "key": "tc.research.infusion.page.3"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.infusion.page.4"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.infusion.page.5"
+    }
+  ],
+  "parents": [
+    "distilessence"
+  ],
+  "row": 5,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "machina"
+    },
+    {
+      "amount": 6,
+      "key": "fabrico"
+    }
+  ]
+}

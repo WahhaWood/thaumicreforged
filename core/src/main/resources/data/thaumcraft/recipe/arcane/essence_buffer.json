@@ -1,0 +1,38 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 5,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "thaumcraft:phial_essence"
+    },
+    "R": {
+      "item": "thaumcraft:restricted_essence_tube"
+    },
+    "T": {
+      "item": "thaumcraft:essence_tube"
+    },
+    "V": {
+      "item": "thaumcraft:essence_valve"
+    }
+  },
+  "pattern": [
+    "PVP",
+    "T T",
+    "PRP"
+  ],
+  "research": "centrifuge",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:essence_buffer"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 50,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 20,
+      "key": "potentia"
+    },
+    {
+      "amount": 20,
+      "key": "alienis"
+    },
+    {
+      "amount": 20,
+      "key": "vacuos"
+    },
+    {
+      "amount": 10,
+      "key": "cognitio"
+    }
+  ],
+  "central": {
+    "item": "minecraft:enchanting_table"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:obsidian_tile"
+    },
+    {
+      "item": "thaumcraft:obsidian_tile"
+    },
+    {
+      "item": "thaumcraft:obsidian_tile"
+    },
+    {
+      "item": "thaumcraft:obsidian_tile"
+    },
+    {
+      "item": "thaumcraft:obsidian_tile"
+    },
+    {
+      "tag": "c:ingots/thaumium"
+    },
+    {
+      "tag": "c:ingots/thaumium"
+    },
+    {
+      "item": "thaumcraft:spell_cloth"
+    }
+  ],
+  "instability": 15,
+  "research": "enchanter",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:enchanter"
+  }
+}

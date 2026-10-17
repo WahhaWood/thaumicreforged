@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "thaumcraft:block/model/runic_matrix",
+		"particle": "thaumcraft:block/model/runic_matrix"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [8, 16, 4, 12], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [12, 16, 8, 12], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [16, 16, 12, 12], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 12, 4, 16], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [8, 12, 12, 8], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [4, 8, 8, 12], "texture": "#0", "tintindex": 0}
+			}
+		}
+	]
+}

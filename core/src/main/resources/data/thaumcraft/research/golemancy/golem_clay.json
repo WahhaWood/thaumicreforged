@@ -1,0 +1,41 @@
+{
+  "column": 2,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_clay"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_clay.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_clay"
+    }
+  ],
+  "parents": [
+    "golem_wood"
+  ],
+  "row": 6,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "spiritus"
+    },
+    {
+      "amount": 6,
+      "key": "motus"
+    },
+    {
+      "amount": 3,
+      "key": "terra"
+    },
+    {
+      "amount": 3,
+      "key": "permutatio"
+    }
+  ]
+}

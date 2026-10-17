@@ -1,0 +1,46 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "herba"
+    },
+    {
+      "amount": 8,
+      "key": "lux"
+    },
+    {
+      "amount": 16,
+      "key": "victus"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:arcane_lamp"
+  },
+  "components": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "tag": "c:dyes/black"
+    },
+    {
+      "item": "thaumcraft:earth_shard"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "tag": "c:dyes/black"
+    },
+    {
+      "item": "thaumcraft:earth_shard"
+    }
+  ],
+  "instability": 4,
+  "research": "lamp_growth",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:arcane_lamp_growth"
+  }
+}

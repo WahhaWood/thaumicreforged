@@ -1,0 +1,45 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "aqua"
+    },
+    {
+      "amount": 8,
+      "key": "ordo"
+    },
+    {
+      "amount": 4,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_bars"
+    },
+    "J": {
+      "item": "thaumcraft:jar"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "Q": {
+      "item": "minecraft:quartz_block"
+    },
+    "S": {
+      "item": "thaumcraft:arcane_stone"
+    }
+  },
+  "pattern": [
+    "QIQ",
+    "SJS",
+    "SPS"
+  ],
+  "research": "arcane_spa",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:arcane_spa"
+  }
+}

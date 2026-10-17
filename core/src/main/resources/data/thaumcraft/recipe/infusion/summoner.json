@@ -1,0 +1,50 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "bestia"
+    },
+    {
+      "amount": 16,
+      "key": "telum"
+    },
+    {
+      "amount": 32,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 16,
+      "key": "spiritus"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:blood_sword"
+  },
+  "components": [
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "thaumcraft:zombie_brain"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "thaumcraft:nether_shard"
+    },
+    {
+      "item": "thaumcraft:spell_cloth"
+    }
+  ],
+  "instability": 8,
+  "research": "summon",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:summoner"
+  }
+}

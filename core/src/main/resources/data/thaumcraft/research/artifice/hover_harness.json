@@ -1,0 +1,44 @@
+{
+  "column": 1,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:hover_harness"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.hover_harness.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/hover_harness"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.hover_harness.page.2"
+    }
+  ],
+  "parents": [
+    "traveller_boots"
+  ],
+  "row": 7,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "volatus"
+    },
+    {
+      "amount": 6,
+      "key": "iter"
+    },
+    {
+      "amount": 6,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "machina"
+    }
+  ]
+}

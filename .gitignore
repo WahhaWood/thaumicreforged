@@ -1,0 +1,28 @@
+# dev worlds and logs
+core/run-server/
+core/run/
+addons/*/run-server/
+addons/*/run/
+# third-party jars (downloaded from Modrinth)
+core/run-server/mods/
+addons/thaumicenergistics/libs/*.jar
+addons/thaumicenergistics/run-server/mods/
+# build output
+*/build/
+build/
+.gradle/
+core/src/generated/
+__pycache__/
+*.pyc
+
+# internal dev notes (local only)
+/notes/
+**/NEXT.md
+**/Plan.md
+**/DEVNOTES.md
+**/DEVELOPMENT.md
+**/FEEDBACK.md
+**/ANALYSIS.md
+**/CLAUDE.md
+**/logs/
+*.log

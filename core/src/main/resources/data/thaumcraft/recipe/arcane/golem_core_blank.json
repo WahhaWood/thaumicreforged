@@ -1,0 +1,32 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "ordo"
+    },
+    {
+      "amount": 5,
+      "key": "ignis"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:brick"
+    },
+    "N": {
+      "item": "thaumcraft:nitor"
+    }
+  },
+  "pattern": [
+    " C ",
+    "CNC",
+    " C "
+  ],
+  "research": "golem_core_gather",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_core_blank"
+  }
+}

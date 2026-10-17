@@ -1,0 +1,28 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 8,
+      "key": "aer"
+    },
+    {
+      "amount": 8,
+      "key": "aqua"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:sugar_cane"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "minecraft:respiration",
+  "instability": 2,
+  "research": "infusion_enchantment"
+}

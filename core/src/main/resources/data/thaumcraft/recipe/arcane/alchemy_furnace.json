@@ -1,0 +1,35 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "ignis"
+    },
+    {
+      "amount": 5,
+      "key": "aqua"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "thaumcraft:crucible"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "S": {
+      "item": "thaumcraft:arcane_stone"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "SFS",
+    "SSS"
+  ],
+  "research": "distilessence",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:alchemy_furnace"
+  }
+}

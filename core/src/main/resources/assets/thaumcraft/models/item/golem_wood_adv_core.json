@@ -1,0 +1,6 @@
+{
+  "parent": "thaumcraft:item/golem_wood_adv",
+  "textures": {
+    "layer2": "thaumcraft:item/golem/over_core"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "column": -3,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:cleaner_rune"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.update_clean.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/cleaner_rune"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.update_clean.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/matrix_clean"
+    }
+  ],
+  "parents": [
+    "update_matrix"
+  ],
+  "row": 14,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    }
+  ]
+}

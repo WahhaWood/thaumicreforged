@@ -1,0 +1,38 @@
+{
+  "column": 9,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/shockwave.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_shockwave.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_shockwave"
+    }
+  ],
+  "parents": [
+    "ttench_slow_fall"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 2,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "perditio"
+    },
+    {
+      "key": "tutamen"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

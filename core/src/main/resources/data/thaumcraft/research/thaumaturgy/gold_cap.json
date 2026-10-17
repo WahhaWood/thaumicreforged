@@ -1,0 +1,35 @@
+{
+  "column": 3,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:wand_cap_gold"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.gold_cap.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/gold_wand_cap"
+    }
+  ],
+  "parents": [
+    "basic_thaumaturgy"
+  ],
+  "row": 2,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 3,
+      "key": "lucrum"
+    },
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    }
+  ]
+}

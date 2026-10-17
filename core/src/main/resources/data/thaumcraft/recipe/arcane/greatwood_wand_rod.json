@@ -1,0 +1,24 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 3,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "thaumcraft:greatwood_log"
+    }
+  },
+  "pattern": [
+    " G",
+    "G "
+  ],
+  "research": "greatwood_rod",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:wand_rod_greatwood"
+  }
+}

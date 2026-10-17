@@ -1,0 +1,42 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 15,
+      "key": "ordo"
+    },
+    {
+      "amount": 15,
+      "key": "perditio"
+    },
+    {
+      "amount": 10,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thaumcraft:quicksilver"
+    },
+    "C": {
+      "item": "thaumcraft:balanced_shard"
+    },
+    "E": {
+      "item": "thaumcraft:balanced_shard"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    "CQE",
+    "Q#Q",
+    "CQE"
+  ],
+  "research": "focus_trade",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_trade"
+  }
+}

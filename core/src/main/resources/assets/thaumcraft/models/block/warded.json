@@ -1,0 +1,4 @@
+{
+  "loader": "thaumcraft:warded_block_mimic",
+  "particle": "minecraft:block/stone"
+}

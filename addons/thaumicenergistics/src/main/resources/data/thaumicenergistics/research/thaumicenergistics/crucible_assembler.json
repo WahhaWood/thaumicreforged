@@ -1,0 +1,30 @@
+{
+  "column": -9,
+  "row": -6,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumicenergistics:crucible_assembler"
+  },
+  "parents": [
+    "crucible_core",
+    "te_pseudo_adv_alchemy_furnace"
+  ],
+  "tags": [
+    { "amount": 5, "key": "fabrico" },
+    { "amount": 5, "key": "machina" },
+    { "amount": 4, "key": "praecantatio" },
+    { "amount": 3, "key": "cognitio" },
+    { "amount": 3, "key": "permutatio" }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.te_crucible_assembler.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumicenergistics:crucible_assembler"
+    }
+  ]
+}

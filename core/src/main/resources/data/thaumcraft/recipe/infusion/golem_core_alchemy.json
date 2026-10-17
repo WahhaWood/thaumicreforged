@@ -1,0 +1,40 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 15,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 15,
+      "key": "aqua"
+    },
+    {
+      "amount": 15,
+      "key": "motus"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:golem_core_liquid"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:jar"
+    },
+    {
+      "item": "minecraft:potion"
+    },
+    {
+      "item": "minecraft:potion"
+    },
+    {
+      "item": "minecraft:potion"
+    }
+  ],
+  "instability": 2,
+  "research": "golem_core_alchemy",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:golem_core_essence"
+  }
+}

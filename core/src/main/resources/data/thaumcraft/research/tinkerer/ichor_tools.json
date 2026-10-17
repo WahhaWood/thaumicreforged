@@ -1,0 +1,54 @@
+{
+  "column": 13,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor_pickaxe"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichor_tools.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/ichor_pickaxe"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/ichor_shovel"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/ichor_axe"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/ichor_sword"
+    }
+  ],
+  "parents": [
+    "ichorium"
+  ],
+  "parents_hidden": [
+    "rod_ichorcloth"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 12,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "instrumentum"
+    },
+    {
+      "key": "telum"
+    },
+    {
+      "key": "metallum"
+    },
+    {
+      "key": "fabrico"
+    }
+  ],
+  "warp": 2
+}

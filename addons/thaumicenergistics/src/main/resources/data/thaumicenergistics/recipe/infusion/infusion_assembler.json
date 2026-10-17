@@ -1,0 +1,52 @@
+﻿{
+    "type":  "thaumcraft:infusion",
+    "aspects":  [
+                    {
+                        "amount":  128,
+                        "key":  "praecantatio"
+                    },
+                    {
+                        "amount":  64,
+                        "key":  "machina"
+                    },
+                    {
+                        "amount":  32,
+                        "key":  "cognitio"
+                    }
+                ],
+    "category":  "misc",
+    "central":  {
+                    "item":  "thaumcraft:runic_matrix"
+                },
+    "components":  [
+                       {
+                           "item":  "thaumcraft:infusion_claw"
+                       },
+                       {
+                           "item":  "ae2:pattern_provider"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       },
+                       {
+                           "item":  "thaumicenergistics:brain_core"
+                       },
+                       {
+                           "item":  "thaumicenergistics:arcane_assembler_1"
+                       },
+                       {
+                           "item":  "ae2:pattern_provider"
+                       },
+                       {
+                           "item":  "thaumcraft:advanced_alchemical_construct"
+                       },
+                       {
+                           "item":  "thaumicenergistics:brain_core"
+                       }
+                   ],
+    "instability":  10,
+    "research":  "infusion_assembler",
+    "result":  {
+                   "id":  "thaumicenergistics:infusion_assembler"
+               }
+}

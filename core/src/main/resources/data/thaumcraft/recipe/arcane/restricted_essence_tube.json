@@ -1,0 +1,27 @@
+{
+  "type": "thaumcraft:shapeless_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 16,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "thaumcraft:essence_tube"
+    },
+    {
+      "tag": "c:stones"
+    }
+  ],
+  "research": "tube_filter",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:restricted_essence_tube"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "thaumcraft:shapeless_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "aqua"
+    },
+    {
+      "amount": 5,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "thaumcraft:essence_tube"
+    },
+    {
+      "item": "minecraft:lever"
+    }
+  ],
+  "research": "tubes",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:essence_valve"
+  }
+}

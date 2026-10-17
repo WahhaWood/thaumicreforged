@@ -1,0 +1,48 @@
+{
+  "aspect_triggers": [
+    "ignis"
+  ],
+  "column": 3,
+  "complexity": 2,
+  "entity_triggers": [
+    "thaumcraft:fire_bat"
+  ],
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:focus_hell_bat"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_hell_bat.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/focus_hell_bat"
+    }
+  ],
+  "parents_hidden": [
+    "focus_fire",
+    "infusion"
+  ],
+  "row": -7,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "iter"
+    },
+    {
+      "amount": 6,
+      "key": "bestia"
+    },
+    {
+      "amount": 3,
+      "key": "ignis"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ],
+  "warp": 2
+}

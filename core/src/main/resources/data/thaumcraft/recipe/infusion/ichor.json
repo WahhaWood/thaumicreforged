@@ -1,0 +1,40 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "humanus"
+    },
+    {
+      "amount": 32,
+      "key": "lux"
+    },
+    {
+      "amount": 64,
+      "key": "spiritus"
+    }
+  ],
+  "central": {
+    "item": "minecraft:nether_star"
+  },
+  "components": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:ender_shard"
+    },
+    {
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "item": "thaumcraft:nether_shard"
+    }
+  ],
+  "instability": 7,
+  "research": "ichor",
+  "result": {
+    "count": 8,
+    "id": "thaumcraft:ichor"
+  }
+}

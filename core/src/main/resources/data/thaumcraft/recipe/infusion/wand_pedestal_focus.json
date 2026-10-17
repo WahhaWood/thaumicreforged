@@ -1,0 +1,52 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "ordo"
+    },
+    {
+      "amount": 15,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 10,
+      "key": "permutatio"
+    }
+  ],
+  "central": {
+    "item": "minecraft:comparator"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:earth_shard"
+    },
+    {
+      "item": "thaumcraft:vis_filter"
+    },
+    {
+      "item": "thaumcraft:earth_shard"
+    },
+    {
+      "item": "thaumcraft:vis_filter"
+    },
+    {
+      "item": "thaumcraft:earth_shard"
+    },
+    {
+      "item": "thaumcraft:vis_filter"
+    },
+    {
+      "item": "thaumcraft:earth_shard"
+    },
+    {
+      "item": "thaumcraft:vis_filter"
+    }
+  ],
+  "instability": 4,
+  "research": "wand_pedestal_focus",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:wand_pedestal_focus"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "column": -3,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_core_butcher"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_core_butcher.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/golem_core_butcher"
+    }
+  ],
+  "parents": [
+    "golem_core_guard",
+    "golem_core_harvest"
+  ],
+  "row": 7,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "telum"
+    },
+    {
+      "amount": 3,
+      "key": "bestia"
+    },
+    {
+      "amount": 3,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "meto"
+    }
+  ],
+  "warp": 1
+}

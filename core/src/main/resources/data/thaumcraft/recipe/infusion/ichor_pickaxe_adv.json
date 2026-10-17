@@ -1,0 +1,80 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 50,
+      "key": "ignis"
+    },
+    {
+      "amount": 16,
+      "key": "lucrum"
+    },
+    {
+      "amount": 32,
+      "key": "metallum"
+    },
+    {
+      "amount": 32,
+      "key": "meto"
+    },
+    {
+      "amount": 64,
+      "key": "perfodio"
+    },
+    {
+      "amount": 16,
+      "key": "sensus"
+    },
+    {
+      "amount": 32,
+      "key": "terra"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:ichor_pickaxe"
+  },
+  "components": [
+    {
+      "tag": "c:ingots/ichorium"
+    },
+    {
+      "item": "thaumcraft:ichor"
+    },
+    {
+      "item": "thaumcraft:elemental_pickaxe"
+    },
+    {
+      "item": "thaumcraft:focus_excavation"
+    },
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "thaumcraft:cinnabar_cluster"
+    },
+    {
+      "item": "thaumcraft:iron_cluster"
+    },
+    {
+      "item": "thaumcraft:gold_cluster"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:focus_excavation"
+    },
+    {
+      "item": "thaumcraft:elemental_pickaxe"
+    },
+    {
+      "item": "thaumcraft:ichor_cloth"
+    }
+  ],
+  "instability": 15,
+  "research": "ichor_pick_gem",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:ichor_pickaxe_adv"
+  }
+}

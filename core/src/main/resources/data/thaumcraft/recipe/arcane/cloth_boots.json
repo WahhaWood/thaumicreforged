@@ -1,0 +1,24 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 3,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "thaumcraft:cloth"
+    }
+  },
+  "pattern": [
+    "I I",
+    "I I"
+  ],
+  "research": "enchfabric",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:cloth_boots"
+  }
+}

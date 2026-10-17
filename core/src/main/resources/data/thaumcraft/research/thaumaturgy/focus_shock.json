@@ -1,0 +1,37 @@
+{
+  "column": 3,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_shock"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_shock.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/focus_shock"
+    }
+  ],
+  "parents": [
+    "focus_fire"
+  ],
+  "row": -5,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aer"
+    },
+    {
+      "amount": 6,
+      "key": "potentia"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

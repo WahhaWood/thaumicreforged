@@ -1,0 +1,41 @@
+{
+  "aspect_triggers": [
+    "lux",
+    "victus"
+  ],
+  "column": -2,
+  "complexity": 2,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:arcane_lamp_fertility"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.lamp_fertility.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/arcane_lamp_fertility"
+    }
+  ],
+  "parents": [
+    "arcane_lamp",
+    "infusion"
+  ],
+  "row": 3,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "bestia"
+    },
+    {
+      "amount": 6,
+      "key": "victus"
+    },
+    {
+      "amount": 3,
+      "key": "lux"
+    }
+  ]
+}

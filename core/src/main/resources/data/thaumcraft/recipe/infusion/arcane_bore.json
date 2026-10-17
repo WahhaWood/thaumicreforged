@@ -1,0 +1,60 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 16,
+      "key": "potentia"
+    },
+    {
+      "amount": 32,
+      "key": "perfodio"
+    },
+    {
+      "amount": 32,
+      "key": "machina"
+    },
+    {
+      "amount": 16,
+      "key": "vacuos"
+    },
+    {
+      "amount": 16,
+      "key": "motus"
+    }
+  ],
+  "central": {
+    "item": "minecraft:piston"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:greatwood_planks"
+    },
+    {
+      "item": "thaumcraft:greatwood_planks"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    {
+      "item": "minecraft:diamond_shovel"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "thaumcraft:earth_shard"
+    }
+  ],
+  "instability": 4,
+  "research": "arcane_bore",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:arcane_bore"
+  }
+}

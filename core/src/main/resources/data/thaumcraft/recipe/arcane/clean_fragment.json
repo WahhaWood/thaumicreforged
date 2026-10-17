@@ -1,0 +1,32 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 15,
+      "key": "ordo"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "thaumcraft:ethereal_bloom"
+    },
+    "D": {
+      "item": "thaumcraft:distorted_fragment"
+    }
+  },
+  "pattern": [
+    " B ",
+    "BDB",
+    " B "
+  ],
+  "research": "clean_fragment",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:clean_fragment"
+  }
+}

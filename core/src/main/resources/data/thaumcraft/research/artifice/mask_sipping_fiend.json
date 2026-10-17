@@ -1,0 +1,36 @@
+{
+  "column": -10,
+  "complexity": 2,
+  "concealed": true,
+  "icon": "thaumcraft:textures/misc/r_mask2.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.mask_sipping_fiend.page.1"
+    },
+    {
+      "type": "infusion_fortress",
+      "id": "thaumcraft:fortress/mask_sipping_fiend"
+    }
+  ],
+  "parents": [
+    "armor_fortress"
+  ],
+  "row": 10,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "exanimis"
+    },
+    {
+      "amount": 5,
+      "key": "victus"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    }
+  ],
+  "warp": 1
+}

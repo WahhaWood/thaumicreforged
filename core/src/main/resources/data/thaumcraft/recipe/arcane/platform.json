@@ -1,0 +1,31 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 2,
+      "key": "aer"
+    },
+    {
+      "amount": 4,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "thaumcraft:travel_stone"
+    },
+    "S": {
+      "item": "thaumcraft:warding_stone"
+    }
+  },
+  "pattern": [
+    " S ",
+    "G G"
+  ],
+  "research": "platform",
+  "result": {
+    "count": 2,
+    "id": "thaumcraft:platform"
+  }
+}

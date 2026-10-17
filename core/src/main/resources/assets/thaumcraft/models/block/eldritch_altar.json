@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "neoforge:obj",
+  "flip_v": true,
+  "model": "thaumcraft:models/obj/obelisk.obj",
+  "textures": {
+    "texture0": "thaumcraft:block/model/obelisk_cap",
+    "particle": "thaumcraft:block/model/obelisk_cap"
+  },
+  "transform": {
+    "origin": "center",
+    "translation": [0.5, 0.0, -1.5],
+    "rotation": [-90, 0, 0]
+  }
+}

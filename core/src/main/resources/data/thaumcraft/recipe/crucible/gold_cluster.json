@@ -1,0 +1,19 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "key": "metallum"
+    },
+    {
+      "key": "ordo"
+    }
+  ],
+  "catalyst": {
+    "tag": "c:ores/gold"
+  },
+  "research": "pure_gold",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:gold_cluster"
+  }
+}

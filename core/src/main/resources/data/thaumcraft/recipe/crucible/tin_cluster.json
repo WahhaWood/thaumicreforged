@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:or",
+      "values": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "mekanism"
+        },
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "industrialreforged"
+        }
+      ]
+    }
+  ],
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "key": "metallum"
+    },
+    {
+      "key": "ordo"
+    }
+  ],
+  "catalyst": {
+    "tag": "c:ores/tin"
+  },
+  "research": "pure_tin",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:tin_cluster"
+  }
+}

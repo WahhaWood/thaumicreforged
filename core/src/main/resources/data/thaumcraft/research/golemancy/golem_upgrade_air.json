@@ -1,0 +1,33 @@
+{
+  "column": 7,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_upgrade_air"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_upgrade_air.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_upgrade_air"
+    }
+  ],
+  "parents": [
+    "golem_bell"
+  ],
+  "row": -3,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "motus"
+    }
+  ]
+}

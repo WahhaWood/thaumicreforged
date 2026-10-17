@@ -1,0 +1,39 @@
+{
+  "column": 14,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:block_talisman"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.block_talisman.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/block_talisman"
+    }
+  ],
+  "parents": [
+    "ichor_pick_gem",
+    "ichor_shovel_gem"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 17,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "vacuos"
+    },
+    {
+      "key": "tenebrae"
+    },
+    {
+      "key": "alienis"
+    },
+    {
+      "key": "praecantatio"
+    }
+  ]
+}

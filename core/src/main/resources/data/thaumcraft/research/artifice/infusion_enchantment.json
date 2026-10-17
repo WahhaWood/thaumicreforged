@@ -1,0 +1,142 @@
+{
+  "column": -6,
+  "complexity": 3,
+  "concealed": true,
+  "icon": "thaumcraft:textures/misc/r_enchant.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.infusion_enchantment.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.infusion_enchantment.page.2"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.infusion_enchantment.page.3"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/repair"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/haste"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/0"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/2"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/3"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/4"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/5"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/6"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/7"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/8"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/9"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/10"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/11"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/12"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/13"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/14"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/15"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/16"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/17"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/18"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/19"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/20"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/21"
+    }
+  ],
+  "parents": [
+    "brain_jar"
+  ],
+  "row": 11,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "cognitio"
+    },
+    {
+      "amount": 3,
+      "key": "telum"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    },
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    }
+  ]
+}

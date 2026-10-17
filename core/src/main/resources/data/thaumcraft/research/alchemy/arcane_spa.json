@@ -1,0 +1,36 @@
+{
+  "column": -6,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:arcane_spa"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.arcane_spa.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/arcane_spa"
+    }
+  ],
+  "parents": [
+    "bath_salts"
+  ],
+  "row": -5,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aqua"
+    },
+    {
+      "amount": 3,
+      "key": "machina"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    }
+  ]
+}

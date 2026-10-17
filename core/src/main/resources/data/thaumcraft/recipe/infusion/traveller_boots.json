@@ -1,0 +1,42 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 25,
+      "key": "volatus"
+    },
+    {
+      "amount": 25,
+      "key": "iter"
+    }
+  ],
+  "central": {
+    "item": "minecraft:leather_boots"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "thaumcraft:cloth"
+    },
+    {
+      "item": "thaumcraft:cloth"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "tag": "minecraft:fishes"
+    }
+  ],
+  "instability": 1,
+  "research": "traveller_boots",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:traveller_boots"
+  }
+}

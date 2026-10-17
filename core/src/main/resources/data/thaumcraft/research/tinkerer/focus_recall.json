@@ -1,0 +1,51 @@
+{
+  "column": 20,
+  "complexity": 5,
+  "concealed": true,
+  "conditions": [
+    {
+      "type": "thaumcraft:config_flag",
+      "flag": "allowMirrors"
+    },
+    {
+      "type": "thaumcraft:config_flag",
+      "flag": "enableKami"
+    }
+  ],
+  "icon": {
+    "item": "thaumcraft:focus_recall"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_recall.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/focus_recall"
+    }
+  ],
+  "parents": [
+    "warp_gate"
+  ],
+  "parents_hidden": [
+    "rod_ichorcloth"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 8,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "iter"
+    },
+    {
+      "key": "alienis"
+    },
+    {
+      "key": "volatus"
+    },
+    {
+      "key": "praecantatio"
+    }
+  ]
+}

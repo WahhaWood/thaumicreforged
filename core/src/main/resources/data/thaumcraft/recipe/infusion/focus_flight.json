@@ -1,0 +1,49 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 15,
+      "key": "aer"
+    },
+    {
+      "amount": 20,
+      "key": "motus"
+    },
+    {
+      "amount": 10,
+      "key": "iter"
+    }
+  ],
+  "central": {
+    "item": "minecraft:ender_pearl"
+  },
+  "components": [
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    }
+  ],
+  "instability": 3,
+  "research": "focus_flight",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:focus_flight"
+  }
+}

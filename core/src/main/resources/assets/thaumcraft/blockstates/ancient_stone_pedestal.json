@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "thaumcraft:block/ancient_stone_pedestal_1"
+      },
+      {
+        "model": "thaumcraft:block/ancient_stone_pedestal_2"
+      },
+      {
+        "model": "thaumcraft:block/ancient_stone_pedestal_3"
+      },
+      {
+        "model": "thaumcraft:block/ancient_stone_pedestal_4"
+      }
+    ]
+  }
+}

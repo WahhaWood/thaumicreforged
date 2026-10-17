@@ -1,0 +1,25 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 3,
+      "key": "potentia"
+    },
+    {
+      "amount": 3,
+      "key": "ignis"
+    },
+    {
+      "amount": 3,
+      "key": "perditio"
+    }
+  ],
+  "catalyst": {
+    "tag": "minecraft:coals"
+  },
+  "research": "alumentum",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:alumentum"
+  }
+}

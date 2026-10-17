@@ -1,0 +1,58 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 13,
+      "key": "aer"
+    },
+    {
+      "amount": 13,
+      "key": "terra"
+    },
+    {
+      "amount": 13,
+      "key": "ignis"
+    },
+    {
+      "amount": 13,
+      "key": "aqua"
+    },
+    {
+      "amount": 13,
+      "key": "ordo"
+    },
+    {
+      "amount": 13,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "thaumcraft:primal_charm"
+    },
+    "R": {
+      "item": "thaumcraft:wand_rod_greatwood"
+    },
+    "T": {
+      "item": "thaumcraft:wand_cap_gold"
+    }
+  },
+  "pattern": [
+    " TF",
+    " RT",
+    "T  "
+  ],
+  "research": "sceptre",
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "cap": "gold",
+        "rod": "greatwood",
+        "sceptre": 1
+      }
+    },
+    "count": 1,
+    "id": "thaumcraft:wand_casting"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 32,
+      "key": "volatus"
+    },
+    {
+      "amount": 32,
+      "key": "potentia"
+    },
+    {
+      "amount": 32,
+      "key": "machina"
+    },
+    {
+      "amount": 16,
+      "key": "iter"
+    }
+  ],
+  "central": {
+    "item": "minecraft:leather_chestplate"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "thaumcraft:greatwood_planks"
+    },
+    {
+      "item": "thaumcraft:greatwood_planks"
+    },
+    {
+      "item": "minecraft:comparator"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "instability": 6,
+  "research": "hover_harness",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:hover_harness"
+  }
+}

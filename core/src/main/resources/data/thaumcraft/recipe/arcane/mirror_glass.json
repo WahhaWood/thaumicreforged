@@ -1,0 +1,27 @@
+{
+  "type": "thaumcraft:shapeless_arcane",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "ignis"
+    },
+    {
+      "amount": 10,
+      "key": "terra"
+    }
+  ],
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "thaumcraft:quicksilver"
+    },
+    {
+      "tag": "c:glass_panes"
+    }
+  ],
+  "research": "basic_artiface",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:mirror_glass"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "column": 9,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:ichor"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ichor.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/ichor"
+    }
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 8,
+  "tags": [
+    {
+      "key": "humanus"
+    },
+    {
+      "amount": 2,
+      "key": "lux"
+    },
+    {
+      "key": "spiritus"
+    },
+    {
+      "key": "vitium"
+    }
+  ],
+  "warp": 5
+}

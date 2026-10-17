@@ -1,0 +1,35 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 5,
+      "key": "terra"
+    },
+    {
+      "amount": 5,
+      "key": "perditio"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "I": {
+      "item": "thaumcraft:transvector_interface"
+    },
+    "M": {
+      "item": "thaumcraft:primal_charm"
+    }
+  },
+  "pattern": [
+    " M ",
+    " I ",
+    " C "
+  ],
+  "research": "dislocator",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:transvector_dislocator"
+  }
+}

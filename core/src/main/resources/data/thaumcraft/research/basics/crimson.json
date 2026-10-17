@@ -1,0 +1,23 @@
+{
+  "column": 0,
+  "hidden": true,
+  "icon": {
+    "item": "thaumcraft:crimson_rites"
+  },
+  "item_triggers": [
+    {
+      "item": "thaumcraft:crimson_rites"
+    }
+  ],
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.crimson.page.1"
+    }
+  ],
+  "round": true,
+  "row": 4,
+  "special": true,
+  "stub": true,
+  "warp": 3
+}

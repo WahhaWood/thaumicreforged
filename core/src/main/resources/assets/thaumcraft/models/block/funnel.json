@@ -1,0 +1,23 @@
+{
+  "render_type": "cutout",
+  "parent": "minecraft:block/block",
+  "textures": {
+    "top": "thaumcraft:block/funnel_top",
+    "side": "thaumcraft:block/funnel_side",
+    "bottom": "thaumcraft:block/funnel_top"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 2, 16],
+      "faces": {
+        "down": {"texture": "#bottom", "cullface": "down"},
+        "up": {"texture": "#top"},
+        "north": {"texture": "#side"},
+        "south": {"texture": "#side"},
+        "west": {"texture": "#side"},
+        "east": {"texture": "#side"}
+      }
+    }
+  ]
+}

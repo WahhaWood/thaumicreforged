@@ -1,0 +1,31 @@
+{
+  "column": 0,
+  "complexity": 1,
+  "icon": "thaumcraft:textures/misc/r_nodes_2.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.prim_node.page.1"
+    }
+  ],
+  "parents": [
+    "prim_pearl"
+  ],
+  "row": 6,
+  "secondary": true,
+  "tags": [
+    {
+      "key": "auram"
+    },
+    {
+      "key": "praecantatio"
+    },
+    {
+      "key": "ordo"
+    },
+    {
+      "key": "perditio"
+    }
+  ],
+  "warp": 1
+}

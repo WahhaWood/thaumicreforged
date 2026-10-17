@@ -1,0 +1,49 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="Azanor (original Thaumcraft), WahhaWood (port)"
+description='''
+Thaumcraft 4 port to NeoForge 1.21.1. Magic, research, golemancy and thaumaturgy.
+Behaviour follows the original Thaumcraft 4.2.3.5.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[mixins]]
+config="mixins.thaumcraft.json"
+
+[[dependencies.${mod_id}]]
+    modId="kubejs"
+    type="optional"
+    versionRange="[2101.7.2,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="curios"
+    # НЕ optional: в коде 32 импорта
+    # Curios API, а главное — ItemAmuletVis implements ICurioItem, и амулеты
+    # регистрируются на старте. Регистрация создаёт экземпляр, значит без Curios
+    # будет NoClassDefFoundError при загрузке мода, а не мягкая деградация.
+    # Проверено на настоящем NeoForge-сервере: с Curios стартует, с 0 ошибок.
+    type="required"
+    versionRange="[9.0.0,)"
+    ordering="AFTER"
+    side="BOTH"

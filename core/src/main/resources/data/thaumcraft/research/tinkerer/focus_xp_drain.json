@@ -1,0 +1,38 @@
+{
+  "column": 12,
+  "complexity": 5,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_xp_drain"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_xp_drain.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/focus_xp_drain"
+    }
+  ],
+  "parents": [
+    "rod_ichorcloth"
+  ],
+  "research_type": "thaumcraft:kami",
+  "row": 3,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "cognitio"
+    },
+    {
+      "key": "praecantatio"
+    },
+    {
+      "key": "auram"
+    },
+    {
+      "key": "humanus"
+    }
+  ]
+}

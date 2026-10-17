@@ -1,0 +1,38 @@
+{
+  "type": "thaumcraft:infusion_enchantment",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "aer"
+    },
+    {
+      "amount": 8,
+      "key": "ordo"
+    },
+    {
+      "amount": 6,
+      "key": "tutamen"
+    },
+    {
+      "amount": 4,
+      "key": "praecantatio"
+    }
+  ],
+  "components": [
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "thaumcraft:air_shard"
+    },
+    {
+      "item": "thaumcraft:balanced_shard"
+    }
+  ],
+  "enchantment": "thaumcraft:pounce",
+  "instability": 4,
+  "research": "ttench_pounce"
+}

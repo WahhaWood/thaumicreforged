@@ -1,0 +1,46 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 24,
+      "key": "metallum"
+    },
+    {
+      "amount": 24,
+      "key": "tutamen"
+    },
+    {
+      "amount": 16,
+      "key": "praecantatio"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:thaumium_chest"
+  },
+  "components": [
+    {
+      "tag": "c:ingots/thaumium"
+    },
+    {
+      "tag": "c:ingots/thaumium"
+    },
+    {
+      "tag": "c:ingots/thaumium"
+    },
+    {
+      "tag": "c:ingots/thaumium"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "instability": 3,
+  "research": "armor_fortress",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:thaumium_fortress_chest"
+  }
+}

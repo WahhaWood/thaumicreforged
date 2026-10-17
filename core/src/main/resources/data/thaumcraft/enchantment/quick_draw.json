@@ -1,0 +1,24 @@
+{
+  "anvil_cost": 1,
+  "description": {
+    "translate": "enchantment.thaumcraft.quick_draw"
+  },
+  "exclusive_set": "minecraft:punch",
+  "max_cost": {
+    "base": 52,
+    "per_level_above_first": 8
+  },
+  "max_level": 2,
+  "min_cost": {
+    "base": 12,
+    "per_level_above_first": 8
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": [
+    "minecraft:bow",
+    "thaumcraft:bone_bow"
+  ],
+  "weight": 5
+}

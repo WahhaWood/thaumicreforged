@@ -1,0 +1,120 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_center"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_core"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm"
+      },
+      "when": {
+        "north": "normal"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm_extended"
+      },
+      "when": {
+        "north": "extended"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm",
+        "y": 180
+      },
+      "when": {
+        "south": "normal"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm_extended",
+        "y": 180
+      },
+      "when": {
+        "south": "extended"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm",
+        "y": 270
+      },
+      "when": {
+        "west": "normal"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm_extended",
+        "y": 270
+      },
+      "when": {
+        "west": "extended"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm",
+        "y": 90
+      },
+      "when": {
+        "east": "normal"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm_extended",
+        "y": 90
+      },
+      "when": {
+        "east": "extended"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm",
+        "x": 270
+      },
+      "when": {
+        "up": "normal"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm_extended",
+        "x": 270
+      },
+      "when": {
+        "up": "extended"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm",
+        "x": 90
+      },
+      "when": {
+        "down": "normal"
+      }
+    },
+    {
+      "apply": {
+        "model": "thaumcraft:block/tubes/tube_buffer_arm_extended",
+        "x": 90
+      },
+      "when": {
+        "down": "extended"
+      }
+    }
+  ]
+}

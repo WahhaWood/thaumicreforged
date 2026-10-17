@@ -1,0 +1,47 @@
+{
+  "column": 0,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:stable_rune"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.update_stable.page.1"
+    },
+    {
+      "type": "crucible",
+      "id": "thaumcraft:crucible/stable_rune"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.update_stable.page.2"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/matrix_stable"
+    }
+  ],
+  "parents": [
+    "update_speed",
+    "update_efficiency",
+    "update_clean",
+    "update_lucky"
+  ],
+  "row": 16,
+  "tags": [
+    {
+      "amount": 5,
+      "key": "sensus"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    }
+  ]
+}

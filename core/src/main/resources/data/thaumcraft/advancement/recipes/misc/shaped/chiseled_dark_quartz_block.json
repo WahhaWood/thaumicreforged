@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dark_quartz_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": "thaumcraft:dark_quartz_slab"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "thaumcraft:shaped/chiseled_dark_quartz_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dark_quartz_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "thaumcraft:shaped/chiseled_dark_quartz_block"
+    ]
+  }
+}

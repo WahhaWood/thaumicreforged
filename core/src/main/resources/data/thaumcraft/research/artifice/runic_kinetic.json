@@ -1,0 +1,37 @@
+{
+  "column": 2,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:runic_girdle_kinetic"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.runic_kinetic.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/runic_girdle_kinetic"
+    }
+  ],
+  "parents": [
+    "runic_armor"
+  ],
+  "row": 5,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    },
+    {
+      "amount": 6,
+      "key": "aer"
+    }
+  ]
+}

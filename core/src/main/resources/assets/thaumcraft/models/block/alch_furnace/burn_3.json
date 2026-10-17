@@ -1,0 +1,6 @@
+{
+	"parent": "thaumcraft:block/alch_furnace/burn_base",
+	"textures": {
+		"texture0": "thaumcraft:block/model/alch_furnace_burn_3"
+	}
+}

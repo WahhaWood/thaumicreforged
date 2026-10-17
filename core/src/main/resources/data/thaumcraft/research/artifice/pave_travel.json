@@ -1,0 +1,36 @@
+{
+  "column": 4,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:travel_stone"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.pave_travel.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/travel_stone"
+    }
+  ],
+  "parents": [
+    "arcane_stone"
+  ],
+  "row": -4,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "iter"
+    },
+    {
+      "amount": 3,
+      "key": "terra"
+    },
+    {
+      "amount": 3,
+      "key": "volatus"
+    }
+  ]
+}

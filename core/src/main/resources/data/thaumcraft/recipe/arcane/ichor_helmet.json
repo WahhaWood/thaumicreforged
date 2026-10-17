@@ -1,0 +1,32 @@
+{
+  "type": "thaumcraft:shaped_arcane",
+  "aspects": [
+    {
+      "amount": 50,
+      "key": "ignis"
+    },
+    {
+      "amount": 50,
+      "key": "ordo"
+    },
+    {
+      "amount": 50,
+      "key": "aqua"
+    }
+  ],
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "thaumcraft:ichor_cloth"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "C C"
+  ],
+  "research": "ichorcloth_armor",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:ichor_helmet"
+  }
+}

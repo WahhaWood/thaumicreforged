@@ -1,0 +1,29 @@
+{
+  "type": "thaumcraft:crucible",
+  "aspects": [
+    {
+      "amount": 6,
+      "key": "cognitio"
+    },
+    {
+      "amount": 6,
+      "key": "auram"
+    },
+    {
+      "amount": 6,
+      "key": "ordo"
+    },
+    {
+      "amount": 6,
+      "key": "sano"
+    }
+  ],
+  "catalyst": {
+    "item": "thaumcraft:salis_mundus"
+  },
+  "research": "bath_salts",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:bath_salts"
+  }
+}

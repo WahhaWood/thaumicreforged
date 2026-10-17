@@ -1,0 +1,55 @@
+{
+  "column": 0,
+  "complexity": 1,
+  "icon": {
+    "item": "thaumcraft:primordial_pearl"
+  },
+  "item_triggers": [
+    {
+      "item": "thaumcraft:primordial_pearl"
+    }
+  ],
+  "lost": true,
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.prim_pearl.page.1"
+    },
+    {
+      "type": "text",
+      "key": "tc.research.prim_pearl.page.2"
+    }
+  ],
+  "parents": [
+    "eldritch_minor"
+  ],
+  "row": 4,
+  "secondary": true,
+  "special": true,
+  "tags": [
+    {
+      "amount": 8,
+      "key": "aer"
+    },
+    {
+      "amount": 8,
+      "key": "terra"
+    },
+    {
+      "amount": 8,
+      "key": "ignis"
+    },
+    {
+      "amount": 8,
+      "key": "aqua"
+    },
+    {
+      "amount": 8,
+      "key": "ordo"
+    },
+    {
+      "amount": 8,
+      "key": "perditio"
+    }
+  ]
+}

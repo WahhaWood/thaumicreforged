@@ -1,0 +1,50 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 10,
+      "key": "sano"
+    },
+    {
+      "amount": 10,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 20,
+      "key": "humanus"
+    },
+    {
+      "amount": 10,
+      "key": "victus"
+    }
+  ],
+  "central": {
+    "item": "minecraft:ender_pearl"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:dark_quartz"
+    },
+    {
+      "item": "thaumcraft:dark_quartz"
+    },
+    {
+      "item": "thaumcraft:dark_quartz"
+    },
+    {
+      "item": "thaumcraft:dark_quartz"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "thaumcraft:nitor"
+    }
+  ],
+  "instability": 5,
+  "research": "cleansing_talisman",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:cleansing_talisman"
+  }
+}

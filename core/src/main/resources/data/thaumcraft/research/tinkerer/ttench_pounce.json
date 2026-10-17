@@ -1,0 +1,39 @@
+{
+  "column": 7,
+  "complexity": 2,
+  "icon": "thaumcraft:textures/enchant/pounce.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.ttench_pounce.page.1"
+    },
+    {
+      "type": "enchant",
+      "id": "thaumcraft:enchant/ttench_pounce"
+    }
+  ],
+  "parents": [
+    "ttench_ascent_boost"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 0,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "ordo"
+    },
+    {
+      "amount": 3,
+      "key": "tutamen"
+    },
+    {
+      "amount": 2,
+      "key": "praecantatio"
+    }
+  ]
+}

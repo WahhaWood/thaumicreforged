@@ -1,0 +1,33 @@
+{
+  "column": 6,
+  "complexity": 1,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:golem_upgrade_earth"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.golem_upgrade_earth.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/golem_upgrade_earth"
+    }
+  ],
+  "parents": [
+    "golem_bell"
+  ],
+  "row": -2,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "terra"
+    },
+    {
+      "amount": 3,
+      "key": "victus"
+    }
+  ]
+}

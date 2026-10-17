@@ -1,0 +1,39 @@
+{
+  "column": -6,
+  "complexity": 3,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:transvector_dislocator"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.dislocator.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/transvector_dislocator"
+    }
+  ],
+  "parents": [
+    "interface"
+  ],
+  "parents_hidden": [
+    "mirror"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": 1,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "iter"
+    },
+    {
+      "key": "machina"
+    },
+    {
+      "key": "alienis"
+    }
+  ]
+}

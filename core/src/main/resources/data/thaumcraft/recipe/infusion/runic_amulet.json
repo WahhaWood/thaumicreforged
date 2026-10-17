@@ -1,0 +1,46 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 20,
+      "key": "tutamen"
+    },
+    {
+      "amount": 35,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 35,
+      "key": "potentia"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:curios_amulet"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:primal_charm"
+    },
+    {
+      "item": "thaumcraft:amber"
+    },
+    {
+      "item": "thaumcraft:cloth"
+    },
+    {
+      "item": "thaumcraft:nitor"
+    },
+    {
+      "item": "thaumcraft:nitor"
+    },
+    {
+      "item": "thaumcraft:inkwell"
+    }
+  ],
+  "instability": 4,
+  "research": "runic_armor",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:runic_amulet"
+  }
+}

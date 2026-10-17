@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "thaumcraft:block/alch_furnace/bord_left",
+    "east": "thaumcraft:block/alch_furnace/bord_right",
+    "south": "#down",
+    "west": "#down",
+    "up": "thaumcraft:block/alch_furnace/bord_top",
+    "down": "thaumcraft:block/alch_furnace/bord_bottom"
+  }
+}

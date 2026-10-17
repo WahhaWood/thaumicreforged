@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "Q": {
+      "item": "thaumcraft:dark_quartz_slab"
+    }
+  },
+  "pattern": [
+    "Q",
+    "Q"
+  ],
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:chiseled_dark_quartz_block"
+  }
+}

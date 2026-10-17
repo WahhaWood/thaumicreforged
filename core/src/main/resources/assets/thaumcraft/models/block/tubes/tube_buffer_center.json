@@ -1,0 +1,9 @@
+{
+  "parent": "thaumcraft:block/tubes/template_center_2px",
+  "ambientocclusion": false,
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "thaumcraft:block/pipe_buffer",
+    "texture": "thaumcraft:block/pipe_buffer"
+  }
+}

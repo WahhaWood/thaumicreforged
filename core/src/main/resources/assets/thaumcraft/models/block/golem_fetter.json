@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_top",
+  "textures": {
+    "side": "thaumcraft:block/golem_fetter_side",
+    "top": "thaumcraft:block/golem_fetter_top"
+  }
+}

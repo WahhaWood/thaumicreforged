@@ -1,0 +1,36 @@
+{
+  "column": -4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_telekinesis"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_telekinesis.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/focus_telekinesis"
+    }
+  ],
+  "parents": [
+    "focus_flight"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -6,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "alienis"
+    },
+    {
+      "key": "praecantatio"
+    },
+    {
+      "key": "motus"
+    }
+  ]
+}

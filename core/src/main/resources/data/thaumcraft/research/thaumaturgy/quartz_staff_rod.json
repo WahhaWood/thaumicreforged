@@ -1,0 +1,44 @@
+{
+  "column": -4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:staff_rod_quartz"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.quartz_staff_rod.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/quartz_staff_rod"
+    }
+  ],
+  "parents": [
+    "quartz_rod"
+  ],
+  "parents_hidden": [
+    "greatwood_staff_rod"
+  ],
+  "row": 6,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 6,
+      "key": "ordo"
+    },
+    {
+      "amount": 3,
+      "key": "vitreus"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

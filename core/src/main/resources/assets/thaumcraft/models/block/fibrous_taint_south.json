@@ -1,0 +1,25 @@
+{
+  "textures": {
+    "tex": "thaumcraft:block/taint_fibres"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        15.99
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#tex",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}

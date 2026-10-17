@@ -1,0 +1,44 @@
+{
+  "column": -5,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:staff_rod_reed"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.reed_staff_rod.page.1"
+    },
+    {
+      "type": "arcane",
+      "id": "thaumcraft:arcane/reed_staff_rod"
+    }
+  ],
+  "parents": [
+    "reed_rod"
+  ],
+  "parents_hidden": [
+    "greatwood_staff_rod"
+  ],
+  "row": -2,
+  "secondary": true,
+  "tags": [
+    {
+      "amount": 3,
+      "key": "instrumentum"
+    },
+    {
+      "amount": 6,
+      "key": "aer"
+    },
+    {
+      "amount": 3,
+      "key": "herba"
+    },
+    {
+      "amount": 3,
+      "key": "praecantatio"
+    }
+  ]
+}

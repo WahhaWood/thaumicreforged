@@ -1,0 +1,36 @@
+{
+  "column": -6,
+  "complexity": 2,
+  "concealed": true,
+  "icon": {
+    "item": "thaumcraft:focus_ender_chest"
+  },
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.focus_ender_chest.page.1"
+    },
+    {
+      "type": "infusion",
+      "id": "thaumcraft:infusion/focus_ender_chest"
+    }
+  ],
+  "parents": [
+    "focus_deflect"
+  ],
+  "research_type": "thaumcraft:tt",
+  "row": -2,
+  "tags": [
+    {
+      "amount": 2,
+      "key": "alienis"
+    },
+    {
+      "key": "vacuos"
+    },
+    {
+      "key": "praecantatio"
+    }
+  ],
+  "warp": 1
+}

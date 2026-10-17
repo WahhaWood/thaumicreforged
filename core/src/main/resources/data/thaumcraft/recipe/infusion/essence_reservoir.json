@@ -1,0 +1,50 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 8,
+      "key": "aqua"
+    },
+    {
+      "amount": 8,
+      "key": "vacuos"
+    },
+    {
+      "amount": 8,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 8,
+      "key": "permutatio"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:essence_buffer"
+  },
+  "components": [
+    {
+      "tag": "c:ingots/void"
+    },
+    {
+      "item": "thaumcraft:jar"
+    },
+    {
+      "item": "thaumcraft:jar"
+    },
+    {
+      "tag": "c:ingots/void"
+    },
+    {
+      "item": "thaumcraft:jar"
+    },
+    {
+      "item": "thaumcraft:jar"
+    }
+  ],
+  "instability": 6,
+  "research": "essence_reservoir",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:essence_reservoir"
+  }
+}

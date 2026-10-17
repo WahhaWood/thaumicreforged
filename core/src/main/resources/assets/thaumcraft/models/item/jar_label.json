@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thaumcraft:item/label"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "thaumcraft:has_aspect": 1.0
+      },
+      "model": "thaumcraft:item/jar_label_aspected"
+    }
+  ]
+}

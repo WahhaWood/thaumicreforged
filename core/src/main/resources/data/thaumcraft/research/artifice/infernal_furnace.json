@@ -1,0 +1,139 @@
+{
+  "column": -4,
+  "complexity": 2,
+  "concealed": true,
+  "icon": "thaumcraft:textures/misc/r_infernalfurnace.png",
+  "pages": [
+    {
+      "type": "text",
+      "key": "tc.research.infernal_furnace.page.1"
+    },
+    {
+      "type": "formed_structure",
+      "aspects": [
+        {
+          "amount": 50,
+          "key": "ignis"
+        },
+        {
+          "amount": 50,
+          "key": "terra"
+        }
+      ],
+      "dx": 3,
+      "dy": 3,
+      "dz": 3,
+      "ingredients": [
+        {
+          "item": "minecraft:nether_bricks"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "item": "minecraft:nether_bricks"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "block": "thaumcraft:hole"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "item": "minecraft:nether_bricks"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "item": "minecraft:nether_bricks"
+        },
+        {
+          "item": "minecraft:nether_bricks"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "item": "minecraft:nether_bricks"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "block": "minecraft:lava"
+        },
+        {
+          "item": "minecraft:iron_bars"
+        },
+        {
+          "item": "minecraft:nether_bricks"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "item": "minecraft:nether_bricks"
+        },
+        {
+          "item": "minecraft:nether_bricks"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "item": "minecraft:nether_bricks"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "item": "minecraft:nether_bricks"
+        },
+        {
+          "item": "minecraft:obsidian"
+        },
+        {
+          "item": "minecraft:nether_bricks"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "key": "tc.research.infernal_furnace.page.2"
+    }
+  ],
+  "parents": [
+    "nitor",
+    "alumentum"
+  ],
+  "row": -1,
+  "tags": [
+    {
+      "amount": 6,
+      "key": "ignis"
+    },
+    {
+      "amount": 3,
+      "key": "metallum"
+    },
+    {
+      "amount": 3,
+      "key": "fabrico"
+    },
+    {
+      "amount": 3,
+      "key": "auram"
+    }
+  ],
+  "warp": 2
+}

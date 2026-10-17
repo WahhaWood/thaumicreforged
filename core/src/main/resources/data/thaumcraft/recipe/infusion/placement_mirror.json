@@ -1,0 +1,50 @@
+{
+  "type": "thaumcraft:infusion",
+  "aspects": [
+    {
+      "amount": 65,
+      "key": "fabrico"
+    },
+    {
+      "amount": 32,
+      "key": "vitreus"
+    },
+    {
+      "amount": 50,
+      "key": "praecantatio"
+    },
+    {
+      "amount": 32,
+      "key": "cognitio"
+    }
+  ],
+  "central": {
+    "item": "thaumcraft:block_talisman"
+  },
+  "components": [
+    {
+      "item": "thaumcraft:ender_shard"
+    },
+    {
+      "item": "minecraft:dropper"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "thaumcraft:ender_shard"
+    }
+  ],
+  "instability": 12,
+  "research": "placement_mirror",
+  "result": {
+    "count": 1,
+    "id": "thaumcraft:placement_mirror"
+  }
+}

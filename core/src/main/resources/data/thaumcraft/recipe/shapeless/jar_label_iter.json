@@ -14,14 +14,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "aer"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"aer\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -39,14 +32,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "alienis"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"alienis\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -64,14 +50,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "aqua"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"aqua\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -89,14 +68,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "arbor"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"arbor\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -114,14 +86,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "auram"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"auram\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -139,14 +104,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "bestia"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"bestia\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -164,14 +122,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "cognitio"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"cognitio\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -189,14 +140,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "corpus"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"corpus\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -214,14 +158,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "exanimis"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"exanimis\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -239,14 +176,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "fabrico"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"fabrico\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -264,14 +194,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "fames"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"fames\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -289,14 +212,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "gelum"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"gelum\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -314,14 +230,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "herba"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"herba\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -339,14 +248,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "humanus"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"humanus\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -364,14 +266,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "ignis"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"ignis\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -389,14 +284,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "instrumentum"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"instrumentum\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -414,14 +302,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "iter"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"iter\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -439,14 +320,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "limus"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"limus\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -464,14 +338,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "lucrum"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"lucrum\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -489,14 +356,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "lux"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"lux\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -514,14 +374,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "machina"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"machina\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -539,14 +392,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "messis"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"messis\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -564,14 +410,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "metallum"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"metallum\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -589,14 +428,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "meto"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"meto\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -614,14 +446,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "mortuus"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"mortuus\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -639,14 +464,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "motus"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"motus\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -664,14 +482,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "ordo"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"ordo\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -689,14 +500,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "pannus"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"pannus\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -714,14 +518,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "perditio"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"perditio\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -739,14 +536,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "perfodio"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"perfodio\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -764,14 +554,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "permutatio"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"permutatio\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -789,14 +572,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "potentia"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"potentia\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -814,14 +590,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "praecantatio"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"praecantatio\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -839,14 +608,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "sano"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"sano\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -864,14 +626,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "sensus"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"sensus\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -889,14 +644,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "spiritus"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"spiritus\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -914,14 +662,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "telum"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"telum\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -939,14 +680,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "tempestas"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"tempestas\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -964,14 +698,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "tenebrae"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"tenebrae\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -989,14 +716,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "terra"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"terra\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -1014,14 +734,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "tutamen"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"tutamen\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -1039,14 +752,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "vacuos"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"vacuos\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -1064,14 +770,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "venenum"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"venenum\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -1089,14 +788,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "victus"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"victus\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -1114,14 +806,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "vinculum"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"vinculum\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -1139,14 +824,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "vitium"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"vitium\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -1164,14 +842,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "vitreus"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"vitreus\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -1189,14 +860,7 @@
             "minecraft:attribute_modifiers": {
               "modifiers": []
             },
-            "minecraft:custom_data": {
-              "aspects": [
-                {
-                  "amount": 1,
-                  "key": "volatus"
-                }
-              ]
-            },
+            "minecraft:custom_data": "{aspects:[{amount:1,key:\"volatus\"}]}",
             "minecraft:enchantments": {
               "levels": {}
             },
@@ -1216,14 +880,7 @@
         "minecraft:attribute_modifiers": {
           "modifiers": []
         },
-        "minecraft:custom_data": {
-          "aspects": [
-            {
-              "amount": 8,
-              "key": "iter"
-            }
-          ]
-        },
+        "minecraft:custom_data": "{aspects:[{amount:8,key:\"iter\"}]}",
         "minecraft:enchantments": {
           "levels": {}
         },
@@ -1238,14 +895,7 @@
   ],
   "result": {
     "components": {
-      "minecraft:custom_data": {
-        "aspects": [
-          {
-            "amount": 1,
-            "key": "iter"
-          }
-        ]
-      }
+      "minecraft:custom_data": "{aspects:[{amount:1,key:\"iter\"}]}"
     },
     "count": 1,
     "id": "thaumcraft:jar_label"

@@ -2557,6 +2557,8 @@
   "command.tc.kami.research": "Исследование: %s (ключ: %s)",
   "command.tc.kami.research.unknown": "Неизвестно",
   "command.tc.kami.critical": "Исследование ихора не найдено.",
+  "ttmisc.bloodSword.activateEssentiaHarvest": "Сбор душ включён",
+  "ttmisc.bloodSword.deactivateEssentiaHarvest": "Сбор душ выключен",
   "command.tc.aspect.given": "§5%s дал вам %d всех аспектов.",
   "command.tc.aspect.given.one": "§5%s дал вам %d %s.",
   "command.tc.aspect.unknown": "§cАспект не существует.",

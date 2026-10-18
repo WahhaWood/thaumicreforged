@@ -255,6 +255,7 @@ public class Thaumcraft {
       NeoForge.EVENT_BUS.register(new ServerTickEventsFML());
       // KAMI-броня: обработчики урона/прыжков отдельных частей.
       NeoForge.EVENT_BUS.register(ModItems.ICHOR_GEM_LEGGINGS.get());
+      NeoForge.EVENT_BUS.register(ModItems.BLOOD_SWORD.get());
       ThaumcraftApi.registerScanEventhandler(new ScanManager());
       Config.save();
       setup.registerHandlers();

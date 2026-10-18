@@ -4,7 +4,7 @@ license="GPL-3.0-only"
 
 [[mods]]
 modId="thaumicenergistics"
-version="1.0.5.1"
+version="1.0.5.2"
 displayName="Thaumic Energistics"
 authors="Nividica (original Thaumic Energistics), WahhaWood (port)"
 description='''

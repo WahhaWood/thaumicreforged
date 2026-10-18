@@ -1,6 +1,7 @@
 package thaumicenergistics.research;
 
 import com.google.gson.JsonObject;
+import java.util.Arrays;
 import java.util.Set;
 import thaumicenergistics.ThaumicEnergistics;
 import net.minecraft.network.chat.MutableComponent;
@@ -8,6 +9,7 @@ import net.minecraft.util.GsonHelper;
 import net.minecraft.world.entity.player.Player;
 import org.jetbrains.annotations.Nullable;
 import thaumcraft.api.research.ResearchApi;
+import thaumcraft.api.research.ResearchCategoryList;
 import thaumcraft.api.research.ResearchItem;
 import thaumcraft.api.research.ResearchPage;
 
@@ -29,6 +31,15 @@ public class PseudoResearchItem extends ResearchItem {
             ThaumicEnergistics.LOGGER.warn("Pseudo research {} references missing target {}", this.key, this.pseudoFor);
          } else {
             this.original.addSibling(this.key);
+            // Siblings are not recursive: research that hands out the target as a
+            // sibling (golem_straw -> golem_core_gather) must hand out the pseudo too.
+            for (ResearchCategoryList category : ResearchApi.getResearchLists().values()) {
+               for (ResearchItem research : category.research.values()) {
+                  if (research.siblings != null && Arrays.asList(research.siblings).contains(this.pseudoFor)) {
+                     research.addSibling(this.key);
+                  }
+               }
+            }
          }
       }
    }

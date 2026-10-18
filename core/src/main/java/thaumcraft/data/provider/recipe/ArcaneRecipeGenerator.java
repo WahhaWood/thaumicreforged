@@ -411,7 +411,7 @@ public class ArcaneRecipeGenerator extends RecipeProvider {
          .pattern(" G ")
          .pattern("G  ")
          .define('S', (ItemLike)ModItems.PRIMAL_CHARM.get())
-         .define('G', (ItemLike)ModItems.OBSIDIAN_STAFF_ROD.get())
+         .define('G', (ItemLike)ModItems.OBSIDIAN_WAND_ROD.get())
          .save(consumer, Thaumcraft.location("arcane/obsidian_staff_rod"));
       wandRod = (ItemWandRod)ModItems.SILVERWOOD_STAFF_ROD.get();
       this.shaped("silverwood_staff_rod", wandRod)
@@ -511,18 +511,6 @@ public class ArcaneRecipeGenerator extends RecipeProvider {
          .define('C', (ItemLike)ModItems.BALANCED_SHARD.get())
          .define('E', (ItemLike)ModItems.BALANCED_SHARD.get())
          .save(consumer, Thaumcraft.location("arcane/focus_trade"));
-      // Пех — торговец: изумруд в центре, шарды земли и энтропии по углам.
-      this.shaped("focus_pech", (ItemLike)ModItems.FOCUS_PECH.get())
-         .aspect(Aspect.ENTROPY, 15)
-         .aspect(Aspect.EARTH, 15)
-         .pattern("CQE")
-         .pattern("Q#Q")
-         .pattern("CQE")
-         .define('#', Items.EMERALD)
-         .define('Q', Items.QUARTZ)
-         .define('C', (ItemLike)ModItems.EARTH_SHARD.get())
-         .define('E', (ItemLike)ModItems.ENTROPY_SHARD.get())
-         .save(consumer, Thaumcraft.location("arcane/focus_pech"));
       this.shaped("focus_excavation", (ItemLike)ModItems.FOCUS_EXCAVATION.get())
          .aspect(Aspect.EARTH, 20)
          .aspect(Aspect.ENTROPY, 5)

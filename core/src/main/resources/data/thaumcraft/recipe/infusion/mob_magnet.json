@@ -32,7 +32,7 @@
     }
   ],
   "instability": 4,
-  "research": "mob_magnet",
+  "research": "magnet",
   "result": {
     "count": 1,
     "id": "thaumcraft:mob_magnet"

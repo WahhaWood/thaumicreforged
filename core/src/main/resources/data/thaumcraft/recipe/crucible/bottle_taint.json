@@ -16,14 +16,7 @@
       "minecraft:attribute_modifiers": {
         "modifiers": []
       },
-      "minecraft:custom_data": {
-        "aspects": [
-          {
-            "amount": 8,
-            "key": "vitium"
-          }
-        ]
-      },
+      "minecraft:custom_data": "{aspects:[{amount:8,key:\"vitium\"}]}",
       "minecraft:enchantments": {
         "levels": {}
       },

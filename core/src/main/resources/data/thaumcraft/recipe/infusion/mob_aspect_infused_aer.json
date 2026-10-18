@@ -12,10 +12,7 @@
       "minecraft:attribute_modifiers": {
         "modifiers": []
       },
-      "minecraft:custom_data": {
-        "AspectNum": 2,
-        "Type": 1
-      },
+      "minecraft:custom_data": "{AspectNum:2,Type:1b}",
       "minecraft:enchantments": {
         "levels": {}
       },
@@ -34,10 +31,7 @@
         "minecraft:attribute_modifiers": {
           "modifiers": []
         },
-        "minecraft:custom_data": {
-          "AspectNum": 2,
-          "Type": 1
-        },
+        "minecraft:custom_data": "{AspectNum:2,Type:1b}",
         "minecraft:enchantments": {
           "levels": {}
         },
@@ -55,10 +49,7 @@
         "minecraft:attribute_modifiers": {
           "modifiers": []
         },
-        "minecraft:custom_data": {
-          "AspectNum": 2,
-          "Type": 1
-        },
+        "minecraft:custom_data": "{AspectNum:2,Type:1b}",
         "minecraft:enchantments": {
           "levels": {}
         },
@@ -76,10 +67,7 @@
         "minecraft:attribute_modifiers": {
           "modifiers": []
         },
-        "minecraft:custom_data": {
-          "AspectNum": 2,
-          "Type": 1
-        },
+        "minecraft:custom_data": "{AspectNum:2,Type:1b}",
         "minecraft:enchantments": {
           "levels": {}
         },
@@ -97,10 +85,7 @@
         "minecraft:attribute_modifiers": {
           "modifiers": []
         },
-        "minecraft:custom_data": {
-          "AspectNum": 2,
-          "Type": 1
-        },
+        "minecraft:custom_data": "{AspectNum:2,Type:1b}",
         "minecraft:enchantments": {
           "levels": {}
         },
@@ -118,10 +103,7 @@
         "minecraft:attribute_modifiers": {
           "modifiers": []
         },
-        "minecraft:custom_data": {
-          "AspectNum": 2,
-          "Type": 1
-        },
+        "minecraft:custom_data": "{AspectNum:2,Type:1b}",
         "minecraft:enchantments": {
           "levels": {}
         },
@@ -139,10 +121,7 @@
         "minecraft:attribute_modifiers": {
           "modifiers": []
         },
-        "minecraft:custom_data": {
-          "AspectNum": 2,
-          "Type": 1
-        },
+        "minecraft:custom_data": "{AspectNum:2,Type:1b}",
         "minecraft:enchantments": {
           "levels": {}
         },
@@ -160,10 +139,7 @@
         "minecraft:attribute_modifiers": {
           "modifiers": []
         },
-        "minecraft:custom_data": {
-          "AspectNum": 2,
-          "Type": 1
-        },
+        "minecraft:custom_data": "{AspectNum:2,Type:1b}",
         "minecraft:enchantments": {
           "levels": {}
         },
@@ -181,10 +157,7 @@
         "minecraft:attribute_modifiers": {
           "modifiers": []
         },
-        "minecraft:custom_data": {
-          "AspectNum": 2,
-          "Type": 1
-        },
+        "minecraft:custom_data": "{AspectNum:2,Type:1b}",
         "minecraft:enchantments": {
           "levels": {}
         },
@@ -201,10 +174,7 @@
   "research": "summon",
   "result": {
     "components": {
-      "minecraft:custom_data": {
-        "AspectNum": 2,
-        "Type": 2
-      }
+      "minecraft:custom_data": "{AspectNum:2,Type:2b}"
     },
     "count": 1,
     "id": "thaumcraft:mob_aspect"

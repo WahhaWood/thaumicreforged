@@ -1169,7 +1169,7 @@ public class InfusionRecipeGenerator extends RecipeProvider {
          }
       }
 
-      InfusionRecipeBuilder.infusion("mob_magnet", (ItemLike)ModItems.MOB_MAGNET.get())
+      InfusionRecipeBuilder.infusion("magnet", (ItemLike)ModItems.MOB_MAGNET.get())
          .aspect(Aspect.BEAST, 16)
          .aspect(Aspect.TRAVEL, 16)
          .aspect(Aspect.MOTION, 8)

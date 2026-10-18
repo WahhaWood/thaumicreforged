@@ -351,7 +351,7 @@ public class CrafingRecipeGenerator extends RecipeProvider {
       this.shaped((ItemLike)ModItems.OBSIDIAN_TILE.get(), 4)
          .pattern("##")
          .pattern("##")
-         .define('#', (ItemLike)ModItems.OBSIDIAN_TILE.get())
+         .define('#', Items.OBSIDIAN)
          .unlockedBy("has_obsidian", has(Items.OBSIDIAN))
          .save(consumer, Thaumcraft.location("shaped/obsidian_tile"));
       this.shaped((ItemLike)ModItems.GRATE.get())

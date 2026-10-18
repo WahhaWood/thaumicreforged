@@ -1168,16 +1168,6 @@ public class ResearchGenerator implements DataProvider {
          .pageDesc(1)
          .pageRecipe("arcane", "thaumcraft:arcane/focus_trade")
          .finish(consumer);
-      ResearchItemBuilder.research("focus_pech", category, 5, -4, (ItemLike)ModItems.FOCUS_PECH.get())
-         .tag(Aspect.EARTH, 3)
-         .tag(Aspect.EXCHANGE, 6)
-         .tag(Aspect.MAGIC, 3)
-         .complexity(2)
-         .concealed()
-         .parent("focus_trade")
-         .pageDesc(1)
-         .pageRecipe("arcane", "thaumcraft:arcane/focus_pech")
-         .finish(consumer);
       ResearchItemBuilder.research("focus_portable_hole", category, 7, -2, (ItemLike)ModItems.FOCUS_PORTABLE_HOLE.get())
          .tag(Aspect.TRAVEL, 3)
          .tag(Aspect.ENTROPY, 3)

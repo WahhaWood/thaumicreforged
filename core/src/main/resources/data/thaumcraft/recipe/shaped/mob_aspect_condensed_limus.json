@@ -8,10 +8,7 @@
         "minecraft:attribute_modifiers": {
           "modifiers": []
         },
-        "minecraft:custom_data": {
-          "AspectNum": 14,
-          "Type": 0
-        },
+        "minecraft:custom_data": "{AspectNum:14,Type:0b}",
         "minecraft:enchantments": {
           "levels": {}
         },
@@ -31,10 +28,7 @@
   ],
   "result": {
     "components": {
-      "minecraft:custom_data": {
-        "AspectNum": 14,
-        "Type": 1
-      }
+      "minecraft:custom_data": "{AspectNum:14,Type:1b}"
     },
     "count": 1,
     "id": "thaumcraft:mob_aspect"

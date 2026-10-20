@@ -2,7 +2,7 @@
 
 # Thaumic Reforged
 
-**A port of Thaumcraft 4 to Minecraft 1.21.1 / NeoForge, with the Thaumic Energistics addon.**
+**Порт Thaumcraft 4 на Minecraft 1.21.1 / NeoForge вместе с дополнением Thaumic Energistics.**
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A)
 ![NeoForge](https://img.shields.io/badge/NeoForge-21.1-E68C2D)
@@ -11,53 +11,52 @@
 
 </div>
 
-The classic arcane magic of Thaumcraft 4, rebuilt for modern Minecraft: study the world through aspects,
-research new knowledge, brew in crucibles, infuse items on runic matrices, build golems and pay the price
-in warp.
+Классическая тайная магия Thaumcraft 4 на современном Minecraft: изучайте мир через аспекты,
+исследуйте новые знания, варите в тиглях, заряжайте предметы на рунной матрице, стройте големов
+и платите за это порчей (warp).
 
-## Modules
+## Модули
 
-| Module | Mod id | What it is |
+| Модуль | Id мода | Что это |
 | --- | --- | --- |
-| `core/` | `thaumcraft` | Thaumcraft 4: aspects, research, infusion, alchemy, golems, warp, the Eldritch dimension |
-| `addons/thaumicenergistics/` | `thaumicenergistics` | Bridge between Thaumcraft and Applied Energistics 2 |
+| `core/` | `thaumcraft` | Thaumcraft 4: аспекты, исследования, инфузия, алхимия, големы, warp, измерение Эльдрич |
+| `addons/thaumicenergistics/` | `thaumicenergistics` | Мост между Thaumcraft и Applied Energistics 2 |
 
-## Highlights
+## Главное
 
-- **Aspects and research.** Scan things, combine aspects in the research table and unlock the tech tree
-  through gated discoveries.
-- **Alchemy and infusion.** Crucible, alchemical furnace, thaumatorium, arcane alembic, runic matrix with
-  infusion pillars.
-- **Wands and nodes.** Wand recharge pedestals, vis relays, node stabilizers, transducers and the flux scrubber.
-- **Arcane workshop.** Arcane bore, lamps of growth and fertility, bellows, pedestals and the warp gate.
-- **Golems and constructs.** Alchemical constructs and their advanced versions.
-- **Warp and the Eldritch dimension.** Danger, reward and a Crimson Cult to face.
-- **Greatwood and Silverwood** trees with a full wood set.
-- **Thaumic Energistics.** Store and move essentia through ME networks.
+- **Аспекты и исследования.** Сканируйте предметы, сочетайте аспекты в столе исследований и открывайте дерево
+  технологий через закрытые открытия.
+- **Алхимия и инфузия.** Тигель, алхимическая печь, таумиторий, тайный перегонный куб, рунная матрица со столбами инфузии.
+- **Жезлы и узлы.** Постаменты подзарядки жезла, реле виса, стабилизаторы и трансдьюсеры узлов, очиститель флюкса.
+- **Тайная мастерская.** Тайный бур, лампы роста и плодородия, мехи, постаменты и врата варпа.
+- **Големы и конструкты.** Алхимические конструкты и их улучшенные версии.
+- **Warp и измерение Эльдрич.** Опасность, награда и Багровый культ.
+- **Великое дерево и Серебряное дерево** с полным набором древесины.
+- **Thaumic Energistics.** Хранение и передача эссенции через ME-сети.
 
-## Building
+## Сборка
 
-Java 21 is required.
+Нужна Java 21.
 
 ```sh
-cd core && ./gradlew build              # core/build/libs/thaumcraft-<version>.jar
+cd core && ./gradlew build              # core/build/libs/thaumcraft-<версия>.jar
 ```
 
-The addon compiles against the core jar:
+Дополнение собирается против jar ядра:
 
 ```sh
-cp core/build/libs/thaumcraft-<version>.jar addons/thaumicenergistics/libs/thaumcraft.jar
+cp core/build/libs/thaumcraft-<версия>.jar addons/thaumicenergistics/libs/thaumcraft.jar
 cd addons/thaumicenergistics && ./gradlew build
 ```
 
-## Credits
+## Благодарности
 
-- **Thaumcraft** was created by **Azanor**.
-- **Thaumic Energistics** was created by **Nividica**.
+- **Thaumcraft** создал **Azanor**.
+- **Thaumic Energistics** создал **Nividica**.
 
-This is an unofficial port, not affiliated with or endorsed by the original authors.
-Thaumcraft and Thaumic Energistics are names of their respective authors.
+Это неофициальный порт, он не связан с оригинальными авторами и не одобрен ими.
+Thaumcraft и Thaumic Energistics — названия их авторов.
 
-## License
+## Лицензия
 
-The code in this repository is licensed under the [GNU General Public License v3.0](LICENSE).
+Код репозитория распространяется по лицензии [GNU General Public License v3.0](LICENSE).

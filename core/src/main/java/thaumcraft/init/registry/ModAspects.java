@@ -26,6 +26,7 @@ public class ModAspects {
 
    public static void init() {
       registerItemAspects();
+      thaumcraft.compat.ModItemAspects.register();
       registerEntityAspects();
    }
 

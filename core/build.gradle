@@ -77,6 +77,8 @@ neoForge {
         gameTestServer {
             type = "gameTestServer"
             systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
+            // -PgameTestDir=run-gametest: a game dir whose mods/ holds other mods for the integration tests
+            gameDirectory = project.file(findProperty('gameTestDir') ?: 'run')
         }
 
         data {

@@ -34,6 +34,12 @@
 - **Великое дерево и Серебряное дерево** с полным набором древесины.
 - **Thaumic Energistics.** Хранение и передача эссенции через ME-сети.
 
+## Интеграции
+
+Все необязательные. Предметы других модов получают аспекты: металлы по общим тегам (`c:ingots/nickel`,
+`c:ores/uranium` и так далее), предметы IndustrialReforged, Botania и Applied Energistics 2 по id. Тигель делает
+кластеры олова и свинца с IndustrialReforged или Mekanism, кластеры серебра с IndustrialReforged.
+
 ## Сборка
 
 Нужна Java 21.

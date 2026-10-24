@@ -189,33 +189,41 @@ public class ArcaneAssemblerBlockEntity extends AENetworkedInvBlockEntity implem
       return (int)Math.ceil((double)(this.getDiscount(aspect) * (float)(amount * 10)));
    }
 
-   private KeyCounter collectProducedStacks() {
-      KeyCounter produced = new KeyCounter();
-      if (this.currentPattern != null) {
-         for (GenericStack output : this.currentPattern.getOutputs()) {
-            produced.add(output.what(), output.amount());
-         }
-
-         for (IInput input : this.currentPattern.getInputs()) {
-            GenericStack[] possibleInputs = input.getPossibleInputs();
-            if (possibleInputs.length != 0) {
-               AEKey stack = possibleInputs[0].what();
-               if (stack instanceof AEItemKey) {
-                  AEItemKey itemKey = (AEItemKey)stack;
-                  ItemStack stackx = itemKey.toStack(1);
-                  if (stackx.getItem().hasCraftingRemainingItem(stackx)) {
-                     ItemStack remainder = stackx.getCraftingRemainingItem();
-                     AEItemKey remainderKey = AEItemKey.of(remainder);
-                     if (remainderKey != null) {
-                        produced.add(remainderKey, input.getMultiplier());
-                     }
-                  }
-               }
-            }
-         }
+   /** Returns empty containers (buckets, bottles...) of the consumed inputs to the ME network, or drops them. */
+   private void returnContainerRemainders() {
+      if (this.currentPattern == null || this.level == null) {
+         return;
       }
 
-      return produced;
+      IGrid grid = this.getMainNode().getGrid();
+      for (IInput input : this.currentPattern.getInputs()) {
+         GenericStack[] possibleInputs = input.getPossibleInputs();
+         if (possibleInputs.length == 0 || !(possibleInputs[0].what() instanceof AEItemKey itemKey)) {
+            continue;
+         }
+
+         ItemStack consumed = itemKey.toStack(1);
+         if (!consumed.getItem().hasCraftingRemainingItem(consumed)) {
+            continue;
+         }
+
+         ItemStack remainder = consumed.getCraftingRemainingItem();
+         AEItemKey remainderKey = AEItemKey.of(remainder);
+         if (remainderKey == null) {
+            continue;
+         }
+
+         long left = (long)remainder.getCount() * input.getMultiplier();
+         if (grid != null) {
+            left -= grid.getStorageService().getInventory().insert(remainderKey, left, Actionable.MODULATE, this.mySource);
+         }
+
+         while (left > 0L) {
+            int n = (int)Math.min(left, (long)remainder.getMaxStackSize());
+            net.minecraft.world.level.block.Block.popResource(this.level, this.worldPosition, remainderKey.toStack(n));
+            left -= n;
+         }
+      }
    }
 
    public int ticksPerCraft() {
@@ -430,11 +438,9 @@ public class ArcaneAssemblerBlockEntity extends AENetworkedInvBlockEntity implem
                long modInserted = storage.insert(output.what(), output.amount(), Actionable.MODULATE, be.mySource);
                completed = modInserted >= output.amount();
             }
-         } else {
-            completed = true;
          }
       } catch (Exception ignored) {
-         completed = true;
+         // keep the result and retry on the next tick instead of losing it
       }
 
       if (!completed) {
@@ -444,6 +450,7 @@ public class ArcaneAssemblerBlockEntity extends AENetworkedInvBlockEntity implem
 
       be.isCrafting = false;
       be.craftTickCounter = 0;
+      be.returnContainerRemainders();
       be.currentPattern = null;
       be.craftingInventory.setItemDirect(0, ItemStack.EMPTY);
       if (level instanceof net.minecraft.server.level.ServerLevel) {

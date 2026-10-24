@@ -194,11 +194,9 @@ public class CrucibleAssemblerBlockEntity extends AENetworkedInvBlockEntity impl
                long modInserted = storage.insert(output.what(), output.amount(), Actionable.MODULATE, be.mySource);
                completed = modInserted >= output.amount();
             }
-         } else {
-            completed = true;
          }
       } catch (Exception ignored) {
-         completed = true;
+         // keep the result and retry on the next tick instead of losing it
       }
 
       if (!completed) {

@@ -22,7 +22,15 @@ public class InfusionProviderBlockEntity extends ProviderBaseBlockEntity impleme
    }
 
    public AspectList getAspects() {
-      return new AspectList();
+      AspectList list = new AspectList();
+      for (Aspect aspect : Aspect.aspects.values()) {
+         int amount = this.containerContains(aspect);
+         if (amount > 0) {
+            list.add(aspect, amount);
+         }
+      }
+
+      return list;
    }
 
    public void setAspects(AspectList aspects) {
@@ -57,7 +65,7 @@ public class InfusionProviderBlockEntity extends ProviderBaseBlockEntity impleme
    }
 
    public boolean doesContainerContainAmount(Aspect aspect, int amount) {
-      return false;
+      return this.containerContains(aspect) >= amount;
    }
 
    @Deprecated
@@ -66,7 +74,7 @@ public class InfusionProviderBlockEntity extends ProviderBaseBlockEntity impleme
    }
 
    public int containerContains(Aspect aspect) {
-      return 0;
+      return (int)Math.min(this.getAspectAmountInNetwork(aspect), 2147483647L);
    }
 
    private void spawnRuneParticles(int aspectColor) {

@@ -330,7 +330,7 @@ public class EntityGolemBase extends AbstractGolem implements IEntityWithComplex
       this.updateDecorationsFromMask(mask);
    }
 
-   int getDecorationMask() {
+   public int getDecorationMask() {
       return (Integer)this.entityData.get(DATA_DECORATION_MASK);
    }
 

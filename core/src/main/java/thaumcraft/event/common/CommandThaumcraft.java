@@ -29,6 +29,9 @@ import thaumcraft.api.research.ResearchItem;
 import thaumcraft.network.PacketHandler;
 import thaumcraft.network.playerdata.PacketSyncAspects;
 import thaumcraft.network.playerdata.PacketSyncResearch;
+import thaumcraft.network.playerdata.PacketSyncScannedEntities;
+import thaumcraft.network.playerdata.PacketSyncScannedItems;
+import thaumcraft.network.playerdata.PacketSyncScannedPhenomena;
 import thaumcraft.network.playerdata.PacketSyncWarp;
 import thaumcraft.network.playerdata.PacketWarpMessage;
 import thaumcraft.research.PlayerKnowledge;
@@ -222,8 +225,59 @@ public class CommandThaumcraft {
                   )
             )
       );
+      commandNode.addChild(buildReset().build());
       dispatcher.register((LiteralArgumentBuilder)Commands.literal("tc").redirect(commandNode));
       dispatcher.register((LiteralArgumentBuilder)Commands.literal("thaum").redirect(commandNode));
+   }
+
+   private static LiteralArgumentBuilder<CommandSourceStack> buildReset() {
+      RequiredArgumentBuilder<CommandSourceStack, ?> player = Commands.argument("player", EntityArgument.player())
+         .executes(context -> resetScope(context, "all"));
+      for (String scope : List.of("all", "research", "aspects", "scans", "warp")) {
+         player.then(Commands.literal(scope).executes(context -> resetScope(context, scope)));
+      }
+
+      return Commands.literal("reset").requires(source -> source.hasPermission(4)).then(player);
+   }
+
+   private static int resetScope(CommandContext<CommandSourceStack> context, String scope) throws CommandSyntaxException {
+      CommandSourceStack source = context.getSource();
+      ServerPlayer target = EntityArgument.getPlayer(context, "player");
+      PlayerKnowledge knowledge = PlayerKnowledge.of(target);
+      boolean all = scope.equals("all");
+      if (all || scope.equals("research")) {
+         knowledge.getResearchCompleted().clear();
+      }
+
+      if (all || scope.equals("aspects")) {
+         knowledge.getAspectsDiscovered().aspects.clear();
+      }
+
+      if (all || scope.equals("scans")) {
+         knowledge.getObjectsScanned().clear();
+         knowledge.getEntitiesScanned().clear();
+         knowledge.getPhenomenaScanned().clear();
+      }
+
+      if (all || scope.equals("warp")) {
+         knowledge.setWarpPerm(0);
+         knowledge.setWarpTemp(0);
+         knowledge.setWarpSticky(0);
+         knowledge.setWarpCounter(0);
+      }
+
+      // re-grant auto-unlocked research, primal aspects and hooks, as on a fresh login
+      knowledge.refreshProgressionState();
+      PacketHandler.sendTo(new PacketSyncResearch(target), target);
+      PacketHandler.sendTo(new PacketSyncAspects(target), target);
+      PacketHandler.sendTo(new PacketSyncScannedItems(target), target);
+      PacketHandler.sendTo(new PacketSyncScannedEntities(target), target);
+      PacketHandler.sendTo(new PacketSyncScannedPhenomena(target), target);
+      PacketHandler.sendTo(new PacketSyncWarp(target, (byte)0), target);
+      PacketHandler.sendTo(new PacketSyncWarp(target, (byte)1), target);
+      PacketHandler.sendTo(new PacketSyncWarp(target, (byte)2), target);
+      send(source, "Thaumcraft progress reset (" + scope + ") for " + target.getGameProfile().getName());
+      return 1;
    }
 
    private static int isKamiUnlocked(CommandSourceStack source) throws CommandSyntaxException {

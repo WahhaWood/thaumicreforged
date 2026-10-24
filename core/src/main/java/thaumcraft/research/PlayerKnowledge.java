@@ -50,6 +50,7 @@ public class PlayerKnowledge implements INBTSerializable<CompoundTag> {
       this.entitiesScanned.clear();
       this.phenomenaScanned.clear();
       this.warp = 0;
+      this.warpCount = 0;
       this.warpTemp = 0;
       this.warpSticky = 0;
    }

@@ -40,8 +40,11 @@ import net.minecraft.world.phys.HitResult.Type;
 import org.jetbrains.annotations.Nullable;
 import thaumcraft.entities.smart.golem.EntityGolemBase;
 import thaumcraft.entities.smart.golem.Marker;
+import thaumcraft.entities.smart.golem.hook.GolemHooks;
+import thaumcraft.item.golem_placer.ItemGolemPlacer;
 import thaumcraft.entities.smart.travelling_trunk.EntityTravelingTrunk;
 import thaumcraft.init.registry.ModItems;
+import thaumcraft.item.golem_core.GolemCore;
 import thaumcraft.item.golem_upgrade.GolemUpgrade;
 import thaumcraft.item.golem_upgrade.ItemGolemUpgrade;
 import thaumcraft.util.ItemStackData;
@@ -340,6 +343,49 @@ public class ItemGolemBell extends Item {
          spawnExplosionParticle(entity);
          return false;
       } else {
+         if (player != null && !golem.getOwnerName().isEmpty() && !golem.getOwnerName().equals(player.getGameProfile().getName())) {
+            return true;
+         }
+
+         boolean dismantling = player != null && player.isShiftKeyDown();
+         ItemStack dropped = new ItemStack(ItemGolemPlacer.getItemForType(golem.getGolemType()));
+         if (dismantling) {
+            if (golem.getCore() != GolemCore.BLANK) {
+               entity.spawnAtLocation(new ItemStack(golem.getCoreItem(golem.getCore())), 0.5F);
+            }
+
+            for (byte upgrade : golem.getUpgradesSnapshot()) {
+               if (upgrade > -1 && upgrade < GolemUpgrade.values().length) {
+                  dropUpgrade(entity, GolemUpgrade.values()[upgrade]);
+               }
+            }
+
+            golem.getInventory().dropAllItems(golem);
+         } else {
+            CompoundTag t = ItemStackData.getOrCreateTag(dropped);
+            t.putBoolean("advanced", golem.advanced);
+            if (golem.getCore() != GolemCore.BLANK) {
+               t.putByte("core", (byte)golem.getCore().ordinal());
+            }
+
+            t.putByteArray("upgrades", golem.getUpgradesSnapshot());
+            t.putInt("DecorationMask", golem.getDecorationMask());
+            t.put("markers", saveMarkersToList(golem.getMarkers()));
+            t.put("Inventory", golem.getInventory().writeToNBT(new ListTag()));
+            if (golem.hasCustomName()) {
+               dropped.set(DataComponents.CUSTOM_NAME, golem.getCustomName());
+            }
+         }
+
+         if (!golem.itemCarried.isEmpty()) {
+            entity.spawnAtLocation(golem.itemCarried.copy(), 0.5F);
+            golem.itemCarried = ItemStack.EMPTY;
+         }
+
+         GolemHooks.hook_Bell_OnLeftClickGolem(golem, dropped, player, golem.hookHandlerData);
+         entity.spawnAtLocation(dropped, 0.5F);
+         playZapSound(entity.level(), entity.blockPosition());
+         entity.discard();
          return true;
       }
    }
